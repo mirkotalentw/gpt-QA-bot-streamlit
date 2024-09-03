@@ -144,10 +144,10 @@ def display_main_app():
     # Display chat history
     if st.session_state.history:
         for i, (query, response) in enumerate(st.session_state.history):
-            html = inline_icon_text(user_icon_url, "You: ", "#fff")
+            html = inline_icon_text(user_icon_url, "You: ", "transparent")
             st.markdown(html, unsafe_allow_html=True)
             st.write(query)
-            html = inline_icon_text(assistant_icon_url, f"Assistant: ", "#fff")
+            html = inline_icon_text(assistant_icon_url, f"Assistant: ", "transparent")
             st.markdown(html, unsafe_allow_html=True) 
             st.write(response)  
             st.write("---")         
