@@ -25,7 +25,6 @@ PINECONE_ENVIRONMENT = os.getenv('PINECONE_ENVIRONMENT')
 assistant_icon_url = "https://cdn-icons-png.flaticon.com/512/7966/7966941.png"
 user_icon_url = "https://cdn-icons-png.flaticon.com/512/2503/2503707.png"
 
-
 def inline_icon_text(
         icon_url: str,
         text: str,
@@ -52,12 +51,9 @@ def inline_icon_text(
         <h2>{text}</h2>
     </div>
     """
-    
-    
 
 if 'logged_in' not in st.session_state:
     st.session_state['logged_in'] = False
-    
 
 def check_credentials(username, password):
     # Fetch the password from environment variables
@@ -107,10 +103,6 @@ llm = OpenAI(openai_api_key=OPENAI_API_KEY)
 
 # Load the QA chain
 qa_chain = load_qa_chain(llm, chain_type="map_reduce")
-      
-        
-             
-        
 
 def display_main_app():
     # Streamlit app title
@@ -123,10 +115,15 @@ def display_main_app():
     if "history" not in st.session_state:
         st.session_state.history = []
 
-    # User input
-    user_query = st.text_input("You:", "")
+    # Create a container for chat history
+    chat_container = st.container()
 
-    if user_query:
+    # Create a form for user input at the bottom
+    with st.form(key='user_input_form', clear_on_submit=True):
+        user_query = st.text_input("You:", "")
+        submit_button = st.form_submit_button("Send")
+
+    if submit_button and user_query:
         # Perform a similarity search in the vectorstore
         related_docs = vectorstore.similarity_search(query=user_query, k=5)
 
@@ -141,8 +138,8 @@ def display_main_app():
         # Append user query and bot response to the chat history
         st.session_state.history.append((user_query, bot_response))
 
-    # Display chat history
-    if st.session_state.history:
+    # Display chat history in the container
+    with chat_container:
         for i, (query, response) in enumerate(st.session_state.history):
             html = inline_icon_text(user_icon_url, "You: ", "transparent")
             st.markdown(html, unsafe_allow_html=True)
@@ -151,10 +148,7 @@ def display_main_app():
             st.markdown(html, unsafe_allow_html=True) 
             st.write(response)  
             st.write("---")         
-            
 
-                
- 
 # Decide which part of the app to display based on login status
 if not st.session_state['logged_in']:
     display_login_form()
