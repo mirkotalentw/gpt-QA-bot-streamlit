@@ -125,9 +125,10 @@ def display_main_app():
 
     if submit_button and user_query:
         # Perform a similarity search in the vectorstore
-        related_docs = vectorstore.similarity_search(query=user_query, k=5)
+        related_docs = vectorstore.similarity_search(query=user_query, k=3)
 
         # If there are no relevant documents, provide a default response
+        print(related_docs)
         if not related_docs:
             bot_response = "Sorry, I couldn't find any relevant documents related to your question."
         else:
