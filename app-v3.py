@@ -72,7 +72,8 @@ def initialize_qa_system() -> RetrievalQA:
     return RetrievalQA.from_chain_type(
         llm=llm,
         chain_type="stuff",
-        retriever=vectorstore.as_retriever(search_kwargs={"k": 5})
+        retriever=vectorstore.as_retriever(search_kwargs={"k": 5}),
+        return_source_documents=True
     )
 
 def display_chat_history(history: List[Tuple[str, str]]):
@@ -101,7 +102,17 @@ def display_main_app():
 
     if submit_button and user_query:
         with st.spinner("Thinking..."):
-            bot_response = st.session_state.qa_chain.run(user_query)
+            result = st.session_state.qa_chain(user_query)  # Changed to capture the full result
+            bot_response = result['result']  # Extract the response
+            source_docs = result['source_documents']  # Extract the source documents
+            
+            # Display source documents in an expander
+            with st.expander("View Source Documents"):
+                for i, doc in enumerate(source_docs, 1):
+                    st.markdown(f"**Document {i}:**")
+                    st.write(doc.page_content)
+                    st.markdown("---")
+            
             st.session_state.history.append((user_query, bot_response))
 
     with chat_container:
