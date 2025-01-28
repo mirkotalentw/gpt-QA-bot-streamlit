@@ -72,7 +72,7 @@ def initialize_qa_system() -> RetrievalQA:
     return RetrievalQA.from_chain_type(
         llm=llm,
         chain_type="stuff",
-        retriever=vectorstore.as_retriever()
+        retriever=vectorstore.as_retriever(search_kwargs={"k": 5})
     )
 
 def display_chat_history(history: List[Tuple[str, str]]):
