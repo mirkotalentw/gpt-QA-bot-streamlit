@@ -1,0 +1,30 @@
+Displays projects or tasks classified as completed. We don’t have tasks
+A1.3.5 Show only mine
+This function displays only projects created by the user.
+A1.3.6 Export as .CSV
+This function allows exporting candidates and their respective statuses in a tabular .CSV format.
+A1.3.7 Add to Favorite Projects with Star Icon
+The star icon lets users mark projects as "Favorite," making them quickly accessible under the 
+"Favorite Projects" section. Section on navigation bar (missing location info u description)
+A2 Talentpools
+Talent pools are collections of candidates grouped by specific criteria. These candidates may 
+not be immediately available or suitable for a current position but could be relevant for future 
+roles or projects. Talentpools aim to build a structured and well-organized database of potential 
+talents that can be reached out to anytime.
+A2.1 Talentpools Overview
+The Talent Pool Overview in the Talentwunder app offers a structured display of all created 
+talent pools. Additionally, the top-right corner provides an option to create a new talentpool, 
+simplifying the addition and management of new talentpools. ???this sentence is confusing The 
+overview helps efficiently manage talentpools and access relevant information and candidate 
+profiles quickly.
+A2.1.1 Sort by Name
+Sorts the talentpool list alphabetically by the names of candidates or talentpools for easier 
+navigation and access. by the name of candidates???
+A2.1.2 Team Members
+Displays the number and details of candidates saved in a particular talent pool. This provides 
+insights into the size and composition of each talent pool. - This is incorrect, its team members 
+and not candidates.
+A2.1.3 Sort by Creation Date
+Orders talent pools chronologically by their creation date, making it easy to identify new or older 
+pools.
+A2.1.4 Sort by Update Date

@@ -1,0 +1,36 @@
+oDelete: Remove the state entirely.
+Success State Setting:
+oThe Set as Success State  option is critical for defining which state represents 
+the final stage of the recruitment process (e.g., "Hired").
+oThis setting is used later for generating recruitment statistics, including time-to-
+hire and conversion rates.
+Filter options
+The Filter option in the Candidate Board allows users to refine their view of candidates 
+by applying various criteria. This tool is essential for narrowing down the list of 
+candidates to match specific requirements, enabling more efficient candidate 
+management. The filter is accessible via the Filter Icon located at the top of the 
+Candidate Board interface.
+Key Filter Options:
+1.Job Title:
+a.Filter candidates based on the job title they are being considered for.
+2.Name:
+a.Search for specific candidates by their names.
+3.Skills:
+a.Filter candidates who possess specific skills.
+4.Location:
+a.Filter candidates based on their geographical location.
+5.Industry:
+a.Narrow down candidates by their industry of expertise.
+6.Years Working:
+a.Set a range (e.g., "From X years to Y years") to filter candidates based on 
+their work experience.
+7.Networks:
+a.Choose specific networks (e.g., LinkedIn, Xing) to filter candidates.
+8.Language:
+a.Add languages to filter candidates who meet specific language 
+requirements.
+9.Company-Specific Filters :
+a.Works At: Filter candidates currently employed at a specific company.
+b.Does Not Work At : Exclude candidates employed at certain companies.
+c.Previously At: Filter candidates based on their past employment at a 
+specific company.

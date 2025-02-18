@@ -1,0 +1,24 @@
+Same as above for the third header image.
+C1.9.4 Design
+C1.9.4.1 Upload Logo
+Upload a logo or drag and drop it.
+C1.9.4.2 Video Link (YouTube or Vimeo)
+Insert a video link for the ad.
+C1.9.4.3 Title and CTA Color
+Set the color for the title and call-to-action.
+C1.9.4.4 Background Color
+Choose a background color.
+C1.9.4.5 Upload Background Image
+Add a background image via upload or drag and drop.
+C1.9.4.6 URL/Email
+Specify a URL or email for applications.
+C1.9.4.7 Apply Button Text
+Customize the wording for the apply button.
+C1.9.4.8 Apply Button URL
+Add a URL for the apply button redirect.
+C1.9.5 Details
+C1.9.5.1 Project
+Link the ad to a project.
+C1.9.5.2 Job Title
+Add the job title.
+C1.9.5.3 Company Name

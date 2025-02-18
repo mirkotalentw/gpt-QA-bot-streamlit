@@ -1,0 +1,35 @@
+Seniority:
+Specifies the required experience level for the job, such as junior, mid-level, or senior.
+Field of Activity :
+Categorizes the job’s functional area or domain, such as logistics, development, or 
+operations.
+Job Type:
+Defines the nature of the job, such as full-time, part-time, or remote.
+Sourced Profiles :
+Displays all candidates that are in the first step of the recruiting process. Here users can 
+see all of the incoming (freshly added) candidates to the project. The ones that made it 
+into the longlist and need more attention.  Each entry includes:
+oCandidate’s name.
+oCurrent professional role.
+oSource or platform from which the profile was retrieved.
+Comments:
+A collaborative space where team members can leave notes or discuss aspects related to 
+the job’s requirements and progress.
+Profile Recommendations :
+Provides a curated list of recommended profiles aligned with the job’s criteria. Each 
+recommendation includes:
+oCandidate’s name and role.
+oLocation and employer.
+oSource platform of the candidate profile.
+Saved Searches :
+Enables users to save specific search criteria for future use, making sourcing more 
+efficient.
+Notifications:
+Displays real-time updates and changes related to the job, such as:
+oStatus updates.
+oChanges to job details.
+oAddition or removal of project members.
+1.3.3 Edit Field (Blue Pencil icon)
+Click the blue pencil to edit project or job information. Only Project owner can edit the project 
+details.
+1.4 Candidate Board

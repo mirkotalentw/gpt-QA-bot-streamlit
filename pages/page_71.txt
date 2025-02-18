@@ -1,0 +1,25 @@
+The Language filter enables recruiters to search for candidates based on their language 
+proficiency, ensuring effective communication capabilities for specific roles and 
+international positions.
+B1.2.3.4.1 Enter Language
+A dynamic language selection tool that allows precise filtering of candidates based on their 
+language skills:
+B1.2.3.4.2 Pro Tip
+Expert guidance for optimal language filtering:
+Strategic Language Requirements
+Only specify languages that are genuinely needed for the role
+Consider the difference between daily working languages and occasional use
+Account for team and client communication needs
+Balance language requirements with other qualifications
+B1.2.3.5 Company
+The Company filter provides advanced options to search for candidates based on their 
+current and previous employment history, enabling targeted sourcing and competitor 
+analysis.
+B1.2.3.5.1 Works At (Enter Company)
+Search for candidates currently employed at specific organizations.
+B1.2.3.5.2 Does Not Work At (Enter Company)
+Exclude candidates from specific companies
+B1.2.3.5.3 Previously At (Enter Company)
+Target candidates with experience at specific organizations
+B1.2.3.5.4 Previously Not At (Enter Company)
+Exclude candidates with specific previous employer history

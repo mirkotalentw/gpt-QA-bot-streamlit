@@ -1,0 +1,27 @@
+B1.2.3.6.1 Female
+Enables diversity-focused recruiting and supports gender balance initiatives in the workplace.
+B1.2.3.6.2 Male
+Supports balanced hiring practices and specific program requirements.
+B1.2.3.6.3 Consultant
+Identifies professionals with consulting background, advisory experience, and client-facing 
+expertise.
+B1.2.3.6.4 Freelancer
+Targets independent contractors and self-employed professionals with flexible working 
+arrangements.
+B1.2.3.6.5 Executive
+Focuses on individuals with management experience and strategic leadership positions.
+B1.2.3.6.6 Student 
+Identifies current students, recent graduates, and those in academic programs.
+B1.2.3.6.7 Scientist
+Targets professionals in research, academic, and scientific fields.
+B1.2.3.7 Person is not
+This exclusion filter helps refine searches by removing specific professional categories.
+B1.2.3.7.1 Consultant
+Excludes advisory roles to focus on in-house positions and direct industry experience.
+B1.2.3.7.2 Freelancer
+Focuses on candidates seeking traditional, permanent employment arrangements.
+B1.2.3.7.3 Executive
+Targets individual contributors and operational roles rather than management positions.
+B1.2.3.7.4 Recruiter
+Excludes HR and recruitment professionals to maintain search relevance for other roles.
+B1.2.3.7.5 Student

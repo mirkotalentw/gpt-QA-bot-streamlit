@@ -1,0 +1,29 @@
+This feature allows filtering user activities for specific time periods. Admins can identify trends, 
+analyze activity patterns, and compare recruitment effectiveness across different timeframes.
+This is also a bit out there..
+A3.2.1.1 Last 30 Days
+Displays user activities from the past 30 days for analyzing recent trends and recruitment 
+patterns.
+A3.2.1.2 Last 60 Days
+Provides insights into activities over the last 60 days, offering a medium-term perspective on 
+app usage.
+A3.2.1.3 Last 90 Days
+Allows analysis of user activities over the last 90 days, helping identify longer-term trends and 
+patterns.
+A3.2.1.4 Custom Timeframe
+Lets users select a specific time period for analyzing activities, enabling targeted evaluations of 
+particular phases.
+A3.2.2 Export as .CSV
+This function enables downloading analytics results as a .CSV file for external storage, further 
+processing, or reporting purposes.
+A4 Project Templates
+The project template feature in the Talentwunder app simplifies and standardizes recurring 
+recruitment processes. With project templates, users can create pre-designed workflows that 
+outline the entire recruitment process for candidates. Each template can be customized to meet 
+specific project requirements.
+Templates can define various statuses that reflect the progress of candidates in the recruitment 
+process, such as "Selected," "Contacted," "Rejected," or "Accepted." These statuses provide a 
+clear structure and facilitate tracking candidate phases. - we should explain this better and have  
+something like its best to setup one universal template that will be used across projects.
+A4.1 Project Template Functions
+Includes the main functions for managing and creating project templates. - not sure what is this?

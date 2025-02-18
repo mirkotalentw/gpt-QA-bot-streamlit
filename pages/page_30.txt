@@ -1,0 +1,24 @@
+Set the city and search radius.
+B1.1.4 Country
+Define the country for the search.
+B1.2 Smart Search Features
+B1.2.1 Networks (F)
+Manage and reset networks for the search. needs more explanation/tips
+B1.2.1.1 Reset Networks
+Clear the selected networks.
+B1.2.1.2 Business
+Select networks in the business category. needs more explanation/tips
+B1.2.1.2.1 Business All
+Select all networks under the business category. needs more explanation/tips
+B1.2.1.2.2 Golden Line
+Search within the Golden Line network. needs more explanation/tips
+B1.2.1.2.3 Hosco
+Search within the Hosco network. needs more explanation/tips
+B1.2.1.2.4 LinkedIn
+Search within LinkedIn. needs more explanation/tips
+B1.2.1.2.5 Viadeo
+Search within Viadeo. needs more explanation/tips
+B1.2.1.2.6 Wellfound
+Search within Wellfound. needs more explanation/tips
+B1.2.1.2.7 Xing
+Search within Xing. needs more explanation/tips

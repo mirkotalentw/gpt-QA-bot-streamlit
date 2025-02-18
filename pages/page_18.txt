@@ -1,0 +1,27 @@
+2.Customizable Data Extraction :
+a.The ability to select only relevant data columns ensures that users export 
+precisely what they need without unnecessary information.
+3.Export Format:
+a.Data is exported in CSV format, which can be opened and manipulated in 
+tools like Excel or Google Sheets.
+A1.3.1.1.4 Sourced Profiles
+Displays all candidates that are in the first step of the recruiting process. Here users can see all 
+of the incoming (freshly added) candidates to the project. The ones that made it into the longlist 
+and need more attention.
+A1.3.1.2 Candidate Overview
+The Kanban board in the Talentwunder app is a visual tool for managing the recruitment 
+process. It helps clearly display candidates’ status and track their progress in the application 
+process. The board includes columns representing various recruitment steps, such as 
+"Selected," "Contacted," or "Rejected." More description would be useful here.
+A1.3.1.2.1.1 Sort Selected A-Z or Z-A
+Sort candidates alphabetically by A-Z or Z-A using the sorting symbol.
+A1.3.1.2.1.2 Three-Dot Functions
+The three-dot menu offers additional options for editing the individual process steps of your 
+candidates. For example, you can create a talent pool from a specific status.
+A1.3.1.2.1.2.1 Select All
+Selects all candidates in a column.
+A1.3.1.2.1.2.2 Deselect All
+Deselects candidates.
+A1.3.1.2.1.2.3 Rename
+Rename the selected status.
+A1.3.1.2.1.2.4 Set as Success Status

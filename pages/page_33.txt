@@ -1,0 +1,29 @@
+B1.2.2 Hide Profiles
+B1.2.2.1 Select All
+Select all profiles to be hidden.
+B1.2.2.2 All Projects
+Choose profiles from all projects.
+B1.2.2.3 Own Projects
+Choose profiles from your own projects. - not sure what is this?  
+B1.2.3 Filters missing explanation
+B1.2.3.1 Skills
+B1.2.3.1.1 Must-Have Skills
+Filter candidates by required skills.
+B1.2.3.1.2 Nice-to-Have Skills
+Filter candidates by optional skills.
+B1.2.3.1.3 Pro Tip
+Tips for defining skill requirements.  - more explanation ad tips regarding Smart Search
+B1.2.3.2 Industry
+Choose an industry to filter candidates:
+Architecture and Planning
+Automotive
+Banking and Financial Services
+Consulting
+Chemical Industry
+Energy, Water, and Environment
+Education and Science
+Tourism and Hospitality
+Gambling and Casinos
+Health and Wellness
+Real Estate
+Manufacturing and Engineering

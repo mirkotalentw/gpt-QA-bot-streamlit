@@ -1,0 +1,25 @@
+If text already exists in the input field, a modal will appear asking whether to Replace, Insert 
+below, or Cancel the generated message.
+Notifications for New Messages
+Recruiters will receive notifications for new messages through Kanban card notifications . If 
+there is a new message from a candidate, an envelope icon will appear on the Kanban board, 
+showing how many new messages have been received.
+Clicking on the icon will open the candidate’s profile and the Message Drawer, displaying a 
+snippet of the new message. Recruiters can click Load More or Sync to retrieve the entire 
+message.
+Message Notification Hub
+A new Message Notification Hub  is available in the Talentwunder header, accessible from any  
+page. It is the envelope icon in the header of the app, placed next to notifications icon.
+Sync Button and Unread Conversations
+A Sync button is present within the Message Notification Drawer, allowing for large 
+syncs (syncs of all conversations led through Talentwunder), ensuring no messages are 
+missed.
+Initially, the drawer will only display unread messages . Once all notifications are 
+viewed, the drawer becomes inaccessible until new messages arrive.
+Validations
+Scenario 1: Free LinkedIn/Xing Account
+If the recruiter tries to send a message to a candidate who is not a connection, a modal 
+will appear:
+o“This person is not your connection on LinkedIn/Xing. You can only send a 
+Connection Request.”
+oOptions: Switch to Connection Request  or Cancel.

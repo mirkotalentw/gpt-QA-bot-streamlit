@@ -1,0 +1,33 @@
+Recognition of learning potential and skill development
+Ranking system based on nice-to-have skill coverage
+B1.2.3.1.3 Pro Tip
+Expert guidance for optimal skill filtering:
+1.Strategic Skill Selection
+Limit Must-Have skills to 3-5 truly essential competencies
+Include broader skill categories in Must-Have, specific ones in Nice-to-Have
+Consider industry-standard skill combinations
+Account for skill evolution and market trends
+2.Best Practices
+Start with broader skill definitions and narrow down as needed
+Use skill synonyms and related terms
+Consider experience levels when setting skill requirements
+Balance technical and soft skills appropriately
+3.Common Pitfalls to Avoid
+Overloading Must-Have skills, which can exclude qualified candidates
+Being too specific with technical versions or tools
+Ignoring transferable skills
+Overlooking equivalent skill sets
+4.Advanced Tips
+Use skill combinations to identify versatile candidates
+Consider geographical skill variations
+Account for industry-specific skill terminology
+Leverage skill analytics for market insights
+5.Optimization Strategies
+Regularly review and update skill requirements
+Monitor search result quality and adjust accordingly
+Use successful searches as templates
+Consider skill adjacencies and learning potential
+B1.2.3.2 Industry
+The industry filter allows recruiters to target candidates with specific industry experience.  
+Below are comprehensive descriptions of each industry category:
+B1.2.3.2.1 Architecture and Planning

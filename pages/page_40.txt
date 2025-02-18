@@ -1,0 +1,24 @@
+B1.2.5.5.7 Add Note
+Create a note about the candidate. More explanation
+B1.2.5.5.7.1 Visible to All/Visible to Me
+Set note visibility for the team or keep it private.  
+B1.2.5.5.7.2 Select Project
+Associate the note with a project.
+B1.2.5.5.7.3 Create Project
+Create a new project and associate the note with it.
+B1.2.5.5.7.4 Save Note
+Save the note to the candidate’s profile.
+B1.2.5.5.8 Activity
+Schedule or track activities related to the candidate.
+B1.2.5.5.8.1 Title/Subject
+Specify the activity’s title or subject (e.g., email, meeting, or call).
+B1.2.5.5.8.2 Date and Time
+Set the date and time for the activity.
+B1.2.5.5.8.3 Duration/Reminder
+Define the activity’s duration or set a reminder.
+B1.2.5.5.8.4 Details/Messages
+Add details or messages related to the activity.
+B1.2.5.5.8.5 Select Project
+Associate the activity with an existing project.
+B1.2.5.5.8.6 Create Project
+Create a new project to link with the activity.

@@ -1,0 +1,30 @@
+Sorts talent pools based on the date of the last modification, helping locate recently edited or 
+updated pools.
+A2.1.5 Candidates
+Indicates the number of candidates in the talent pool, with direct access to their profiles.
+A2.2 Edit Individual Talent Pools
+The Talentwunder app provides filter options within talentpools for targeted candidate searches.  
+Users can filter profiles by job title, name, skills, location, industry, and experience. Additional 
+options include networks, language skills, and current or excluded employers. This streamlines 
+adding candidates that meet desired criteria to the talent pool. -  the Title of this says Edit, and 
+my guess is its filters. Description for three dots and options in it is missing (its down below 
+actually, so the translation could be off here).
+A2.2.1 Show Description
+Clicking the arrow icon next to the project name reveals a description field, displaying additional 
+project details.
+A2.2.2 Add to Important Talent Pools
+The star icon allows users to mark talent pools as "Favorite," making them quickly accessible 
+under the "Favorite talentpools" section.
+A2.2.3 View Candidates
+Displays all candidates added to the talentpool. Filters on the left enable targeted searches 
+within the pool, using criteria such as job title, skills, or location. List of all filters should be 
+included. - where is this? Or is this just Talentpool when entered?
+A2.2.4 Talent Pool Three-Dot Menu
+The three-dot menu offers various actions for the talent pool. Users can edit, manage the team, 
+remove it from favorites, or delete the talent pool entirely for quick and efficient management.
+A2.2.4.1 Edit
+Allows editing of talent pool details such as name, color for visual identification, and description.
+A2.2.4.2 Manage Team
+This feature lets users add or remove team members and adjust permissions within the 
+talentpool, controlling who can access and modify it.
+A2.2.4.3 Add to Favorites

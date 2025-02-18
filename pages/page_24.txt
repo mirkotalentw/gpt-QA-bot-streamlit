@@ -1,0 +1,28 @@
+Marks a talent pool as a favorite, making it easily accessible and improving organization.
+A2.2.4.4 Delete
+Permanently removes the talent pool and all associated data. Ensure the pool is no longer 
+needed before deletion.
+A2.3 New Talentpool
+The "New Talentpool" feature allows you to set up a new talent pool to collect and organize 
+candidate profiles. When creating a pool, you can define the name, color, and description to 
+identify it clearly and align it with the project's needs.
+A2.3.1 Name
+Assign a unique name to the talent pool for easy identification.
+A2.3.2 Select Talent Pool Color
+Choose a color for the talent pool to visually distinguish it from others.
+A2.3.3 Description
+Add a description to explain the purpose or specific features of the talent pool.
+A2.3.4 Select All / Only Me
+Set access permissions—either make the talent pool visible to all team members or restrict it to 
+the creator.
+A2.3.5 Select from List
+Choose candidates or criteria from a list to populate the talent pool. This is incorrect.
+A2.3.6 Create new Talentpool
+To create a new talent pool, click "New Talentpool " assign a name and color, add a description,  
+and decide if it should be visible to everyone or only to you. Add candidates from the list, and 
+save the talent pool by clicking "Create." - it’s not the candidates that are added to the list- its 
+collaborators/team members.
+A2.4 Search talentpool
+The "Search talentpool" function enables targeted searches for existing talentpools using their 
+name or relevant keywords.
+A3 Analytics (Available with Org. Admin License Only)

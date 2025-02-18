@@ -1,0 +1,29 @@
+Displays all tasks in the agenda, regardless of their status.
+1.4.2.2 Completed Tasks
+Filters the view to show only completed tasks.
+1.4.2.3 Uncompleted Tasks
+Filters the view to show only uncompleted tasks.
+2 Notifications
+The Notifications section in the Talentwunder app provides a way to manage and filter 
+notifications. Users can view all notifications or filter them to see only unread ones. Notifications 
+can also be marked as read or deleted for better organization.
+A dedicated Settings button allows users to customize their notification preferences. This 
+includes enabling or disabling app notifications (e.g., activity updates) and configuring email 
+notifications, such as receiving daily or weekly summaries at preferred times and days. This 
+setup ensures users stay updated while maintaining control over their notification flow.
+2.1 All
+Notifications are triggered based on the SaaS Notification Service and cover the following 
+events:
+2.1.1. Project Actions:
+   - Create: Notification is sent when a new project is created.
+   - Delete: Notification is sent when a project is deleted.
+   - Close/Reactivate: Notifications are sent when a project is closed or reactivated.
+2.1.2. Project Modifications:
+   - Status Changes: Notifications are sent when a project's status is modified.
+   - Renaming: Notification is triggered when a project is renamed.
+   - Member Changes: When project members are added or removed, all previous members 
+(except the one who made the changes) receive a notification.
+2.1.3. Candidate Actions:
+   - Add/Remove Candidates:  
+     - If an unread notification for the same type of candidate action (add/remove) already exists, 
+the notification will aggregate.

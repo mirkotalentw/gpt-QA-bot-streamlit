@@ -1,0 +1,32 @@
+Salaries and Financing  This section analyzes income levels and financial services, 
+including average monthly salaries after tax and mortgage interest rates. These metrics help users  
+understand both earning potential and long-term financial commitments in different locations.
+Infrastructure Costs  An in-depth look at essential service expenses, covering internet 
+connectivity, public transportation, fuel costs, and educational expenses. This category helps 
+users understand the day-to-day operational costs of living in different locations.
+Meals and Leisure Expenses  A detailed breakdown of discretionary spending categories, 
+including restaurant dining, beverages, entertainment, and recreational activities. This 
+information helps users understand the costs associated with maintaining their desired lifestyle in  
+different locations.
+The Cost of Living tool is designed to support various user needs, from individual relocation 
+decisions to corporate HR planning. Its comprehensive data and flexible analysis options make it  
+an invaluable resource for understanding and comparing living costs across different global 
+locations. The system's ability to provide both broad overviews and detailed breakdowns ensures  
+users can make well-informed decisions about their financial and lifestyle choices in different 
+locations.
+This tool goes beyond simple cost comparisons to provide actionable insights for salary 
+negotiations, budget planning, and lifestyle adjustments. Whether used by individuals planning 
+personal moves or organizations developing compensation packages, it offers the detailed 
+information needed for confident decision-making in an increasingly mobile global economy.
+E1.2.3 Quality of Life
+Core Understanding: The Quality of Life module provides a comprehensive evaluation system 
+that measures and compares living standards across different locations. This multi-dimensional 
+analysis framework assesses various aspects of daily life, combining objective metrics with 
+subjective quality indicators to create a holistic understanding of life quality in different cities.
+E1.2.3.1 General
+Core Understanding: The General metrics section evaluates fundamental aspects of urban living 
+through eight key indicators that form the foundation of quality of life assessment:
+Primary Components:
+1.Family Score: Evaluates family-friendliness on a 5-point scale
+Living conditions for families
+Educational opportunities

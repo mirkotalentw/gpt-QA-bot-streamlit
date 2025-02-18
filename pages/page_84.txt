@@ -1,0 +1,35 @@
+Indicates positive company culture that attracts former employees back
+Sign of strong employer brand and workplace satisfaction
+Reflects willingness of former employees to return
+3.Employee Tenure Ratio
+Compares average tenure of current vs former employees
+Shows tenure pattern changes over time
+Indicates stability of workforce retention
+Helps identify retention trends
+4.Current Employee Tenure Ratio
+Compares employees' tenure at current company vs previous employers
+Indicates relative ability to retain talent
+Shows if company keeps employees longer than competitors
+Measures comparative retention strength
+5.Employee Ratio
+Compares number of current vs former employees
+Lower ratio indicates higher turnover
+Helps identify retention challenges
+Measures workforce stability
+6.Employment Type Ratio
+Compares full-time employees vs freelancers/temporary workers
+Higher ratio of full-time employees indicates stronger loyalty
+Measures workforce stability through employment types
+Indicates commitment to permanent workforce
+Key Characteristics:
+Scores vary significantly by industry
+Most valuable when comparing companies within same sector
+Higher scores indicate stronger employee retention and satisfaction
+Helps identify high-turnover organizations
+Supports targeted recruitment strategies
+D1.2.2 Diversity Score  A comprehensive metric that evaluates workplace inclusivity and 
+representation across six key dimensions:
+1.Gender Diversity
+Measures balance between male and female employees
+Excludes unspecified/unknown gender categories
+Indicates gender representation equality

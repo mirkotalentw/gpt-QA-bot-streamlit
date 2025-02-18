@@ -1,0 +1,26 @@
+- If no unread notification exists, a new one is created.
+2.1.4. Reminders:
+   - Notifications include reminders for scheduled messages, ensuring users don’t miss any 
+critical actions.
+2.1.5. Comment Mentions:
+   - Users receive notifications when they are tagged in a comment in a project overview section,  
+making collaboration seamless and ensuring important discussions are not overlooked.
+This comprehensive notification system ensures that users stay updated on all critical activities, 
+reminders, communication updates, and collaborative efforts, with similar notifications grouped 
+intelligently for clarity.
+2.2 Unread
+Displays only unread notifications for a quick overview of new or important notifications.
+2.3 Mark All as Read (Checkmark Icon)
+Use this button to mark all notifications as read at once without going through them individually. 
+Useful when many notifications come in at once.
+2.4 Settings (Gear Icon)
+This icon takes you to the notifications tab in general settings.
+2.5 Cancel
+The “X” in the upper right corner closes the notification window and takes the user back to the 
+previous view.
+3 Settings
+3.1 Account Settings
+The Account Settings section in the Talentwunder app allows users to manage their personal 
+and company-related information with ease. Here's what you can do within this section:
+3.1.1. Personal Information:
+   - Update your First Name, Last Name, and Preferred Language for the app interface.

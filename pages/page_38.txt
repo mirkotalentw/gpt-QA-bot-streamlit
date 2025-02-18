@@ -1,0 +1,24 @@
+B1.2.5.3.7.3 Create New Project
+Create a new project from the search results.
+B1.2.5.3.8 Select All
+Select all search criteria.
+B1.2.5.3.9 Remove All
+Clear all selected criteria.
+B1.2.5.3.10 Choose from List
+Select specific items from a predefined list.
+B1.2.5.3.11 Bookmark Page
+Save the search as a bookmark. More explanation
+B1.2.5.3.12 Save Search
+Save the current search settings for future use. More explanation
+B1.2.5.4 Candidate Overview
+B1.2.5.4.1 Mark Candidate (Checkmark)
+Select a candidate for further actions.
+B1.2.5.4.1.1 Report Duplicate
+Flag a candidate profile as a duplicate. More explanation
+B1.2.5.4.1.2 Deselect
+Unselect a candidate.  It deselects all, not just one
+B1.2.5.4.2 Folder Icon
+B1.2.5.4.2.1 Add to Project
+Add the candidate to a specific project. More explanation on how it works
+B1.2.5.4.2.2 Add to Talentpool
+Add the candidate to a specific talent pool. More explanation

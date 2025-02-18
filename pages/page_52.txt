@@ -1,0 +1,24 @@
+C1.9.6.1 Job Title
+Add the job title.
+C1.9.6.2 Your Tasks
+Describe the tasks associated with the role.
+C1.9.6.3 Your Profile
+List the qualifications and skills required.
+C1.9.6.4 What We Offer
+Highlight the benefits of working with your company.
+C1.9.6.5 Contact
+Add contact details for applicants.
+C1.9.7 Apply
+Define the application process.
+C1.9.8 Continue
+C1.9.8.1 Save and Continue
+Save the ad and proceed to the next step.
+C1.10 Job Ad Summary/Overview
+C1.10.1 View Header Images
+Preview the uploaded header images.
+C1.10.2 Apply Button
+Check the functionality of the apply button.
+C1.10.3 View Preview
+See a preview of the completed job ad.
+C1.10.4 Additional Product Fields
+C1.10.4.1 Add Email

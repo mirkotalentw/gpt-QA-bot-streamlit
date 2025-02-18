@@ -1,0 +1,24 @@
+B1.2.3.5.2 Does Not Work At (Enter Company)
+Exclude candidates employed at a specific company.
+B1.2.3.5.3 Previously Worked At (Enter Company)
+Filter candidates who previously worked at a specific company.
+B1.2.3.5.4 Did Not Previously Work At (Enter Company)
+Exclude candidates who previously worked at a specific company.
+B1.2.3.5.5 Pro Tip
+Tips for narrowing company-based searches.
+B1.2.3.6 Candidate Is
+B1.2.3.6.1 Female
+Filter candidates who identify as female.
+B1.2.3.6.2 Male
+Filter candidates who identify as male.
+B1.2.3.6.3 Consultant
+Filter candidates identified as consultants.
+B1.2.3.6.4 Freelancer
+Filter candidates identified as freelancers.
+B1.2.3.6.5 Executive
+Filter candidates in executive roles.
+B1.2.3.6.6 Student
+Filter candidates identified as students.
+B1.2.3.6.7 Scientist
+Filter candidates identified as scientists.
+B1.2.3.7 Candidate Is Not

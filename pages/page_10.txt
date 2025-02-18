@@ -1,0 +1,24 @@
+7.3.9 Job Description
+The job description includes the precise job title, main tasks, and required qualifications/profile 
+(Must-have and optional skills) a candidate should have. It also includes information on what the  
+company offers, employment type, location, and working hours.
+7.3.10 Contract Type
+Choose between temporary and permanent contracts.
+7.3.11 Seniority
+Specify the seniority level required for the position, such as junior, mid-level, or senior.
+7.3.12 Field of Activity
+Select the appropriate field of activity for the position in the organization.
+7.3.13 Job Type
+Job Type (dropdown) represents a predefined list of job types, allowing users to categorize 
+positions based on their employment nature or status in the organization.
+7.3.14 Show/Hide Salary
+Decide whether to include salary details in your project.
+7.3.14.1 Minimum Salary
+Add the minimum salary to the job information.
+7.3.14.2 Maximum Salary
+Add the maximum salary to the job information.
+7.3.14.3 Currency
+Specify the currency for the salary.
+7.3.14.4 Interval
+Specify the salary payment interval.
+7.3.15. Finish Project Creation

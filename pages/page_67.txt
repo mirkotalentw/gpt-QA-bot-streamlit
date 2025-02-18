@@ -1,0 +1,29 @@
+Professional field encompassing architectural design, urban planning, and structural development.  
+Includes architects, urban planners, and design consultants.
+B1.2.3.2.2 Automotive
+Covers all aspects of vehicle manufacturing, development, and related services, including 
+electric vehicles, traditional automotive, and supplier industries.
+B1.2.3.2.3 Banking and Financial Services
+Encompasses banking, investment management, financial technology, and various financial 
+service providers.
+B1.2.3.2.4 Consulting
+Professional services sector providing business strategy, management consulting, and specialized  
+advisory services.
+B1.2.3.2.5 Chemical Industry
+Manufacturing and research in industrial chemicals, specialty chemicals, and chemical processes.
+B1.2.3.2.6 Energy, Water, and Environment
+Focuses on utilities, renewable energy, environmental services, and sustainable resource 
+management.
+B1.2.3.2.7 Education, Training, and Science
+Educational institutions, research organizations, and training providers across all academic 
+levels.
+B1.2.3.2.8 Leisure, Tourism, and Hospitality
+Tourism services, hospitality management, entertainment venues, and recreational facilities.
+B1.2.3.2.9 Gambling and Casinos
+Gaming industry, including both traditional casinos and online gambling platforms.
+B1.2.3.2.10 Health and Wellness
+Healthcare services, medical facilities, wellness centers, and preventive health programs.
+B1.2.3.2.11 Real Estate
+Property development, real estate management, brokerage, and investment.
+B1.2.3.2.12 Industrial Manufacturing and Engineering
+Heavy industry, machinery manufacturing, and industrial engineering services.

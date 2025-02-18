@@ -1,0 +1,33 @@
+d.Previously Not At : Exclude candidates with previous employment at 
+certain companies.
+10.Rating:
+a.Filter candidates by their star ratings, if available.
+11.Scores:
+a.Probability of Moving : Use a slider to filter candidates based on their 
+likelihood of changing jobs.
+b.Change Probability : Adjust the slider to filter candidates based on their 
+probability of making a career change.
+12.Communication Options :
+a.Filter candidates who have email or phone details available.
+13.Gender:
+a.Filter candidates by gender.
+Utility:
+The Filter function provides recruiters with a granular approach to finding the right 
+candidates for specific roles, helping them focus on the most relevant profiles.
+Export Feature
+The Export functionality allows users to download candidate data from the Candidate 
+Board in a structured format (CSV). This tool is located next to the Filter icon and 
+provides a seamless way to extract data for offline analysis or sharing.
+Key Features of Export:
+1.Select Columns for Export :
+a.Users can choose specific columns from the Candidate Board to include in  
+the export file.
+b.Examples of columns include:
+i.Selected
+ii.Contacted
+iii.Xing passt
+iv.First choice
+v.Accepted
+vi.Interview
+vii.Declined
+viii.Custom columns like "ATS state."

@@ -1,0 +1,27 @@
+You can add products to your cart from this modal or cancel to close it. Both actions will close 
+the modal.
+Country
+Each product also indicates the countries where the ad is accessible. However, the location 
+entered during ad creation takes precedence and will be given priority.
+Cart:
+You can add multiple products to your cart. Once your selections are complete, proceed to the 
+Job Ad Editor by clicking "Continue to Job Ad Editor"  in the cart.
+Customizing Your Job Ad
+After choosing your job board, you’ll be taken to the Job Ad Editor, where you can customize 
+and design your ad to attract the right candidates.
+Company Logo:
+Recommended size: 300 x 200 px.
+Format: GIF.
+Maximum file size: 2MB.
+Video Link:
+Add a URL for a company video.
+Text and Design Customization :
+Change titles of sections such as Job Title, Introduction, Your Tasks,Your Profile, 
+What we offer and Contact.
+Use the Color Picker to select colors or paste Hex code directly for changing the CTA 
+button, Titles, and Background colors .
+Background Image :
+Recommended size: 1920 x 1080 px.
+Format: PNG or JPG.
+Maximum file size: 2MB.
+CTA Button URL:

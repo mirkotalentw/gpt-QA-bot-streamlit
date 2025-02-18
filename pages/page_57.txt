@@ -1,0 +1,32 @@
+Proactive recruitment capabilities
+4.Risk Mitigation
+Compliance with data protection regulations
+Consistent search methodology
+Documented search processes
+Fair candidate evaluation practices
+Best Practices for Usage:
+1.Search Strategy
+Start with broader searches and refine gradually
+Utilize multiple network combinations
+Regular review and adjustment of search parameters
+Save successful search combinations as templates
+2.Filter Application
+Apply filters in order of importance
+Monitor result counts as filters are added
+Use radius searching for location flexibility
+Combine filters strategically for best results
+3.Profile Management
+Regular cleanup of hidden profiles
+Consistent use of anonymization when required
+Systematic approach to candidate review
+Regular update of saved searches
+The Smart Search Functions are designed to evolve with user needs and market requirements, 
+continuously improving through machine learning and user feedback. Regular updates and 
+enhancements ensure the system remains current with industry best practices and technological 
+advancements.
+B1.2.1 Networks (F)
+B1.2.1.1 Reset Networks
+The Reset Networks function serves as a quick and efficient way to clear all currently selected 
+network filters in your search. This feature is essential for maintaining an organized and efficient  
+search process in the following ways:
+Key Functions:

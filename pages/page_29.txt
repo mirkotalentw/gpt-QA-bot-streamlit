@@ -1,0 +1,24 @@
+A4.5 Edit Shared Templates Individually
+Shared templates can be modified or customized as needed by team members with the 
+appropriate permissions.
+A4.5.1 Display States (F)
+View all states included in the shared template.  
+A4.5.2 Three-Dot Function
+Use the additional options for the template.
+A4.5.3 Edit Template
+Make changes to the template.
+A4.5.3.1 Add/Change Name
+Update the name of the shared template.
+A4.5.3.2 Add State
+Include additional statuses in the template.
+A4.5.3.3 Private/Shared
+Switch the template's visibility between private and shared.
+B Active Sourcing
+B1 Smart Search
+Smart Search offers advanced filtering and search options for finding candidates effectively.
+B1.1 Smart Search Filter Overview
+B1.1.1 Add or Create Project or Talentpool
+Add candidates to an existing project or talentpool or create a new one.
+B1.1.2 Job Title
+Specify the job title for the search. - needs more explanation/tips
+B1.1.3 City/Radius - here too

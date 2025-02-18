@@ -1,0 +1,183 @@
+import os
+import logging
+from typing import List, Tuple
+import streamlit as st
+import openai
+from dotenv import load_dotenv
+from langchain_pinecone import Pinecone as LangchainPinecone
+from langchain.chains import RetrievalQA
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+
+# Load environment variables
+load_dotenv()
+
+# Initialize logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+# API keys and environment variables
+COHERE_API_KEY = os.getenv('COHERE_API_KEY')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
+PINECONE_ENVIRONMENT = os.getenv('PINECONE_ENVIRONMENT')
+USER_PASSWORD = os.getenv('USER_PASSWORD')
+
+client = openai.OpenAI(api_key=OPENAI_API_KEY)
+
+ASSISTANT_ICON_URL = "https://cdn-icons-png.flaticon.com/512/7966/7966941.png"
+USER_ICON_URL = "https://cdn-icons-png.flaticon.com/512/2503/2503707.png"
+
+from langchain.schema import Document
+from langchain.vectorstores.pinecone import Pinecone as LangchainPinecone
+from langchain_core.retrievers import BaseRetriever
+from typing import List, Dict, Any
+from pydantic import Field
+import logging
+
+class CustomPineconeRetriever(BaseRetriever):
+    vectorstore: LangchainPinecone = Field(exclude=True)  # Exclude from Pydantic validation
+    k: int = 5
+
+    def __init__(self, vectorstore: LangchainPinecone, k: int = 5, **kwargs):
+        super().__init__(**kwargs)
+        self.vectorstore = vectorstore
+        self.k = k
+
+    def get_relevant_documents(self, query: str) -> List[Document]:
+        """Retrieve relevant documents, including hierarchical chunks."""
+        
+        # Step 1: Retrieve initial top-k relevant documents
+        results = self.vectorstore.as_retriever(search_kwargs={"k": self.k}).get_relevant_documents(query)
+
+        # Step 2: Extract section IDs and parent section IDs
+        section_ids = {doc.metadata.get("section_id") for doc in results if "section_id" in doc.metadata}
+        parent_sections = {doc.metadata.get("parent_section") for doc in results if "parent_section" in doc.metadata}
+
+        # Step 3: Expand retrieval to include parent and related sections
+        expanded_results = {doc.metadata["section_id"]: doc for doc in results}  # Use dictionary for deduplication
+
+        for doc in results:
+            parent_section = doc.metadata.get("parent_section")
+            if parent_section and parent_section in section_ids:
+                # Retrieve extra documents related to the parent section
+                extra_docs = self.vectorstore.as_retriever(search_kwargs={"k": self.k}).get_relevant_documents(
+                    parent_section
+                )
+                for extra_doc in extra_docs:
+                    expanded_results[extra_doc.metadata["section_id"]] = extra_doc  # Deduplicate by section ID
+
+        return list(expanded_results.values())  # Convert dictionary back to list
+
+    @classmethod
+    def validate(cls, value: Any) -> "CustomPineconeRetriever":
+        """Required for LangChain's validation system."""
+        return value
+
+
+
+
+
+def inline_icon_text(icon_url: str, text: str, background_color: str) -> str:
+    return f"""
+    <div style="display: flex; align-items: center; background-color: {background_color}; padding: 10px; border-radius: 15px; margin: 10px 0;">
+        <img src="{icon_url}" style="width: 30px; height: 30px; margin-right: 10px;">
+        <h2>{text}</h2>
+    </div>
+    """
+
+def check_credentials(username: str, password: str) -> bool:
+    return username == "talentwunder" and password == USER_PASSWORD
+
+def display_login_form():
+    st.title("Login")
+    with st.form("login_form"):
+        username = st.text_input("Username")
+        password = st.text_input("Password", type="password")
+        if st.form_submit_button("Login"):
+            if check_credentials(username, password):
+                st.session_state['logged_in'] = True
+                st.success("Logged in successfully.")
+                st.rerun()
+            else:
+                st.error("Incorrect username or password.")
+
+
+
+def initialize_qa_system() -> RetrievalQA:
+    index_name = "doc-v2"
+
+    embeddings = OpenAIEmbeddings(api_key=OPENAI_API_KEY, model="text-embedding-3-small", dimensions=1024)
+
+    vectorstore = LangchainPinecone.from_existing_index(
+        index_name=index_name,
+        embedding=embeddings,
+        text_key="text"
+    )
+
+    retriever = CustomPineconeRetriever(vectorstore, k=5)
+
+    llm = ChatOpenAI(openai_api_key=OPENAI_API_KEY, model_name="gpt-4o")
+
+    return RetrievalQA.from_chain_type(
+        llm=llm,
+        chain_type="stuff",
+        retriever=retriever,  # Now passing the working retriever object
+        return_source_documents=True
+    )
+
+
+
+
+def display_chat_history(history: List[Tuple[str, str]]):
+    for query, response in history:
+        st.markdown(inline_icon_text(USER_ICON_URL, "You: ", "transparent"), unsafe_allow_html=True)
+        st.write(query)
+        st.markdown(inline_icon_text(ASSISTANT_ICON_URL, "Assistant: ", "transparent"), unsafe_allow_html=True)
+        st.write(response)
+        st.write("---")
+
+def display_main_app():
+    st.title("AI Assistant")
+    st.write("How can we help you today?")
+
+    if "history" not in st.session_state:
+        st.session_state.history = []
+    
+    if "qa_chain" not in st.session_state:
+        st.session_state.qa_chain = initialize_qa_system()
+
+    chat_container = st.container()
+
+    with st.form(key='user_input_form', clear_on_submit=True):
+        user_query = st.text_input("You:", "")
+        submit_button = st.form_submit_button("Send")
+
+    if submit_button and user_query:
+        with st.spinner("Thinking..."):
+            result = st.session_state.qa_chain(user_query)  # Changed to capture the full result
+            bot_response = result['result']  # Extract the response
+            source_docs = result['source_documents']  # Extract the source documents
+            
+            # Display source documents in an expander
+            with st.expander("View Source Documents"):
+                for i, doc in enumerate(source_docs, 1):
+                    st.markdown(f"**Document {i}:**")
+                    st.write(doc.page_content)
+                    st.markdown("---")
+            
+            st.session_state.history.append((user_query, bot_response))
+
+    with chat_container:
+        display_chat_history(st.session_state.history)
+
+def main():
+    if 'logged_in' not in st.session_state:
+        st.session_state['logged_in'] = False
+
+    if not st.session_state['logged_in']:
+        display_login_form()
+    else:
+        display_main_app()
+
+if __name__ == "__main__":
+    main()

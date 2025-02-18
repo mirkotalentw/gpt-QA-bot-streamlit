@@ -1,0 +1,34 @@
+Filter options on the right side allow narrowing the candidate search based on criteria such as 
+job title, name, skills, location, industry, years of experience, networks (e.g., LinkedIn), 
+language, and employer. Filters include reset options to clear all applied filters.  We need to list 
+all filters and maybe give explanations to some like previously at etc
+A1.3.1.3 Project Analytics
+The project analytics function in the Talentwunder app provides a comprehensive overview of 
+the progress and success of a recruitment project. It allows recruiters to monitor and assess 
+various candidate statuses and activities within a project. Visual representations and trends help  
+users quickly understand how many candidates are in different recruitment phases and how 
+these numbers change over time.
+A1.3.1.3.1 Status Graphic – Trends of the Last 30 Days
+A1.3.1.3.1.1 Entire Project
+A1.3.1.3.1.2 Selected:  Candidates marked for further consideration.
+A1.3.1.3.1.3 Contacted:  Candidates who have been reached out to.
+A1.3.1.3.1.4 Rejected:  Candidates excluded from the process for various reasons.
+A1.3.1.3.1.5 Accepted:  Candidates who gave positive feedback or accepted an offer.
+A1.3.1.3.1.6 ATS Status:  Current status of candidates in the Applicant Tracking 
+System.
+We should explain the graph, not just the states from default template. Also we are missing 
+description for other graphs from Analytics.
+A1.3.1.4 Recommendations
+The Recommendations feature in the Talentwunder app displays candidate profiles tailored to 
+the requirements of a specific position. Each candidate is shown with a photo, location, job title, 
+employer, and relevant work experience. Below the profile are the buttons " Accept" and 
+"Decline" enabling recruiters to quickly assess the suitability of the candidate. Additional 
+information on relocation willingness and job change likelihood is also available. We should also 
+put the names of these: relocation willingness = Mobility and job change likelihood = Change 
+Probability
+A1.3.1.4.1 Decline/Accept
+Next to the candidate's information are two buttons: "  Decline " and " Accept "
+These buttons help assess how relevant a profile is for potential collaboration or alignment with 
+the search criteria. - we need to explain that clicking accepts adds the candidate to the project 
+into selected (first column) in Kanban.
+A1.3.2 Edit Project via Three-Dot Function

@@ -1,0 +1,20 @@
+Job Ads
+Book your job ads easily through our ad module in the Talentwunder app and save in the 
+process!
+Choose what you need
+Simply choose from 900 job portals the most important providers for you and your open 
+position. Select the appropriate ad format or benefit from package offers. Customize your ad, 
+including logo, colors, or button text.
+Stay on top of things
+Which ads have I posted? Where have I posted ads? And how long will my ads still be running?
+With Talentwunder's job ads, you always have an overview.
+Creating and Managing Job Ads
+When you have a vacancy to advertise, you can easily create and manage job ads in the Job 
+Ads section. This is done by navigating to the "Job Ads" section, where you'll see the 
+"Purchased Job Ads"  table and a "New Job Ad" button.
+If no job ads are published, clicking the "Job Ads" sidebar shortcut will automatically direct you 
+to the job boards catalog, simplifying the process. If you already have job ads that are active, 
+pending or expired you will land on the "Purchased Job Ads"  page.
+Managing Purchased Job Ads
+The Purchased Job Ads Table  helps you manage your active and closed job ads. Ads are 
+grouped by orders, and each order is displayed within an accordion for clarity. Orders containing

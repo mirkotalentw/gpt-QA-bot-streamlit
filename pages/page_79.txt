@@ -1,0 +1,26 @@
+**B1.2.5.2.2 Semantic Expansion for Skills**
+Similar to job title expansion, this feature automatically suggests related skills based on the 
+initial search criteria. The system analyzes skill relationships and industry standards to provide 
+relevant skill expansions.
+ 
+**B1.2.5.2.2.1 Select All**
+Enable all AI-suggested skill expansions:
+- Includes all related technical skills
+- Adds relevant soft skills
+- Incorporates tool and technology variations
+- Expands to include complementary skills
+ 
+**B1.2.5.2.2.2 Deselect All**
+Remove all suggested skill expansions:
+- Returns to original skill requirements
+- Removes AI-suggested skill additions
+- Focuses search on specific listed skills
+- Provides more targeted results
+ 
+For example, if "Java" is specified as a skill:
+- Related technical skills: Java Spring, J2EE, Hibernate
+- Associated technologies: Maven, Jenkins, Git
+- Related areas: Backend Development, API Design
+- Complementary skills: SQL, Web Services
+ 
+This feature allows recruiters to:

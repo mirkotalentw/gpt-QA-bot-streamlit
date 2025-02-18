@@ -1,0 +1,23 @@
+Clicking on Finish button completes the project creation and on the next window multiple options  
+are presented with three key options to proceed further:
+1.Book Job Ads: 
+a.Promote your project by booking job advertisements directly through 
+Talentwunder on various job boards.  
+b.This feature allows you to reach a wider audience by publishing job listings on 
+relevant platforms.
+2.Start Boolean Search : 
+a.Use advanced Boolean search  techniques to find candidates. This option will 
+automatically create the boolean search query for user, taking the data specified 
+within the project.
+b.This option lets you create complex and precise search queries based on the data 
+from the project to target the best-matched candidates.
+3.Start Smart Search : 
+a.Leverage Smart Search to simplify the candidate search process.  
+b.This AI-driven feature uses the project data to recommend suitable candidates 
+quickly and efficiently.
+These options ensure you can easily move forward with your recruitment process, whether by 
+promoting the role, searching with precision, or relying on AI to recommend the best candidates.
+1.3 Project Overview Tab
+The Project Overview Tab  provides users with a centralized and comprehensive view of all 
+relevant details about a specific project. When a user selects a project from the project list, this 
+tab is displayed, enabling users to access and manage the project effectively. The tab is divided

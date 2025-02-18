@@ -1,0 +1,30 @@
+Message Templates in the Message Drawer
+To help recruiters send consistent and personalized messages, a Template Dropdown  is 
+available in the lower-left corner of the Message Drawer.
+Using the Template Dropdown
+Clicking the Templates icon opens a list of saved templates. If there are no templates, 
+the Template Manager  opens automatically.
+Favorites are always displayed at the top, and the rest are grouped by projects.
+A maximum of 8 rows of text (6 templates and 2 headings) can be viewed at a time, 
+with scrolling available for additional templates.
+Hovering over a template displays a snippet of the message template itself.
+Templates can be searched by name or project in this dropdown.
+Template Manager and Creating New Templates
+Clicking on Template Manager  opens a drawer with a list of templates and a Create 
+New Template option.
+Recruiters can name their template, tie it to a specific project (optional), and compose a 
+message using a rich text editor.
+A Save option stores the template, while Save and Insert saves it and inserts it directly 
+into the message drawer.
+Insert Fields such as First Name, Last Name, Company, and others can be added to 
+the template for dynamic content.
+AI Assist for Messaging
+The AI Assist feature helps recruiters craft messages using project and job/company 
+description information. It is accessed via the AI Assist button in the Message Drawer.
+Using AI Assist
+Clicking the AI Assist button opens a modal next to the drawer. The modal allows users 
+to select a project and company, with pre-populated job descriptions and company 
+descriptions based on the selected project or company.
+Users can modify the text if needed and click Generate Message  to create a message.
+Once generated, the message appears in the message input field of the Message 
+Drawer.

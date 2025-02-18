@@ -1,0 +1,31 @@
+TW APP Documentation
+1 Agenda
+The Agenda feature in the Talentwunder app is designed to manage tasks and activities, for 
+overview and organization of all candidate-related actions. Users can create tasks or actions, 
+which are then categorized and displayed for easy tracking. The Agenda provides three main 
+views:
+All: A general snapshot of all tasks.
+Completed: A list of tasks that have been finished.
+Uncompleted: Includes both pending tasks and overdue items for better prioritization.
+Users can edit tasks directly and synchronize them with their Google or Outlook calendars to 
+stay on top of deadlines and schedules. The feature also includes a detailed view where all task  
+information is displayed. This detailed view allows users to sort tasks by due date or Project and  
+filter tasks by their type (all tasks, completed, uncompleted), making it easy to focus on what's 
+most important. With these capabilities, the Agenda feature simplifies activities overview and 
+keeps things organized.
+1.1 All Tab
+This tab displays all activities and tasks, regardless of their status (completed or uncompleted).
+1.2 Completed Tab
+This tab shows only completed tasks.
+1.3 Uncompleted Tab
+Here, only pending and/or overdue tasks are displayed.
+1.4 Detail View
+The agenda's detail view allows tasks to be sorted by projects or due dates and provides the 
+option to filter tasks by status (all, completed, uncompleted).
+1.4.1 Sort By
+1.4.1.1 Due Date
+Sort tasks by their due dates.
+1.4.1.2 Project
+Sort tasks by their project.
+1.4.2 Filter By
+1.4.2.1 All Tasks

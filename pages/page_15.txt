@@ -1,0 +1,37 @@
+Overview
+The Candidate Board is a Kanban-style feature that allows users to manage candidates visually 
+by organizing them into different states based on their progress in the hiring process. This 
+section is designed for simplicity and flexibility, enabling users to track and manage candidates 
+efficiently while offering additional tools for sorting, customization, and data export.
+Key Features of the Candidate Board
+States (Columns):
+oCandidates are organized into states (columns) representing stages in the 
+recruitment pipeline (e.g., Selected, Contacted, First Choice).
+oUsers can add new states to customize the board for their specific workflow.
+Candidate Movement:
+oCandidates can be moved across states to reflect their progression in the hiring 
+process.
+oDrag-and-drop functionality is available to rearrange candidates:
+Across states: Move candidates between different stages (e.g., from 
+"Contacted" to "Interview Scheduled").
+Within a state: Reorganize candidates by priority or any user-defined 
+criteria.
+Sorting Options:
+oCandidates within a state can be sorted alphabetically
+Three-Dot Menu (State Options):
+Each state has a three-dot menu with additional actions for managing that column:
+oSelect All / Deselect All : Quickly select or deselect all candidates in the 
+state.
+oRename: Edit the state name for better customization.
+oSet as Success State : Mark the state as the final stage (e.g., "Hired"). This 
+designation is crucial for later analytics, such as:
+Calculating time-to-hire.
+Determining conversion rates.
+oCreate Talentpool from State : Convert all candidates in the state into a 
+reusable talent pool for future projects.
+oAdd State to Talentpool : Include the state itself in a talent pool for broader 
+usage.
+oMove to Other Project : Relocate candidates from the current project to 
+another project within the system.
+oExport as .CSV : Download all candidate data from the state as a CSV file for 
+external use.

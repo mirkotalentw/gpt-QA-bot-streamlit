@@ -1,0 +1,31 @@
+1.How do I create a job ad?
+a.Go to Job Ads and click the "New Job Ad" button.
+2.Why isn't my ad published immediately?
+a.Some job boards take up to 24 hours to publish. Check the Date Posted column 
+for submission details.
+3.How do I customize the design?
+In the Job Ad Editor, you can upload logos, change colors, and add images.
+Messaging Feature: Overview and Access
+As a recruiter, you can send and read messages on LinkedIn and Xing directly through 
+Talentwunder. This allows you to manage your communications seamlessly without switching 
+platforms. Talentwunder’s messaging feature has been redesigned to enable sending 
+messages to LinkedIn and Xing connections directly. You can also view previous conversations 
+initiated through Talentwunder, allowing you to read messages without needing to access 
+LinkedIn or Xing separately.
+Messaging via Profile
+When you click the Message button on a candidate’s profile, whether an old profile or the new 
+Superprofile, a modal window will appear if the necessary browser extension is not installed.
+Installing the Extension
+A pop-up will display instructions to download the extension for Chrome, Firefox, or 
+Edge (depending on the user’s browser). Only the option corresponding to the current 
+browser will be enabled.
+If the user clicks on the Message button from another browser, this modal will appear 
+again, providing the option to reinstall.
+During the download and installation, another modal featuring a hamster will appear, 
+with the message: “Please reload page after installation…”
+Note: If the user clicks on Cancel, the modal will disappear, but it will reappear when 
+clicking the Message button again on the candidate's profile.
+Once the extension is installed, the user must reload the page to begin messaging.
+Syncing LinkedIn and Xing Profiles
+After installing the extension and clicking the Message button for the first time, users are 
+prompted to sync their LinkedIn and Xing profiles . Here’s how this process works:

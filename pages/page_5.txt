@@ -1,0 +1,24 @@
+and description are added, the possibility to add more will appear (add more button in the top 
+right corner of the Company section, meaning one user can have multiple companies and 
+corresponding descriptions for them. This can be useful for users who have multiple 
+departments and wish to have fitting descriptions for each.
+3.1.5. Legal Compliance:
+   - Download the Data Processing Agreement (DPA), compliant with Article 28 DS-GVO and 
+Article 32 DS-GVO. This document outlines data protection and security measures and can be 
+added as a supplementary agreement to your main contract. The download history is also 
+displayed for transparency.
+This section is designed to provide users with a centralized place to configure their account 
+preferences, enhance security, and manage essential documentation effectively.
+3.1.6. Save
+Save your settings.
+3.2. Activities Settings
+Get an overview of your previous activities and open them directly.
+3.2 Logout
+The option to log out of the app.
+4. Dashboard
+The dashboard in the Talentwunder application serves as a central hub for a quick overview of 
+all important projects, talentpools, analytics and project templates.  
+4.1. Projects Tab
+The Project Tab in the Talentwunder app provides a clear and organized layout to manage and 
+monitor projects efficiently. It includes several key features to ensure seamless project handling:
+1. Project Listing:

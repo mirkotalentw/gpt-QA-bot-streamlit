@@ -1,0 +1,32 @@
+Evaluates internal mobility and promotion practices
+Measures commitment to employee development
+Tracks fairness in advancement opportunities
+Assesses leadership development effectiveness
+Practical Applications:
+1.For Recruiters
+Identify companies with potential talent pools
+Target organizations with specific workforce characteristics
+Develop informed headhunting strategies
+Create compelling candidate approaches
+2.For HR Professionals
+Benchmark organizational performance
+Develop evidence-based HR strategies
+Track effectiveness of HR initiatives
+Identify areas for improvement
+3.For Business Leaders
+Understand competitive position in talent market
+Make informed decisions about workforce development
+Track organizational health metrics
+Compare performance against industry standards
+D1.1 Search Scores  Search functionality to find and compare companies based on their 
+performance metrics.
+D1.2 Sort By
+D1.2.1 Loyalty Score  A metric that helps evaluate employee engagement and satisfaction 
+through analysis of:
+1.Current Employee Tenure Rate  (Highest Impact)
+Most influential metric in the overall loyalty score
+Measures average length of current employees' service
+Primary indicator of employee retention
+Higher values indicate stronger employee commitment
+2.Boomerang Ratio
+Measures ratio of returning employees to total workforce

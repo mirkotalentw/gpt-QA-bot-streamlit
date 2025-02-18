@@ -1,0 +1,27 @@
+Payment and Order Process
+Job Ad Preview
+Before finalizing your order, you’ll be shown a preview of your job ad. This is where you can 
+review the details and ensure everything is accurate.
+Note that each job board may display information differently, and not all details may be shown.
+Additional Information for Products
+If any product requires more details, these fields will appear next to the job ad preview. If no 
+additional information is required, this section remains hidden.
+Price Details Overview
+The price details section will show:
+Items - Supplier logos amd “i” Information about the product
+Ad duration.
+Price of each product
+The total price of all selected products.
+Terms and Conditions
+Before proceeding with the order, you must accept the Terms and Conditions  of the Job Ad 
+Partner.
+Link: [https://jobadpartner.de/agb/ ]
+Order Now
+Click "Order Now" to open a pop-up window where you must enter billing information.
+All fields are mandatory except for VAT.
+Once confirmed, billing information is sent to the Job Ad Partner, who will then send the  
+invoice to your email directly.
+Error Handling and FAQs
+If any required field is missing or incorrectly filled, the system will automatically scroll to the 
+relevant section and display a validation message to help you correct the issue.
+FAQs:

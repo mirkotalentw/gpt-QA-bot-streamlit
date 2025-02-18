@@ -1,0 +1,24 @@
+Deselect all suggested extensions.
+B1.2.5.2.2 Semantic Extension for Skills
+B1.2.5.2.2.1 Select All
+Select all suggested extensions for skills.
+B1.2.5.2.2.2 Deselect All
+Deselect all suggested extensions for skills.
+B1.2.5.3 Save Search
+B1.2.5.3.1 Name
+Provide a name for the saved search.
+B1.2.5.3.2 Description
+Add a description for the saved search.
+B1.2.5.3.3 Job Title
+Specify the job title associated with the search.
+B1.2.5.3.4 Location
+Define the location for the saved search.
+B1.2.5.3.5 Distance
+Specify the radius for the saved search.
+B1.2.5.3.6 Skills
+Include relevant skills for the search.
+B1.2.5.3.7 Project
+B1.2.5.3.7.1 Search Projects
+Find an existing project to associate with the search.
+B1.2.5.3.7.2 Mark Project as Important
+Highlight the associated project for quick access.

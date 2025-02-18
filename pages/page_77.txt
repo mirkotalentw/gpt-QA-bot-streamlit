@@ -1,0 +1,28 @@
+- Skills match percentage
+- Experience alignment
+- Qualification relevance
+- Keyword matching accuracy
+ B1.2.5.2.2 Probability of Job Change
+Sorts candidates based on their likelihood of being open to new opportunities:
+- Higher probability candidates appear first
+- Based on behavioral and professional indicators
+- Considers current employment duration and activity signals
+ B1.2.5.2.3 Probability of Relocation
+Orders candidates based on their estimated willingness to relocate:
+- Ranks by relocation likelihood
+- Considers factors like mobility history
+- Takes into account current location versus job location
+ 
+These sorting options help recruiters prioritize their outreach efforts and focus on the most 
+promising candidates first.
+B1.2.5.2 Edit Search (Semantic Expansions)
+A powerful feature that allows fine-tuning of AI-generated search expansions after the initial 
+search is performed.
+ 
+B1.2.5.2.1 Semantic Expansion for Jobs
+The system automatically generates related job titles and relevant skills based on the original job 
+title entered. For example, if searching for "Data Scientist," the system might suggest:
+- Related titles: Data Analyst, Machine Learning Engineer, AI Specialist
+- Associated skills: Python, Machine Learning, Statistical Analysis
+ 
+B1.2.5.2.1.1 Select All

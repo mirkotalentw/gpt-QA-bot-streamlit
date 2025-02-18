@@ -1,0 +1,20 @@
+Include an email field for contact.
+C1.10.4.2 Confirm Email
+Add a confirmation email field.
+C1.10.5 Price Details
+C1.10.5.1 Remove Item
+Delete specific items from the price overview.
+C1.10.5.2 Accept Terms
+Agree to the terms and conditions.
+C1.10.5.3 Go Back
+Return to the previous step.
+C1.10.5.4 Place Order
+Finalize the order for publishing the job ad.
+B Active Sourcing  
+B1 Smart Search  
+B1.1 Smart Search Filter Overview
+The Smart Search Filter system provides a powerful and intuitive way to narrow down your 
+candidate search through key parameters. These essential filters work together to create precise 
+search parameters while maintaining enough flexibility to discover relevant candidates. The 
+system uses artificial intelligence to understand and expand your search criteria intelligently, 
+ensuring you don't miss qualified candidates due to rigid keyword matching.

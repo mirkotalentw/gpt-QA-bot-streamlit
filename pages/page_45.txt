@@ -1,0 +1,25 @@
+Choose operators for a more precise Boolean search.
+B2.4.1 Title-Based Extensions
+Use extensions based on job titles for better results.
+B2.5 Boolean Search Filter Overview
+B2.5.1 City
+Define the city for your search.
+B2.5.2 Radius
+Set a radius for location-based filtering.
+B2.5.3 Country
+Specify the country for the search.
+B2.5.4 Industry Filters
+Choose from a list of industries (same as detailed in B1.2.3.2).
+B2.5.5 Search (Blue Button)
+Start the Boolean search with your selected filters.
+B2.6 Boolean Search Additional Filter Functions
+Similar to B1.2.6, this includes network-based filters, profile anonymization, and saved search 
+functionalities.
+B3 Saved Searches
+B3.1 Search by Name
+Look for saved searches using their names.
+B3.2 Search by Project
+Search for saved searches associated with specific projects.
+B3.3 Select Owner
+Filter saved searches by their owner.
+B3.3.1 All

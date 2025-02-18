@@ -1,0 +1,32 @@
+The accounts are already preloaded (the user must be logged into their LinkedIn and 
+Xing accounts before doing this).
+A prompt asks for confirmation, and if it’s the wrong account, the Not you? button allows 
+the user to sync again (log out of the incorrect account and log into the correct one).
+Alternatively, if the extension fails to fetch the account, users can manually input the 
+URL of their LinkedIn/Xing profile.
+Note: Clicking Cancel closes the modal, but it will reappear if the Message button is 
+clicked again.
+If users only have a LinkedIn account and later wish to add a Xing account, they can do so by 
+navigating to Account Settings . After accounts are added, they cannot be modified directly in 
+the system. Users will need to contact customer support to make any changes. A tooltip 
+appears when hovering over text that cannot be edited: “To update this account, please contact 
+support.”
+Using the Message Drawer
+Once the Message Drawer is opened by clicking the Message button on a candidate’s profile, 
+a pop-up titled New Message will appear on the right side of the screen.
+Tabs for Messaging
+Tabs: LinkedIn, Xing, and Email tabs are visible, with the network from the 
+candidate’s profile  being active by default (LinkedIn is set as the default if both 
+LinkedIn and Xing profiles are connected).
+Old Profile Design : Only one tab is active at a time. If the candidate has both LinkedIn 
+and Xing connected, users can switch between them.
+Non-LinkedIn/Xing Profiles : If the candidate doesn’t have a LinkedIn or Xing account, 
+these tabs will be grayed out, and a tooltip on send button will display: “You need to 
+connect the candidate’s LinkedIn/Xing profile to send messages.”
+oThe Email tab will show a Coming Soon tooltip until that feature is developed.
+If the recruiter doesn’t have their LinkedIn or Xing account connected to Talentwunder, attempts  
+to message a candidate will prompt a modal asking the user to connect their LinkedIn or Xing 
+account. The option to connect will be provided.
+Manual Sync in the Message Drawer
+Within the Message Drawer, recruiters can access a Manual Sync button for both LinkedIn 
+and Xing.

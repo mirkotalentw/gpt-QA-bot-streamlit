@@ -1,0 +1,23 @@
+Search for candidates within certain job categories.
+B2.1.5 Wildcards
+Use wildcard characters to broaden or refine search results.
+B2.1.6 Boost Factors
+Learn how to prioritize certain criteria in the search.
+B2.2 AI Assistant More explanation needed
+B2.2.1 Generate Search String
+Let the AI generate a search string based on your input. More explanation needed
+B2.2.2 Select Exact Search String
+Choose the exact match for your search query.
+B2.2.3 Select Extended Search String
+Opt for an extended search string for broader results.
+B2.2.4 Edit Text
+Manually adjust the search string as needed.
+B2.3 Project/Talent Pool
+B2.3.1 New
+B2.3.1.1 New Project
+Create a new project.
+B2.3.1.2 New Talent Pool
+Create a new talent pool.
+B2.3.2 Select Existing Project/Talent Pool
+Choose an existing project or talent pool.
+B2.4 Boolean Search Based on Operators More explanation needed

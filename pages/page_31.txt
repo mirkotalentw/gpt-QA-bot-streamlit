@@ -1,0 +1,25 @@
+B1.2.1.3 IT & Tech
+Filter networks specific to IT and tech professionals. needs more explanation/tips
+B1.2.1.3.1 IT & Tech All
+Select all IT and tech networks. needs more explanation/tips - all following networks need a 
+sentence or two of an overview of a network
+B1.2.1.3.2 Coderwall
+Search within Coderwall.
+B1.2.1.3.3 Drupal
+Search within Drupal.
+B1.2.1.3.4 Experts Exchange
+Search within Experts Exchange.
+B1.2.1.3.5 GitHub
+Search within GitHub.
+B1.2.1.3.6 GitLab
+Search within GitLab.
+B1.2.1.3.7 Hackerrank
+Search within Hackerrank.
+B1.2.1.4 Knowledge
+Filter networks related to academic and research knowledge.
+B1.2.1.4.1 Knowledge All
+Select all networks under the knowledge category.
+B1.2.1.4.2 Academia.edu
+Search within Academia.edu.
+B1.2.1.4.3 ResearchGate
+Search within ResearchGate.

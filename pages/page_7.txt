@@ -1,0 +1,29 @@
+- Star projects to mark them as favorites and then they will appear in the sidebar for quick and 
+easy access.
+   - The three-dot menu on the far right of each project provides additional actions to manage the  
+project effectively. These options include:
+Edit: Modify project details.
+Manage Team: Add or remove team members associated with the project.
+Open Project Analytics: Access detailed analytics for the project.
+Connect to ATS: Integrate the project with your ATS for HR-related tasks.
+Close: Mark the project as closed. Before closing the prompt will ask is the project 
+successful or not.
+Delete: Permanently remove the project from the list.
+This menu ensures quick access to essential management functions, all in one convenient 
+place.
+6. Export to csv: Export the selected status and included profiles as a .CSV file.
+7. Create Projects
+Click the "Create Project" button to start a new project.
+7.1 New Project
+To create a new project, please provide the Project Information, desired Process, and Job 
+Information.
+7.2 Project Information Step
+Project information helps you maintain an overview of the project and all its details. It also 
+enhances communication between you and your team.
+7.2.1 Project Name
+A concise title for your project.
+7.2.2 Project Color
+Choose a color to better categorize projects.
+7.2.3 Organization
+The organization leading the project.
+7.2.4 ID

@@ -1,0 +1,25 @@
+Private templates can be edited one at a time to customize their contents or settings. -not sure 
+what is meant by this?
+A4.3.1 Display States
+View the states included in the template. View all 
+A4.3.2 Three-Dot Function
+Access additional options for the template.
+A4.3.2.1 Use Template
+Apply the template to a project.
+A4.3.2.2 Edit
+Modify the template details.
+A4.3.2.3 Share
+Make the template available to other team members.
+A4.3.2.4 Delete
+Permanently remove the template.
+A4.4 Shared Templates
+Shared templates are visible to and usable by the entire team. These templates can also be 
+sorted and managed.
+A4.4.1 Sort by Name (F)
+Sort templates alphabetically.
+A4.4.2 States
+Displays the states included in the shared template. - displays the number of states
+A4.4.3 Team Members
+Shows the team members associated with the template.
+A4.4.4 Sort by Creation Date (F)
+Sort templates based on when they were created.

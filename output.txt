@@ -1,0 +1,3289 @@
+[START PAGE 1]
+TW APP Documentation
+1 Agenda
+The Agenda feature in the Talentwunder app is designed to manage tasks and activities, for 
+overview and organization of all candidate-related actions. Users can create tasks or actions, 
+which are then categorized and displayed for easy tracking. The Agenda provides three main 
+views:
+All: A general snapshot of all tasks.
+Completed: A list of tasks that have been finished.
+Uncompleted: Includes both pending tasks and overdue items for better prioritization.
+Users can edit tasks directly and synchronize them with their Google or Outlook calendars to 
+stay on top of deadlines and schedules. The feature also includes a detailed view where all task  
+information is displayed. This detailed view allows users to sort tasks by due date or Project and  
+filter tasks by their type (all tasks, completed, uncompleted), making it easy to focus on what's 
+most important. With these capabilities, the Agenda feature simplifies activities overview and 
+keeps things organized.
+1.1 All Tab
+This tab displays all activities and tasks, regardless of their status (completed or uncompleted).
+1.2 Completed Tab
+This tab shows only completed tasks.
+1.3 Uncompleted Tab
+Here, only pending and/or overdue tasks are displayed.
+1.4 Detail View
+The agenda's detail view allows tasks to be sorted by projects or due dates and provides the 
+option to filter tasks by status (all, completed, uncompleted).
+1.4.1 Sort By
+1.4.1.1 Due Date
+Sort tasks by their due dates.
+1.4.1.2 Project
+Sort tasks by their project.
+1.4.2 Filter By
+1.4.2.1 All Tasks
+[END PAGE 1]
+
+[START PAGE 2]
+Displays all tasks in the agenda, regardless of their status.
+1.4.2.2 Completed Tasks
+Filters the view to show only completed tasks.
+1.4.2.3 Uncompleted Tasks
+Filters the view to show only uncompleted tasks.
+2 Notifications
+The Notifications section in the Talentwunder app provides a way to manage and filter 
+notifications. Users can view all notifications or filter them to see only unread ones. Notifications 
+can also be marked as read or deleted for better organization.
+A dedicated Settings button allows users to customize their notification preferences. This 
+includes enabling or disabling app notifications (e.g., activity updates) and configuring email 
+notifications, such as receiving daily or weekly summaries at preferred times and days. This 
+setup ensures users stay updated while maintaining control over their notification flow.
+2.1 All
+Notifications are triggered based on the SaaS Notification Service and cover the following 
+events:
+2.1.1. Project Actions:
+   - Create: Notification is sent when a new project is created.
+   - Delete: Notification is sent when a project is deleted.
+   - Close/Reactivate: Notifications are sent when a project is closed or reactivated.
+2.1.2. Project Modifications:
+   - Status Changes: Notifications are sent when a project's status is modified.
+   - Renaming: Notification is triggered when a project is renamed.
+   - Member Changes: When project members are added or removed, all previous members 
+(except the one who made the changes) receive a notification.
+2.1.3. Candidate Actions:
+   - Add/Remove Candidates:  
+     - If an unread notification for the same type of candidate action (add/remove) already exists, 
+the notification will aggregate.
+[END PAGE 2]
+
+[START PAGE 3]
+- If no unread notification exists, a new one is created.
+2.1.4. Reminders:
+   - Notifications include reminders for scheduled messages, ensuring users don’t miss any 
+critical actions.
+2.1.5. Comment Mentions:
+   - Users receive notifications when they are tagged in a comment in a project overview section,  
+making collaboration seamless and ensuring important discussions are not overlooked.
+This comprehensive notification system ensures that users stay updated on all critical activities, 
+reminders, communication updates, and collaborative efforts, with similar notifications grouped 
+intelligently for clarity.
+2.2 Unread
+Displays only unread notifications for a quick overview of new or important notifications.
+2.3 Mark All as Read (Checkmark Icon)
+Use this button to mark all notifications as read at once without going through them individually. 
+Useful when many notifications come in at once.
+2.4 Settings (Gear Icon)
+This icon takes you to the notifications tab in general settings.
+2.5 Cancel
+The “X” in the upper right corner closes the notification window and takes the user back to the 
+previous view.
+3 Settings
+3.1 Account Settings
+The Account Settings section in the Talentwunder app allows users to manage their personal 
+and company-related information with ease. Here's what you can do within this section:
+3.1.1. Personal Information:
+   - Update your First Name, Last Name, and Preferred Language for the app interface.
+[END PAGE 3]
+
+[START PAGE 4]
+- Option to Clear Browser Data.
+3.1.2. Languages
+Users can change the app's interface language (German, English), making the app accessible 
+for international teams.
+3.1.3. Security:
+3.1.3.1. Reset Password: Request a password reset email to securely update your login 
+credentials (after this button is clicked, an email will be sent with password reset option).
+3.1.3.2. Two-Factor Authentication (2FA):  
+To set up Two-Factor Authentication (2FA) in the Talentwunder app, follow these simple steps:
+ 
+1. Download and Install the Authentication App:
+   - Download the Google Authenticator app on your mobile device from either the Google Play 
+Store (for Android devices) or the Apple App Store (for iOS devices).
+2. Scan the QR Code:
+   - Open the Google Authenticator app and use the QR code scanning option to scan the QR 
+code displayed on the screen. This will link your account with the authenticator app.
+3. Verify the Authentication Code:
+   - The app will generate a unique 6-digit code that changes every few seconds.
+   - Enter this code into the "Authentication Code" field in the app and click Verify Code.
+Once verified, your Two-Factor Authentication is successfully enabled. This ensures that in 
+addition to your password, you’ll need the unique code from the authenticator app to log in to 
+your account. This adds an extra layer of security to protect your data.
+The screen in the app ensures that the process is straightforward and intuitive, guiding you step 
+by step with clear instructions and providing the QR code directly for easy setup.
+3.1.4. Company Information:
+   - Add or update the Company Name and Company Description to personalize your 
+organization’s profile (where each user can set their own company name and description). This 
+information will be crucial for the messaging AI Assistant feature, that will take this data in order 
+to make personalized messages (and messaging templates as well). Once the company name
+[END PAGE 4]
+
+[START PAGE 5]
+and description are added, the possibility to add more will appear (add more button in the top 
+right corner of the Company section, meaning one user can have multiple companies and 
+corresponding descriptions for them. This can be useful for users who have multiple 
+departments and wish to have fitting descriptions for each.
+3.1.5. Legal Compliance:
+   - Download the Data Processing Agreement (DPA), compliant with Article 28 DS-GVO and 
+Article 32 DS-GVO. This document outlines data protection and security measures and can be 
+added as a supplementary agreement to your main contract. The download history is also 
+displayed for transparency.
+This section is designed to provide users with a centralized place to configure their account 
+preferences, enhance security, and manage essential documentation effectively.
+3.1.6. Save
+Save your settings.
+3.2. Activities Settings
+Get an overview of your previous activities and open them directly.
+3.2 Logout
+The option to log out of the app.
+4. Dashboard
+The dashboard in the Talentwunder application serves as a central hub for a quick overview of 
+all important projects, talentpools, analytics and project templates.  
+4.1. Projects Tab
+The Project Tab in the Talentwunder app provides a clear and organized layout to manage and 
+monitor projects efficiently. It includes several key features to ensure seamless project handling:
+1. Project Listing:
+[END PAGE 5]
+
+[START PAGE 6]
+- All projects are displayed in a tabular format, enabling users to view and access relevant 
+details briefly.
+2. Search and Filter:
+   - Use the search bar to find specific projects or candidates within projects.
+   - Apply filters to display projects based on specific criteria (show all, active, high priority, on 
+hold, closed). By default Active, High priority and on hold will be selected.
+   - Show Only Mine Checkbox: Filters the project list to display only projects created or owned 
+by the user.
+3. Project Table:
+   - Each project displays the following:
+     - ID: The ID (identification number) is a unique identifier for each project. It helps quickly 
+identify and access projects without confusion with similar ones.
+     - Name: The project name is the title or designation assigned to the project. It should be 
+concise and meaningful so team members and stakeholders can immediately recognize the 
+project's purpose.
+     - Organization: The organization refers to the company or institution that initiated or is 
+conducting the project. This information is essential to understanding the project's context and 
+knowing the organizational framework involved.
+     - Team: Team members involved, with a count for larger teams.
+     - Last Updated: The most recent update date for tracking progress.
+     - Candidates: The number of candidates currently in the project.
+     - Status: The status indicates the stage of the project, such as "Active," "High Priority," or 
+"On Hold." It is also possible to change the status from the dropdown menu.
+4. Customization:
+   - Users can sort projects by name, organization, last updated and status.
+   - The "Show only mine" checkbox allows users to view only their own projects.
+5. Quick Actions:
+[END PAGE 6]
+
+[START PAGE 7]
+- Star projects to mark them as favorites and then they will appear in the sidebar for quick and 
+easy access.
+   - The three-dot menu on the far right of each project provides additional actions to manage the  
+project effectively. These options include:
+Edit: Modify project details.
+Manage Team: Add or remove team members associated with the project.
+Open Project Analytics: Access detailed analytics for the project.
+Connect to ATS: Integrate the project with your ATS for HR-related tasks.
+Close: Mark the project as closed. Before closing the prompt will ask is the project 
+successful or not.
+Delete: Permanently remove the project from the list.
+This menu ensures quick access to essential management functions, all in one convenient 
+place.
+6. Export to csv: Export the selected status and included profiles as a .CSV file.
+7. Create Projects
+Click the "Create Project" button to start a new project.
+7.1 New Project
+To create a new project, please provide the Project Information, desired Process, and Job 
+Information.
+7.2 Project Information Step
+Project information helps you maintain an overview of the project and all its details. It also 
+enhances communication between you and your team.
+7.2.1 Project Name
+A concise title for your project.
+7.2.2 Project Color
+Choose a color to better categorize projects.
+7.2.3 Organization
+The organization leading the project.
+7.2.4 ID
+[END PAGE 7]
+
+[START PAGE 8]
+The ID (identification number) is a unique identifier for your project.
+7.2.5 Description
+The project description in the Talentwunder app should include the goals, scope, target 
+audience, and timeframe of the project. Additional information on required resources, potential 
+risks, and a communication plan is essential for fostering teamwork and ensuring project 
+success.
+7.2.6 Invite Team Members
+Select the team members you want to work with on project.
+7.2.7 Select All / Only Me
+Invite all team members to your project or work on it alone.
+7.3 Process Step
+Visually map your recruiting process using a custom project template or a default Talentwunder 
+template. 
+Templates show the hiring process progress states on the candidate (Kanban) board. Choosing 
+the Default template applies Talentwunder predefined steps, while a custom made templates 
+can be created and managed in the Project Templates tab in the Dashboard, allowing you to 
+define your own hiring process. Missing a part of the tutorial for Onboarding where it's explained  
+its best to stick to one project template across projects – this is important for future analytics 
+metrics. - ask Laura about how they explain in onboarding videos.
+7.3.1 Select Template
+Choose between a Default template or a custom made template.
+7.3.1.1 Default Template
+The default template maps the hiring process as follows: "Selected, Contacted, Declined, 
+Accepted
+7.3.1.2 Custom Template
+Select a custom-made template for your candidate process.
+7.3.2 Job Information Step
+Job information describes all relevant details for an open position or job tied to a project.
+7.3.2.1 Enter Job Title
+[END PAGE 8]
+
+[START PAGE 9]
+The job title field in the Project creation job information step requires users to select an exact name from 
+a predefined list of available positions. This ensures consistency and standardization across the platform, 
+avoiding the ambiguity that could arise from manually typed entries.
+7.3.2.2 AI Assist in Project Creation Job Information Step
+TO BE DECIDED WILL IT BE COMPLETELY REMOVED
+7.3.2.2.1 Paste Job Description Text
+Paste your job description text here and let our AI Assist analyze it.
+7.3.3 Choose City (optional)
+Select a city for this specific project, in which you wish to look for a candidate. If a city is added, 
+it can be changed (customized) later in the search. Filling this field will help users to 
+automatically trigger the Search directly from the Project.
+7.3.4 Choose Country
+Select a country for this specific project, in which you wish to look for a candidate. If country is 
+added, it can be changed (customized) later in the search. Filling this field will help users to 
+automatically trigger the Search directly from the Project.
+7.3.5 Choose Radius
+Select a radius for this specific project, in which you wish to look for a candidate. If radius is 
+added, it can be changed (customized) later in the search. Filling this field will help users to 
+automatically trigger the Search directly from the Project.
+7.3.6 Choose Industry
+Select an industry for this specific project in which you wish to look for a candidate. If industry is 
+added, it can be changed (customized) later in the search. Filling this field will help users to 
+automatically trigger the Search directly from the Project.
+7.3.7 Must-Have Skills
+Add all must-have skills that your candidate should possess. If must-have skills are added, they 
+can be changed (customized) later in the search. Filling this field will help users to automatically 
+trigger the Search directly from the Project.
+7.3.8 Optional Skills
+Add all optional skills that your candidate should possess. If optional skills are added, they can 
+be changed (customized) later in the search. Filling this field will help users to automatically 
+trigger the Search directly from the Project.
+[END PAGE 9]
+
+[START PAGE 10]
+7.3.9 Job Description
+The job description includes the precise job title, main tasks, and required qualifications/profile 
+(Must-have and optional skills) a candidate should have. It also includes information on what the  
+company offers, employment type, location, and working hours.
+7.3.10 Contract Type
+Choose between temporary and permanent contracts.
+7.3.11 Seniority
+Specify the seniority level required for the position, such as junior, mid-level, or senior.
+7.3.12 Field of Activity
+Select the appropriate field of activity for the position in the organization.
+7.3.13 Job Type
+Job Type (dropdown) represents a predefined list of job types, allowing users to categorize 
+positions based on their employment nature or status in the organization.
+7.3.14 Show/Hide Salary
+Decide whether to include salary details in your project.
+7.3.14.1 Minimum Salary
+Add the minimum salary to the job information.
+7.3.14.2 Maximum Salary
+Add the maximum salary to the job information.
+7.3.14.3 Currency
+Specify the currency for the salary.
+7.3.14.4 Interval
+Specify the salary payment interval.
+7.3.15. Finish Project Creation
+[END PAGE 10]
+
+[START PAGE 11]
+Clicking on Finish button completes the project creation and on the next window multiple options  
+are presented with three key options to proceed further:
+1.Book Job Ads: 
+a.Promote your project by booking job advertisements directly through 
+Talentwunder on various job boards.  
+b.This feature allows you to reach a wider audience by publishing job listings on 
+relevant platforms.
+2.Start Boolean Search : 
+a.Use advanced Boolean search  techniques to find candidates. This option will 
+automatically create the boolean search query for user, taking the data specified 
+within the project.
+b.This option lets you create complex and precise search queries based on the data 
+from the project to target the best-matched candidates.
+3.Start Smart Search : 
+a.Leverage Smart Search to simplify the candidate search process.  
+b.This AI-driven feature uses the project data to recommend suitable candidates 
+quickly and efficiently.
+These options ensure you can easily move forward with your recruitment process, whether by 
+promoting the role, searching with precision, or relying on AI to recommend the best candidates.
+1.3 Project Overview Tab
+The Project Overview Tab  provides users with a centralized and comprehensive view of all 
+relevant details about a specific project. When a user selects a project from the project list, this 
+tab is displayed, enabling users to access and manage the project effectively. The tab is divided
+[END PAGE 11]
+
+[START PAGE 12]
+into two main sections: Project Info and Job Info, each focusing on distinct aspects of the 
+project.
+1.3.1 Project Info Section
+The Project Info section is dedicated to the general details and attributes of the selected 
+project. It includes the following components:
+Project Name:
+Displays the official title of the project for identification purposes.
+Project Color:
+A visual identifier (e.g., magenta) assigned to the project to differentiate it from others in 
+the system.
+Project Status:
+Indicates the current state of the project, such as "High Priority."
+Project ID:
+A unique identifier assigned to the project for internal tracking.
+Organization:
+Displays the name of the organization associated with the project.
+Project Description :
+A field for defining the scope, goals, or additional details about the project, as entered 
+during the project creation phase.
+Project Members :
+Lists all team members assigned to the project, displayed alongside their email addresses 
+to promote transparency and facilitate collaboration.
+Sourced Profiles :
+Displays all candidates that are in the first step of the recruiting process. Here users can 
+see all of the incoming (freshly added) candidates to the project. The ones that made it 
+into the longlist and need more attention.  Each profile includes:
+oCandidate’s name.
+oCurrent job role.
+oNetwork or platform from which the profile was sourced.
+Comments:
+A collaborative space for team members to leave notes, feedback, or discussions about 
+the project. Comments:
+oAre displayed in chronological order.
+oAllow tagging specific team members for engagement.
+Profile Recommendations :
+Provides a curated list of candidates tailored to the project’s requirements.
+[END PAGE 12]
+
+[START PAGE 13]
+Activities:
+Tracks tasks, updates, or progress related to the project, displayed chronologically to 
+ensure transparency and accountability.
+Saved Searches :
+Allows users to store search criteria relevant to the project for streamlined sourcing 
+efforts in the future.
+Notifications:
+Provides updates about the project, such as:
+oChanges in project status.
+oAddition or removal of project members.
+oNew comments or updates.
+Notifications are timestamped for context.
+1.3.2 Job Info Section
+The Job Info section focuses on job-specific details and requirements associated with the 
+selected project. It includes the following components:
+Job Title:
+Displays the title of the job role being recruited for (e.g., SAP Consultant).
+Location Details :
+oCity: Specifies the job’s location at the city level.
+oCountry: Indicates the country where the job is based.
+oRadius (km): Defines the geographical range around the city for sourcing 
+candidates.
+Skill Requirements :
+oMandatory Skills : Lists essential skills that candidates must possess for the 
+role.
+oOptional Skills : Includes additional desirable skills that add value but are not 
+critical.
+Industry:
+Specifies the industry or domain relevant to the job role, such as IT or Finance.
+Job Description :
+A detailed field for describing the job’s responsibilities, expectations, and additional 
+context.
+Contract Information :
+Indicates the type of contract offered, such as permanent, freelance, or fixed-term.
+[END PAGE 13]
+
+[START PAGE 14]
+Seniority:
+Specifies the required experience level for the job, such as junior, mid-level, or senior.
+Field of Activity :
+Categorizes the job’s functional area or domain, such as logistics, development, or 
+operations.
+Job Type:
+Defines the nature of the job, such as full-time, part-time, or remote.
+Sourced Profiles :
+Displays all candidates that are in the first step of the recruiting process. Here users can 
+see all of the incoming (freshly added) candidates to the project. The ones that made it 
+into the longlist and need more attention.  Each entry includes:
+oCandidate’s name.
+oCurrent professional role.
+oSource or platform from which the profile was retrieved.
+Comments:
+A collaborative space where team members can leave notes or discuss aspects related to 
+the job’s requirements and progress.
+Profile Recommendations :
+Provides a curated list of recommended profiles aligned with the job’s criteria. Each 
+recommendation includes:
+oCandidate’s name and role.
+oLocation and employer.
+oSource platform of the candidate profile.
+Saved Searches :
+Enables users to save specific search criteria for future use, making sourcing more 
+efficient.
+Notifications:
+Displays real-time updates and changes related to the job, such as:
+oStatus updates.
+oChanges to job details.
+oAddition or removal of project members.
+1.3.3 Edit Field (Blue Pencil icon)
+Click the blue pencil to edit project or job information. Only Project owner can edit the project 
+details.
+[END PAGE 14]
+
+[START PAGE 15]
+1.4 Candidate Board
+Overview
+The Candidate Board is a Kanban-style feature that allows users to manage candidates visually 
+by organizing them into different states based on their progress in the hiring process. This 
+section is designed for simplicity and flexibility, enabling users to track and manage candidates 
+efficiently while offering additional tools for sorting, customization, and data export.
+Key Features of the Candidate Board
+States (Columns):
+oCandidates are organized into states (columns) representing stages in the 
+recruitment pipeline (e.g., Selected, Contacted, First Choice).
+oUsers can add new states to customize the board for their specific workflow.
+Candidate Movement:
+oCandidates can be moved across states to reflect their progression in the hiring 
+process.
+oDrag-and-drop functionality is available to rearrange candidates:
+Across states: Move candidates between different stages (e.g., from 
+"Contacted" to "Interview Scheduled").
+Within a state: Reorganize candidates by priority or any user-defined 
+criteria.
+Sorting Options:
+oCandidates within a state can be sorted alphabetically
+Three-Dot Menu (State Options):
+Each state has a three-dot menu with additional actions for managing that column:
+oSelect All / Deselect All : Quickly select or deselect all candidates in the 
+state.
+oRename: Edit the state name for better customization.
+oSet as Success State : Mark the state as the final stage (e.g., "Hired"). This 
+designation is crucial for later analytics, such as:
+Calculating time-to-hire.
+Determining conversion rates.
+oCreate Talentpool from State : Convert all candidates in the state into a 
+reusable talent pool for future projects.
+oAdd State to Talentpool : Include the state itself in a talent pool for broader 
+usage.
+oMove to Other Project : Relocate candidates from the current project to 
+another project within the system.
+oExport as .CSV : Download all candidate data from the state as a CSV file for 
+external use.
+[END PAGE 15]
+
+[START PAGE 16]
+oDelete: Remove the state entirely.
+Success State Setting:
+oThe Set as Success State  option is critical for defining which state represents 
+the final stage of the recruitment process (e.g., "Hired").
+oThis setting is used later for generating recruitment statistics, including time-to-
+hire and conversion rates.
+Filter options
+The Filter option in the Candidate Board allows users to refine their view of candidates 
+by applying various criteria. This tool is essential for narrowing down the list of 
+candidates to match specific requirements, enabling more efficient candidate 
+management. The filter is accessible via the Filter Icon located at the top of the 
+Candidate Board interface.
+Key Filter Options:
+1.Job Title:
+a.Filter candidates based on the job title they are being considered for.
+2.Name:
+a.Search for specific candidates by their names.
+3.Skills:
+a.Filter candidates who possess specific skills.
+4.Location:
+a.Filter candidates based on their geographical location.
+5.Industry:
+a.Narrow down candidates by their industry of expertise.
+6.Years Working:
+a.Set a range (e.g., "From X years to Y years") to filter candidates based on 
+their work experience.
+7.Networks:
+a.Choose specific networks (e.g., LinkedIn, Xing) to filter candidates.
+8.Language:
+a.Add languages to filter candidates who meet specific language 
+requirements.
+9.Company-Specific Filters :
+a.Works At: Filter candidates currently employed at a specific company.
+b.Does Not Work At : Exclude candidates employed at certain companies.
+c.Previously At: Filter candidates based on their past employment at a 
+specific company.
+[END PAGE 16]
+
+[START PAGE 17]
+d.Previously Not At : Exclude candidates with previous employment at 
+certain companies.
+10.Rating:
+a.Filter candidates by their star ratings, if available.
+11.Scores:
+a.Probability of Moving : Use a slider to filter candidates based on their 
+likelihood of changing jobs.
+b.Change Probability : Adjust the slider to filter candidates based on their 
+probability of making a career change.
+12.Communication Options :
+a.Filter candidates who have email or phone details available.
+13.Gender:
+a.Filter candidates by gender.
+Utility:
+The Filter function provides recruiters with a granular approach to finding the right 
+candidates for specific roles, helping them focus on the most relevant profiles.
+Export Feature
+The Export functionality allows users to download candidate data from the Candidate 
+Board in a structured format (CSV). This tool is located next to the Filter icon and 
+provides a seamless way to extract data for offline analysis or sharing.
+Key Features of Export:
+1.Select Columns for Export :
+a.Users can choose specific columns from the Candidate Board to include in  
+the export file.
+b.Examples of columns include:
+i.Selected
+ii.Contacted
+iii.Xing passt
+iv.First choice
+v.Accepted
+vi.Interview
+vii.Declined
+viii.Custom columns like "ATS state."
+[END PAGE 17]
+
+[START PAGE 18]
+2.Customizable Data Extraction :
+a.The ability to select only relevant data columns ensures that users export 
+precisely what they need without unnecessary information.
+3.Export Format:
+a.Data is exported in CSV format, which can be opened and manipulated in 
+tools like Excel or Google Sheets.
+A1.3.1.1.4 Sourced Profiles
+Displays all candidates that are in the first step of the recruiting process. Here users can see all 
+of the incoming (freshly added) candidates to the project. The ones that made it into the longlist 
+and need more attention.
+A1.3.1.2 Candidate Overview
+The Kanban board in the Talentwunder app is a visual tool for managing the recruitment 
+process. It helps clearly display candidates’ status and track their progress in the application 
+process. The board includes columns representing various recruitment steps, such as 
+"Selected," "Contacted," or "Rejected." More description would be useful here.
+A1.3.1.2.1.1 Sort Selected A-Z or Z-A
+Sort candidates alphabetically by A-Z or Z-A using the sorting symbol.
+A1.3.1.2.1.2 Three-Dot Functions
+The three-dot menu offers additional options for editing the individual process steps of your 
+candidates. For example, you can create a talent pool from a specific status.
+A1.3.1.2.1.2.1 Select All
+Selects all candidates in a column.
+A1.3.1.2.1.2.2 Deselect All
+Deselects candidates.
+A1.3.1.2.1.2.3 Rename
+Rename the selected status.
+A1.3.1.2.1.2.4 Set as Success Status
+[END PAGE 18]
+
+[START PAGE 19]
+Set the selected status as the success status. Needs more explanation.
+A1.3.1.2.1.2.5 Create Talent Pool from Status
+Create a talentpool from the selected status. Needs a bit more explanation.
+A1.3.1.2.1.2.6 Add State to Talentpool
+Add the selected status to a talentpool. Needs a bit more explanation. -ie add the candidates 
+from selected status to talentpool
+A1.3.1.2.1.2.7 Move to Another Project
+Move the selected status and candidates to another project. - I suppose it says move 
+candidates from the selected status – not the whole “status” in German?
+A1.3.1.2.1.2.8 Export as .CSV
+Export the selected status and included profiles as a .CSV file.
+A1.3.1.2.1.2.9 Delete
+Permanently deletes the status from the project. All included profiles will also be removed from 
+the project.
+A1.3.1.2.1.3 Sort Contacted A-Z or Z-A
+Sort profiles alphabetically as desired. We already have this one.
+A1.3.1.2.1.4 Three-Dot Function
+Offers the same options as listed above, such as renaming, setting as a success status, or 
+creating a talent pool. And this? 
+A1.3.1.2.1.5 Sort Rejected A-Z or Z-A – why do we have this repeating? Same goes for the 
+ones below 
+Profiles can be alphabetically sorted as needed.
+A1.3.1.2.1.6 Sort Accepted A-Z or Z-A
+Profiles can be alphabetically sorted as needed.
+A1.3.1.2.1.7 Sort ATS Status A-Z or Z-A
+Profiles can be alphabetically sorted as needed.
+A1.3.1.2.1.8 Filters
+[END PAGE 19]
+
+[START PAGE 20]
+Filter options on the right side allow narrowing the candidate search based on criteria such as 
+job title, name, skills, location, industry, years of experience, networks (e.g., LinkedIn), 
+language, and employer. Filters include reset options to clear all applied filters.  We need to list 
+all filters and maybe give explanations to some like previously at etc
+A1.3.1.3 Project Analytics
+The project analytics function in the Talentwunder app provides a comprehensive overview of 
+the progress and success of a recruitment project. It allows recruiters to monitor and assess 
+various candidate statuses and activities within a project. Visual representations and trends help  
+users quickly understand how many candidates are in different recruitment phases and how 
+these numbers change over time.
+A1.3.1.3.1 Status Graphic – Trends of the Last 30 Days
+A1.3.1.3.1.1 Entire Project
+A1.3.1.3.1.2 Selected:  Candidates marked for further consideration.
+A1.3.1.3.1.3 Contacted:  Candidates who have been reached out to.
+A1.3.1.3.1.4 Rejected:  Candidates excluded from the process for various reasons.
+A1.3.1.3.1.5 Accepted:  Candidates who gave positive feedback or accepted an offer.
+A1.3.1.3.1.6 ATS Status:  Current status of candidates in the Applicant Tracking 
+System.
+We should explain the graph, not just the states from default template. Also we are missing 
+description for other graphs from Analytics.
+A1.3.1.4 Recommendations
+The Recommendations feature in the Talentwunder app displays candidate profiles tailored to 
+the requirements of a specific position. Each candidate is shown with a photo, location, job title, 
+employer, and relevant work experience. Below the profile are the buttons " Accept" and 
+"Decline" enabling recruiters to quickly assess the suitability of the candidate. Additional 
+information on relocation willingness and job change likelihood is also available. We should also 
+put the names of these: relocation willingness = Mobility and job change likelihood = Change 
+Probability
+A1.3.1.4.1 Decline/Accept
+Next to the candidate's information are two buttons: "  Decline " and " Accept "
+These buttons help assess how relevant a profile is for potential collaboration or alignment with 
+the search criteria. - we need to explain that clicking accepts adds the candidate to the project 
+into selected (first column) in Kanban.
+A1.3.2 Edit Project via Three-Dot Function
+[END PAGE 20]
+
+[START PAGE 21]
+By clicking "Edit," users can update project details such as the name, description, 
+responsibilities, or other project-specific settings. This ensures that all information stays up-to-
+date and meets current requirements.
+A1.3.2.1 Enter Project Information
+Project information can include the project name, a unique ID, organization, a project color, and 
+a description. These details help identify and categorize the project for easy access and 
+differentiation.
+A1.3.2.2 Enter Job Information
+Job information includes job title, city, radius (in kilometers), and country. These fields provide 
+precise location data and search range, especially useful for finding local candidates. 
+Additionally, users can specify must-have and nice-to-have skills, the industry, and details like 
+contract type and seniority level.
+A1.3.3 Search Function for Projects or Candidates
+The search function allows users to find specific projects or candidates efficiently.
+A1.3.4 Filter by Status/Priority
+The "Filter by Status/Priority" function enables sorting projects by their current status (e.g., 
+active, high priority, on hold). This ensures only relevant projects are displayed, improving focus  
+and organization. Its filtering, not “sorting” of projects.
+A1.3.4.1 Show All
+The "Show All" function displays all projects or tasks without filtering by status or priority.
+A1.3.4.2 Active
+Displays only active projects or tasks currently in progress. We don’t have tasks – projects only.
+A1.3.4.3 High Priority
+Filters projects or tasks marked as particularly important. We don’t have tasks – projects only. 
+And those are not particularly important, but users have marked them as High Priority.
+A1.3.4.4 On Hold
+Shows projects or tasks that are temporarily paused or deferred. We don’t have tasks
+A1.3.4.5 Completed
+[END PAGE 21]
+
+[START PAGE 22]
+Displays projects or tasks classified as completed. We don’t have tasks
+A1.3.5 Show only mine
+This function displays only projects created by the user.
+A1.3.6 Export as .CSV
+This function allows exporting candidates and their respective statuses in a tabular .CSV format.
+A1.3.7 Add to Favorite Projects with Star Icon
+The star icon lets users mark projects as "Favorite," making them quickly accessible under the 
+"Favorite Projects" section. Section on navigation bar (missing location info u description)
+A2 Talentpools
+Talent pools are collections of candidates grouped by specific criteria. These candidates may 
+not be immediately available or suitable for a current position but could be relevant for future 
+roles or projects. Talentpools aim to build a structured and well-organized database of potential 
+talents that can be reached out to anytime.
+A2.1 Talentpools Overview
+The Talent Pool Overview in the Talentwunder app offers a structured display of all created 
+talent pools. Additionally, the top-right corner provides an option to create a new talentpool, 
+simplifying the addition and management of new talentpools. ???this sentence is confusing The 
+overview helps efficiently manage talentpools and access relevant information and candidate 
+profiles quickly.
+A2.1.1 Sort by Name
+Sorts the talentpool list alphabetically by the names of candidates or talentpools for easier 
+navigation and access. by the name of candidates???
+A2.1.2 Team Members
+Displays the number and details of candidates saved in a particular talent pool. This provides 
+insights into the size and composition of each talent pool. - This is incorrect, its team members 
+and not candidates.
+A2.1.3 Sort by Creation Date
+Orders talent pools chronologically by their creation date, making it easy to identify new or older 
+pools.
+A2.1.4 Sort by Update Date
+[END PAGE 22]
+
+[START PAGE 23]
+Sorts talent pools based on the date of the last modification, helping locate recently edited or 
+updated pools.
+A2.1.5 Candidates
+Indicates the number of candidates in the talent pool, with direct access to their profiles.
+A2.2 Edit Individual Talent Pools
+The Talentwunder app provides filter options within talentpools for targeted candidate searches.  
+Users can filter profiles by job title, name, skills, location, industry, and experience. Additional 
+options include networks, language skills, and current or excluded employers. This streamlines 
+adding candidates that meet desired criteria to the talent pool. -  the Title of this says Edit, and 
+my guess is its filters. Description for three dots and options in it is missing (its down below 
+actually, so the translation could be off here).
+A2.2.1 Show Description
+Clicking the arrow icon next to the project name reveals a description field, displaying additional 
+project details.
+A2.2.2 Add to Important Talent Pools
+The star icon allows users to mark talent pools as "Favorite," making them quickly accessible 
+under the "Favorite talentpools" section.
+A2.2.3 View Candidates
+Displays all candidates added to the talentpool. Filters on the left enable targeted searches 
+within the pool, using criteria such as job title, skills, or location. List of all filters should be 
+included. - where is this? Or is this just Talentpool when entered?
+A2.2.4 Talent Pool Three-Dot Menu
+The three-dot menu offers various actions for the talent pool. Users can edit, manage the team, 
+remove it from favorites, or delete the talent pool entirely for quick and efficient management.
+A2.2.4.1 Edit
+Allows editing of talent pool details such as name, color for visual identification, and description.
+A2.2.4.2 Manage Team
+This feature lets users add or remove team members and adjust permissions within the 
+talentpool, controlling who can access and modify it.
+A2.2.4.3 Add to Favorites
+[END PAGE 23]
+
+[START PAGE 24]
+Marks a talent pool as a favorite, making it easily accessible and improving organization.
+A2.2.4.4 Delete
+Permanently removes the talent pool and all associated data. Ensure the pool is no longer 
+needed before deletion.
+A2.3 New Talentpool
+The "New Talentpool" feature allows you to set up a new talent pool to collect and organize 
+candidate profiles. When creating a pool, you can define the name, color, and description to 
+identify it clearly and align it with the project's needs.
+A2.3.1 Name
+Assign a unique name to the talent pool for easy identification.
+A2.3.2 Select Talent Pool Color
+Choose a color for the talent pool to visually distinguish it from others.
+A2.3.3 Description
+Add a description to explain the purpose or specific features of the talent pool.
+A2.3.4 Select All / Only Me
+Set access permissions—either make the talent pool visible to all team members or restrict it to 
+the creator.
+A2.3.5 Select from List
+Choose candidates or criteria from a list to populate the talent pool. This is incorrect.
+A2.3.6 Create new Talentpool
+To create a new talent pool, click "New Talentpool " assign a name and color, add a description,  
+and decide if it should be visible to everyone or only to you. Add candidates from the list, and 
+save the talent pool by clicking "Create." - it’s not the candidates that are added to the list- its 
+collaborators/team members.
+A2.4 Search talentpool
+The "Search talentpool" function enables targeted searches for existing talentpools using their 
+name or relevant keywords.
+A3 Analytics (Available with Org. Admin License Only)
+[END PAGE 24]
+
+[START PAGE 25]
+The "Analytics" function is only accessible to users with an Organization Admin license. It 
+provides comprehensive insights and evaluations of projects and candidates, such as talentpool  
+performance, engagement rates, and other key metrics to optimize recruitment processes. - this 
+needs better explanation – talenpool performance? Engagement rates?  
+A3.1 Organization Activities
+The "Organization Activities" feature provides an overview of all recruitment activities within the 
+organization. This includes interactions with candidates, project progress, and the use of the 
+Talentwunder app, enabling admins to analyze recruitment efficiency and improve team 
+management. - this is also not a good explanation – we should adjust it with the new metrics 
+that will come out also.
+A3.1.1 Search Graph
+Displays a visual representation of search activities within the organization, such as the 
+frequency of specific candidate or profile searches. Not accurate description, what candidate?  
+A3.1.2 Number of Talentpools
+Shows the total number of talentpools created in the organization, helping to track the scope of 
+candidate collections.
+A3.1.3 Number of Projects
+Displays the total number of active and completed projects, providing a clear view of recruitment  
+progress and workload. Is it active and completed, or is it all projects?
+A3.1.4 Number of Searches
+Indicates how often the Talentwunder app's search function was used to find candidate profiles, 
+reflecting activity levels.
+A3.1.5 Number of Candidates
+Shows the total number of candidates recorded or included in talent pools, giving an overview of  
+the available talent pool. In talentpools?
+A3.2 User Activities
+The "User Activities" function provides insights into individual users' actions within the 
+Talentwunder app, such as searches conducted, talentpools created, candidates added, and 
+other interactions. This data helps admins monitor usage and identify areas for improvement in 
+recruitment processes. We should write full list of metrics offer not write such as and list 2-3
+A3.2.1 Filter by Time Period
+[END PAGE 25]
+
+[START PAGE 26]
+This feature allows filtering user activities for specific time periods. Admins can identify trends, 
+analyze activity patterns, and compare recruitment effectiveness across different timeframes.
+This is also a bit out there..
+A3.2.1.1 Last 30 Days
+Displays user activities from the past 30 days for analyzing recent trends and recruitment 
+patterns.
+A3.2.1.2 Last 60 Days
+Provides insights into activities over the last 60 days, offering a medium-term perspective on 
+app usage.
+A3.2.1.3 Last 90 Days
+Allows analysis of user activities over the last 90 days, helping identify longer-term trends and 
+patterns.
+A3.2.1.4 Custom Timeframe
+Lets users select a specific time period for analyzing activities, enabling targeted evaluations of 
+particular phases.
+A3.2.2 Export as .CSV
+This function enables downloading analytics results as a .CSV file for external storage, further 
+processing, or reporting purposes.
+A4 Project Templates
+The project template feature in the Talentwunder app simplifies and standardizes recurring 
+recruitment processes. With project templates, users can create pre-designed workflows that 
+outline the entire recruitment process for candidates. Each template can be customized to meet 
+specific project requirements.
+Templates can define various statuses that reflect the progress of candidates in the recruitment 
+process, such as "Selected," "Contacted," "Rejected," or "Accepted." These statuses provide a 
+clear structure and facilitate tracking candidate phases. - we should explain this better and have  
+something like its best to setup one universal template that will be used across projects.
+A4.1 Project Template Functions
+Includes the main functions for managing and creating project templates. - not sure what is this?
+[END PAGE 26]
+
+[START PAGE 27]
+A4.1.1 Search Template
+Allows searching for existing project templates by entering their name.
+A4.1.2 Create New Project Template
+Function to create a new project template.
+A4.1.2.1 Name
+Assign a name to the new template for unique identification.
+A4.1.2.2 Add State
+Add a recruitment process state to the template.
+A4.1.2.3 Private/Shared
+Define whether the template is only visible to the creator (Private) or accessible to the entire 
+team (Shared).
+A4.1.2.4 Save
+Save the created project template for future use.
+A4.2 Private Templates
+Private templates are only visible to their creator. These templates can be sorted and managed 
+as needed.
+A4.2.1 Sort by Name (F)
+Sort templates alphabetically by their name.
+A4.2.2 States
+Displays the states included in the template. - displays the number of states
+A4.2.3 Team Members
+Lists the team members associated with the template.
+A4.2.4 Sort by Creation Date (F)
+Sort templates chronologically by their creation date.
+A4.3 Edit Private Templates Individually
+[END PAGE 27]
+
+[START PAGE 28]
+Private templates can be edited one at a time to customize their contents or settings. -not sure 
+what is meant by this?
+A4.3.1 Display States
+View the states included in the template. View all 
+A4.3.2 Three-Dot Function
+Access additional options for the template.
+A4.3.2.1 Use Template
+Apply the template to a project.
+A4.3.2.2 Edit
+Modify the template details.
+A4.3.2.3 Share
+Make the template available to other team members.
+A4.3.2.4 Delete
+Permanently remove the template.
+A4.4 Shared Templates
+Shared templates are visible to and usable by the entire team. These templates can also be 
+sorted and managed.
+A4.4.1 Sort by Name (F)
+Sort templates alphabetically.
+A4.4.2 States
+Displays the states included in the shared template. - displays the number of states
+A4.4.3 Team Members
+Shows the team members associated with the template.
+A4.4.4 Sort by Creation Date (F)
+Sort templates based on when they were created.
+[END PAGE 28]
+
+[START PAGE 29]
+A4.5 Edit Shared Templates Individually
+Shared templates can be modified or customized as needed by team members with the 
+appropriate permissions.
+A4.5.1 Display States (F)
+View all states included in the shared template.  
+A4.5.2 Three-Dot Function
+Use the additional options for the template.
+A4.5.3 Edit Template
+Make changes to the template.
+A4.5.3.1 Add/Change Name
+Update the name of the shared template.
+A4.5.3.2 Add State
+Include additional statuses in the template.
+A4.5.3.3 Private/Shared
+Switch the template's visibility between private and shared.
+B Active Sourcing
+B1 Smart Search
+Smart Search offers advanced filtering and search options for finding candidates effectively.
+B1.1 Smart Search Filter Overview
+B1.1.1 Add or Create Project or Talentpool
+Add candidates to an existing project or talentpool or create a new one.
+B1.1.2 Job Title
+Specify the job title for the search. - needs more explanation/tips
+B1.1.3 City/Radius - here too
+[END PAGE 29]
+
+[START PAGE 30]
+Set the city and search radius.
+B1.1.4 Country
+Define the country for the search.
+B1.2 Smart Search Features
+B1.2.1 Networks (F)
+Manage and reset networks for the search. needs more explanation/tips
+B1.2.1.1 Reset Networks
+Clear the selected networks.
+B1.2.1.2 Business
+Select networks in the business category. needs more explanation/tips
+B1.2.1.2.1 Business All
+Select all networks under the business category. needs more explanation/tips
+B1.2.1.2.2 Golden Line
+Search within the Golden Line network. needs more explanation/tips
+B1.2.1.2.3 Hosco
+Search within the Hosco network. needs more explanation/tips
+B1.2.1.2.4 LinkedIn
+Search within LinkedIn. needs more explanation/tips
+B1.2.1.2.5 Viadeo
+Search within Viadeo. needs more explanation/tips
+B1.2.1.2.6 Wellfound
+Search within Wellfound. needs more explanation/tips
+B1.2.1.2.7 Xing
+Search within Xing. needs more explanation/tips
+[END PAGE 30]
+
+[START PAGE 31]
+B1.2.1.3 IT & Tech
+Filter networks specific to IT and tech professionals. needs more explanation/tips
+B1.2.1.3.1 IT & Tech All
+Select all IT and tech networks. needs more explanation/tips - all following networks need a 
+sentence or two of an overview of a network
+B1.2.1.3.2 Coderwall
+Search within Coderwall.
+B1.2.1.3.3 Drupal
+Search within Drupal.
+B1.2.1.3.4 Experts Exchange
+Search within Experts Exchange.
+B1.2.1.3.5 GitHub
+Search within GitHub.
+B1.2.1.3.6 GitLab
+Search within GitLab.
+B1.2.1.3.7 Hackerrank
+Search within Hackerrank.
+B1.2.1.4 Knowledge
+Filter networks related to academic and research knowledge.
+B1.2.1.4.1 Knowledge All
+Select all networks under the knowledge category.
+B1.2.1.4.2 Academia.edu
+Search within Academia.edu.
+B1.2.1.4.3 ResearchGate
+Search within ResearchGate.
+[END PAGE 31]
+
+[START PAGE 32]
+B1.2.1.4.4 SSRN
+Search within SSRN.
+B1.2.5 Design
+B1.2.5.1 Design All
+Select all networks under the design category.
+B1.2.5.2 Behance
+Search within Behance.
+B1.2.5.3 Das Auge
+Search within Das Auge.
+B1.2.5.4 Dribbble
+Search within Dribbble.
+B1.2.5.5 GrabCAD
+Search within GrabCAD.
+B1.2.6 Others
+B1.2.6.1 Others All
+Select all networks under the "Others" category.
+B1.2.6.2 AMS
+Search within AMS.
+B1.2.6.3 arbeit.swiss
+Search within arbeit.swiss.
+B1.2.6.4 Arbeitsagentur
+Search within the Arbeitsagentur network.
+B1.2.6.5 Freelancermap
+Search within Freelancermap.
+[END PAGE 32]
+
+[START PAGE 33]
+B1.2.2 Hide Profiles
+B1.2.2.1 Select All
+Select all profiles to be hidden.
+B1.2.2.2 All Projects
+Choose profiles from all projects.
+B1.2.2.3 Own Projects
+Choose profiles from your own projects. - not sure what is this?  
+B1.2.3 Filters missing explanation
+B1.2.3.1 Skills
+B1.2.3.1.1 Must-Have Skills
+Filter candidates by required skills.
+B1.2.3.1.2 Nice-to-Have Skills
+Filter candidates by optional skills.
+B1.2.3.1.3 Pro Tip
+Tips for defining skill requirements.  - more explanation ad tips regarding Smart Search
+B1.2.3.2 Industry
+Choose an industry to filter candidates:
+Architecture and Planning
+Automotive
+Banking and Financial Services
+Consulting
+Chemical Industry
+Energy, Water, and Environment
+Education and Science
+Tourism and Hospitality
+Gambling and Casinos
+Health and Wellness
+Real Estate
+Manufacturing and Engineering
+[END PAGE 33]
+
+[START PAGE 34]
+Information Technology
+Construction
+Consumer Goods and Retail
+Art and Culture
+Agriculture
+Aerospace
+Marketing, PR, and Design
+Media and Publishing
+Public Sector and Associations
+Staffing and Recruitment
+Pharmaceuticals
+Sports
+Telecommunications
+Transport and Logistics
+Entertainment
+Insurance
+Auditing, Taxes, and Law
+Other Industries
+B1.2.3.3 Experience in Years
+B1.2.3.3.1 From (Specify Years)
+Specify minimum years of experience.
+B1.2.3.3.2 To (Specify Years)
+Specify maximum years of experience.
+B1.2.3.4 Language
+B1.2.3.4.1 Enter Language
+Search for candidates fluent in a specific language.
+B1.2.3.4.2 Pro Tip
+Suggestions for defining language requirements.
+B1.2.3.5 Company
+B1.2.3.5.1 Works At (Enter Company)
+Filter candidates currently employed at a specific company.
+[END PAGE 34]
+
+[START PAGE 35]
+B1.2.3.5.2 Does Not Work At (Enter Company)
+Exclude candidates employed at a specific company.
+B1.2.3.5.3 Previously Worked At (Enter Company)
+Filter candidates who previously worked at a specific company.
+B1.2.3.5.4 Did Not Previously Work At (Enter Company)
+Exclude candidates who previously worked at a specific company.
+B1.2.3.5.5 Pro Tip
+Tips for narrowing company-based searches.
+B1.2.3.6 Candidate Is
+B1.2.3.6.1 Female
+Filter candidates who identify as female.
+B1.2.3.6.2 Male
+Filter candidates who identify as male.
+B1.2.3.6.3 Consultant
+Filter candidates identified as consultants.
+B1.2.3.6.4 Freelancer
+Filter candidates identified as freelancers.
+B1.2.3.6.5 Executive
+Filter candidates in executive roles.
+B1.2.3.6.6 Student
+Filter candidates identified as students.
+B1.2.3.6.7 Scientist
+Filter candidates identified as scientists.
+B1.2.3.7 Candidate Is Not
+[END PAGE 35]
+
+[START PAGE 36]
+Similar options as Candidate Is, but for exclusion.
+B1.2.3.8 Communication
+B1.2.3.8.1 Email
+Filter candidates with available email contact.
+B1.2.3.8.2 Phone
+Filter candidates with available phone contact.
+B1.2.3.9 Likelihood of Relocation
+B1.2.3.9.1 Slider
+Adjust the slider to filter candidates based on their willingness to relocate.
+B1.2.3.10 Likelihood of Job Change
+B1.2.3.10.1 Slider
+Adjust the slider to filter candidates based on their likelihood of changing jobs.
+B1.2.4 Anonymize Profiles (Checkmark)
+Enable profile anonymization to protect candidate privacy.
+B1.2.5 New Search
+B1.2.5.1 Compact/List View
+Toggle between a compact or detailed view of search results.
+B1.2.5.2 Sorting
+Sort search results by relevance, relocation likelihood, or job change likelihood. Change 
+probability, Mobility
+B1.2.5.2 Edit Search (Semantic Extensions) missing explanation
+B1.2.5.2.1 Semantic Extension for Jobs missing explanation
+B1.2.5.2.1.1 Select All
+Select all suggested extensions.
+B1.2.5.2.1.2 Deselect All
+[END PAGE 36]
+
+[START PAGE 37]
+Deselect all suggested extensions.
+B1.2.5.2.2 Semantic Extension for Skills
+B1.2.5.2.2.1 Select All
+Select all suggested extensions for skills.
+B1.2.5.2.2.2 Deselect All
+Deselect all suggested extensions for skills.
+B1.2.5.3 Save Search
+B1.2.5.3.1 Name
+Provide a name for the saved search.
+B1.2.5.3.2 Description
+Add a description for the saved search.
+B1.2.5.3.3 Job Title
+Specify the job title associated with the search.
+B1.2.5.3.4 Location
+Define the location for the saved search.
+B1.2.5.3.5 Distance
+Specify the radius for the saved search.
+B1.2.5.3.6 Skills
+Include relevant skills for the search.
+B1.2.5.3.7 Project
+B1.2.5.3.7.1 Search Projects
+Find an existing project to associate with the search.
+B1.2.5.3.7.2 Mark Project as Important
+Highlight the associated project for quick access.
+[END PAGE 37]
+
+[START PAGE 38]
+B1.2.5.3.7.3 Create New Project
+Create a new project from the search results.
+B1.2.5.3.8 Select All
+Select all search criteria.
+B1.2.5.3.9 Remove All
+Clear all selected criteria.
+B1.2.5.3.10 Choose from List
+Select specific items from a predefined list.
+B1.2.5.3.11 Bookmark Page
+Save the search as a bookmark. More explanation
+B1.2.5.3.12 Save Search
+Save the current search settings for future use. More explanation
+B1.2.5.4 Candidate Overview
+B1.2.5.4.1 Mark Candidate (Checkmark)
+Select a candidate for further actions.
+B1.2.5.4.1.1 Report Duplicate
+Flag a candidate profile as a duplicate. More explanation
+B1.2.5.4.1.2 Deselect
+Unselect a candidate.  It deselects all, not just one
+B1.2.5.4.2 Folder Icon
+B1.2.5.4.2.1 Add to Project
+Add the candidate to a specific project. More explanation on how it works
+B1.2.5.4.2.2 Add to Talentpool
+Add the candidate to a specific talent pool. More explanation
+[END PAGE 38]
+
+[START PAGE 39]
+B1.2.5.4.2.3 Create New Project
+Create a new project and add the candidate.
+B1.2.5.4.3 View Network Profile
+Open the candidate’s profile on a professional network, e.g., LinkedIn or Xing.
+B1.2.5.4.4 Candidate Preview
+View a detailed preview of the candidate’s profile. More explanation
+B1.2.5.5 Candidate Profile – Detailed View More explanation – not sure if from now the 
+candidate profile starts – we can put the superprofile in here
+B1.2.5.5.1 Add to Project
+Include the candidate in a specific project. More explanation
+B1.2.5.5.2 Add to Talent Pool
+Include the candidate in a specific talent pool. More explanation this is repeating
+B1.2.5.5.3 Share Candidate
+Share the candidate’s profile with team members. More explanation
+B1.2.5.5.4 Link Profiles
+Link multiple profiles of the same candidate. More explanation
+B1.2.5.5.5 More Options (Three-Dot Menu)
+B1.2.5.5.5.1 Contact Information
+Access the candidate’s contact information. More explanation
+B1.2.5.5.5.2 Links
+View external links related to the candidate. More explanation
+B1.2.5.5.5.3 Request Business Email
+Send a request for the candidate’s business email address. More explanation
+B1.2.5.5.6 Change Timeline View
+Switch between different timeline display modes.
+[END PAGE 39]
+
+[START PAGE 40]
+B1.2.5.5.7 Add Note
+Create a note about the candidate. More explanation
+B1.2.5.5.7.1 Visible to All/Visible to Me
+Set note visibility for the team or keep it private.  
+B1.2.5.5.7.2 Select Project
+Associate the note with a project.
+B1.2.5.5.7.3 Create Project
+Create a new project and associate the note with it.
+B1.2.5.5.7.4 Save Note
+Save the note to the candidate’s profile.
+B1.2.5.5.8 Activity
+Schedule or track activities related to the candidate.
+B1.2.5.5.8.1 Title/Subject
+Specify the activity’s title or subject (e.g., email, meeting, or call).
+B1.2.5.5.8.2 Date and Time
+Set the date and time for the activity.
+B1.2.5.5.8.3 Duration/Reminder
+Define the activity’s duration or set a reminder.
+B1.2.5.5.8.4 Details/Messages
+Add details or messages related to the activity.
+B1.2.5.5.8.5 Select Project
+Associate the activity with an existing project.
+B1.2.5.5.8.6 Create Project
+Create a new project to link with the activity.
+[END PAGE 40]
+
+[START PAGE 41]
+B1.2.5.5.8.7 Add Activity
+Save the activity (e.g., email, call, meeting) to the candidate’s profile.
+B1.2.5.5.9 Timeline
+View the candidate’s timeline for insights into past interactions.
+B1.2.5.5.9.1 Select Project/All Projects
+Choose a specific project or view all associated projects.
+B1.2.5.5.9.2 Activities
+See activities linked to the candidate.
+B1.2.5.5.9.3 Ratings
+Review ratings for the candidate.
+B1.2.5.5.9.4 Notes
+View notes added to the candidate’s profile.
+B1.2.5.5.9.5 System
+View system-generated updates about the candidate.
+B1.2.5.5.10 Select Similar Candidate Profiles
+Identify and explore profiles similar to the current candidate.
+B1.2.5.5.11 Message Generator More explanation needed
+B1.2.5.5.11.1 Choose Network (LinkedIn/Xing)
+Select the network to contact the candidate, e.g., LinkedIn or Xing.
+B1.2.5.5.11.2 Select Contact Request/Message
+Choose whether to send a contact request or a message.
+B1.2.5.5.11.2.1 Use Message Credit
+Utilize available message credits for sending the communication.
+[END PAGE 41]
+
+[START PAGE 42]
+B1.2.5.5.11.3 AI Assistant More explanation needed
+B1.2.5.5.11.3.1 Select Language (English/German)
+Choose the language for the message.
+B1.2.5.5.11.3.2 Project
+Associate the message with a project.
+B1.2.5.5.11.3.3 Company
+Include the company name in the message.
+B1.2.5.5.11.3.4 Job Description
+Add the job description to tailor the message.
+B1.2.5.5.11.3.5 Company Description
+Include the company description in the message.
+B2 Boolean Search
+B2.1 Search Information (Lightbulb Icon)
+Get tips and details for conducting a Boolean search. More explanation needed
+B2.1.1 Expressions
+Learn about specific expressions for search queries.
+B2.1.2 Grouping Elements
+Understand how to group elements effectively.
+B2.1.3 Boolean Operators
+Learn the available operators for refining search results.
+B2.1.4 Additional Filter Options
+B2.1.4.1 Shortcut
+[END PAGE 42]
+
+[START PAGE 43]
+Quickly apply predefined search filters.
+B2.1.4.2 Current Position
+Filter candidates based on their current job title.
+B2.1.4.3 Previous Position
+Filter candidates by their previous job title.
+B2.1.4.4 Current Employer
+Search candidates working for specific companies.
+B2.1.4.5 Language Skills
+Filter candidates by their language proficiency.
+B2.1.4.6 Gender
+Filter candidates by gender.
+B2.1.4.7 Likelihood of Job Change
+Adjust the filter based on candidates’ likelihood of switching jobs.
+B2.1.4.8 Likelihood of Relocation
+Filter candidates by their willingness to relocate.
+B2.1.4.9 Work Experience
+Search based on candidates’ years of experience.
+B2.1.4.10 Experience in Current Position
+Filter by how long candidates have been in their current role.
+B2.1.4.11 Candidates with Email Address
+Show only candidates with an email address.
+B2.1.4.12 Candidates with Phone Number
+Show only candidates with a phone number.
+B2.1.4.13 Specific Job Groups
+[END PAGE 43]
+
+[START PAGE 44]
+Search for candidates within certain job categories.
+B2.1.5 Wildcards
+Use wildcard characters to broaden or refine search results.
+B2.1.6 Boost Factors
+Learn how to prioritize certain criteria in the search.
+B2.2 AI Assistant More explanation needed
+B2.2.1 Generate Search String
+Let the AI generate a search string based on your input. More explanation needed
+B2.2.2 Select Exact Search String
+Choose the exact match for your search query.
+B2.2.3 Select Extended Search String
+Opt for an extended search string for broader results.
+B2.2.4 Edit Text
+Manually adjust the search string as needed.
+B2.3 Project/Talent Pool
+B2.3.1 New
+B2.3.1.1 New Project
+Create a new project.
+B2.3.1.2 New Talent Pool
+Create a new talent pool.
+B2.3.2 Select Existing Project/Talent Pool
+Choose an existing project or talent pool.
+B2.4 Boolean Search Based on Operators More explanation needed
+[END PAGE 44]
+
+[START PAGE 45]
+Choose operators for a more precise Boolean search.
+B2.4.1 Title-Based Extensions
+Use extensions based on job titles for better results.
+B2.5 Boolean Search Filter Overview
+B2.5.1 City
+Define the city for your search.
+B2.5.2 Radius
+Set a radius for location-based filtering.
+B2.5.3 Country
+Specify the country for the search.
+B2.5.4 Industry Filters
+Choose from a list of industries (same as detailed in B1.2.3.2).
+B2.5.5 Search (Blue Button)
+Start the Boolean search with your selected filters.
+B2.6 Boolean Search Additional Filter Functions
+Similar to B1.2.6, this includes network-based filters, profile anonymization, and saved search 
+functionalities.
+B3 Saved Searches
+B3.1 Search by Name
+Look for saved searches using their names.
+B3.2 Search by Project
+Search for saved searches associated with specific projects.
+B3.3 Select Owner
+Filter saved searches by their owner.
+B3.3.1 All
+[END PAGE 45]
+
+[START PAGE 46]
+View all saved searches.
+B3.3.2 Own
+See only your own saved searches.
+B3.3.3 Shared
+View searches shared by others.
+B3.4 Start New Search (Blue Button)
+Begin a new search from scratch.
+B3.5 Overview of Saved Searches
+B3.5 Overview of Saved Searches
+B3.5.1 Smart Searches
+B3.5.1.1 Name
+Display the name of the saved smart search.
+B3.5.1.2 Project
+Show the project associated with the saved search.
+B3.5.1.3 Created By
+Display who created the saved search.
+B3.5.1.4 Last Updated
+Show the date when the search was last updated.
+B3.5.1.5 Display Description
+View the description of the saved search.
+B3.5.1.6 Three-Dot Menu
+B3.5.1.6.1 Edit Search
+Modify the saved search criteria.
+B3.5.1.6.2 Share Search
+[END PAGE 46]
+
+[START PAGE 47]
+Share the saved search with others.
+B3.5.1.6.3 Delete Search
+Remove the saved search permanently.
+B3.5.2 Boolean Searches Overview
+Same structure as B3.5.1, but for saved Boolean searches.
+C Job Ads More explanation needed
+C1 Job Ad Overview
+C1.1 Select Project
+Choose a project to link with the job ad.
+C1.2 Select Job Boards
+Pick job boards to post the ad.
+C1.3 Job Title
+Specify the job title for the ad.
+C1.4 Location
+Define the job location.
+C1.5 Switch View
+Toggle between compact and listed views.
+C1.6 Products
+C1.6.1 Product Overview
+View available products for posting.
+C1.6.1.1 Product Detail View
+View details of the product.
+C1.6.1.1.1 Checkbox Function
+[END PAGE 47]
+
+[START PAGE 48]
+Select products using checkboxes.
+C1.6.1.1.2 Select Product
+Highlight a specific product.
+C1.6.1.1.3 Add to Cart
+Add selected products to your cart.
+C1.7 Packages
+C1.7.1 Package Overview
+View available packages for posting.
+C1.7.2 Add Package to Cart
+Add selected packages to your cart.
+C1.8 Cart
+C1.8.1 Delete Items
+Remove specific products or packages from the cart.
+C1.8.2 Remove All
+Clear all items from the cart.
+C1.8.3 Proceed to Job Ad Editor
+Move to the next step for editing the job ad.
+C1.9 Job Ad Editor
+C1.9.1 Header Image 1
+C1.9.1.1 Upload or Drag and Drop
+Add the first header image.
+C1.9.2 Header Image 2
+Same as above for the second header image.
+C1.9.3 Header Image 3
+[END PAGE 48]
+
+[START PAGE 49]
+Same as above for the third header image.
+C1.9.4 Design
+C1.9.4.1 Upload Logo
+Upload a logo or drag and drop it.
+C1.9.4.2 Video Link (YouTube or Vimeo)
+Insert a video link for the ad.
+C1.9.4.3 Title and CTA Color
+Set the color for the title and call-to-action.
+C1.9.4.4 Background Color
+Choose a background color.
+C1.9.4.5 Upload Background Image
+Add a background image via upload or drag and drop.
+C1.9.4.6 URL/Email
+Specify a URL or email for applications.
+C1.9.4.7 Apply Button Text
+Customize the wording for the apply button.
+C1.9.4.8 Apply Button URL
+Add a URL for the apply button redirect.
+C1.9.5 Details
+C1.9.5.1 Project
+Link the ad to a project.
+C1.9.5.2 Job Title
+Add the job title.
+C1.9.5.3 Company Name
+[END PAGE 49]
+
+[START PAGE 50]
+Enter the company name.
+C1.9.5.4 Industry
+Select the relevant industry.
+C1.9.5.5 Functional Area
+Define the job’s functional area.
+C1.9.5.6 Seniority
+Specify the required seniority level.
+C1.9.5.7 Job Type
+Select the job type (e.g., full-time, part-time).
+C1.9.5.8 Contract Type
+Indicate whether the position is permanent or fixed-term.
+C1.9.5.9 Number of Open Positions
+Enter the number of vacancies.
+C1.9.5.10 Remote Work
+Specify if remote work is available.
+C1.9.5.11 Keywords
+Add relevant keywords for the ad.
+C1.9.5.12 Reference Number
+Include a reference number for tracking.
+C1.9.5.13 Publication Date
+Set the date when the ad should be published.
+C1.9.5.14 Contact Person
+Add a contact person’s details.
+C1.9.5.15 Email
+[END PAGE 50]
+
+[START PAGE 51]
+Provide an email address for inquiries.
+C1.9.5.16 Phone
+Add a phone number for inquiries.
+C1.9.5.17 URL
+Provide a URL for more information.
+C1.9.5.18 Salary
+Specify salary details:
+C1.9.5.18.1 Minimum Salary
+C1.9.5.18.2 Maximum Salary
+C1.9.5.18.3 Currency
+C1.9.5.18.4 Interval
+C1.9.5.19 Country
+Specify the job’s country.
+C1.9.5.20 Region
+Add the region for the job.
+C1.9.5.21 City
+Include the job’s city.
+C1.9.5.22 Postal Code
+Add the postal code.
+C1.9.5.23 Street
+Provide the street address.
+C1.9.5.24 Add Another Location
+Include additional locations if needed.
+C1.9.5.25 Save and Continue
+Save the details and proceed.
+C1.9.6 Write Introduction
+[END PAGE 51]
+
+[START PAGE 52]
+C1.9.6.1 Job Title
+Add the job title.
+C1.9.6.2 Your Tasks
+Describe the tasks associated with the role.
+C1.9.6.3 Your Profile
+List the qualifications and skills required.
+C1.9.6.4 What We Offer
+Highlight the benefits of working with your company.
+C1.9.6.5 Contact
+Add contact details for applicants.
+C1.9.7 Apply
+Define the application process.
+C1.9.8 Continue
+C1.9.8.1 Save and Continue
+Save the ad and proceed to the next step.
+C1.10 Job Ad Summary/Overview
+C1.10.1 View Header Images
+Preview the uploaded header images.
+C1.10.2 Apply Button
+Check the functionality of the apply button.
+C1.10.3 View Preview
+See a preview of the completed job ad.
+C1.10.4 Additional Product Fields
+C1.10.4.1 Add Email
+[END PAGE 52]
+
+[START PAGE 53]
+Include an email field for contact.
+C1.10.4.2 Confirm Email
+Add a confirmation email field.
+C1.10.5 Price Details
+C1.10.5.1 Remove Item
+Delete specific items from the price overview.
+C1.10.5.2 Accept Terms
+Agree to the terms and conditions.
+C1.10.5.3 Go Back
+Return to the previous step.
+C1.10.5.4 Place Order
+Finalize the order for publishing the job ad.
+B Active Sourcing  
+B1 Smart Search  
+B1.1 Smart Search Filter Overview
+The Smart Search Filter system provides a powerful and intuitive way to narrow down your 
+candidate search through key parameters. These essential filters work together to create precise 
+search parameters while maintaining enough flexibility to discover relevant candidates. The 
+system uses artificial intelligence to understand and expand your search criteria intelligently, 
+ensuring you don't miss qualified candidates due to rigid keyword matching.
+[END PAGE 53]
+
+[START PAGE 54]
+B1.1.1 Add or Create New Project or Talent Pool
+B1.1.2 Job Title
+The Job Title filter is a smart, AI-enhanced search field that goes beyond simple keyword 
+matching. Key features include:
+Intelligent recognition of job title variations and synonyms
+Automatic inclusion of related positions and equivalent roles
+Understanding of industry-specific title conventions
+Recognition of international job title variations
+Suggestion of relevant alternative titles during search
+For example, entering "Data Scientist" might also consider:
+Related roles like "Data Analyst" or "Machine Learning Engineer"
+Industry variations like "AI Researcher" or "Statistical Analyst"
+Regional title differences across markets
+B1.1.3 City/Radius
+The City/Radius filter allows for location-based searching with flexible geographic targeting:
+Enter any city name to center your search
+Set a custom radius (in kilometers) to define the search area
+Includes surrounding communities and suburbs within the specified radius
+Considers candidate willingness to relocate within the area
+Accounts for commutable distances based on transportation infrastructure
+Features:
+Autocomplete city name suggestions
+Adjustable radius from 0-500 km
+Smart recognition of metropolitan areas
+Consideration of cross-border regions where applicable
+B1.1.4 Country
+The Country filter enables precise geographical targeting at the national level:
+Select specific countries for your search
+[END PAGE 54]
+
+[START PAGE 55]
+Supports multi-country selection for international searches
+Includes recognition of work permit requirements
+Considers regional job markets and local regulations
+Benefits:
+Ensures compliance with local employment laws
+Helps focus on candidates with appropriate work authorization
+Enables targeted searches in specific job markets
+Supports international recruitment campaigns
+Facilitates region-specific talent pool building
+ 
+B1.2 Smart Search Functions
+The Smart Search Functions represent the core capabilities and advanced features that power our 
+intelligent candidate search system. These functions work together to create a comprehensive, 
+efficient, and precise search experience.
+Key Components and Capabilities:
+1.Network Integration
+Unified search across multiple professional networks
+Categorized access to various talent pools (Business, IT & Tech, Knowledge, Design, 
+Others)
+Smart aggregation of candidate information from multiple sources
+Real-time profile synchronization across platforms
+2.Intelligent Search Processing
+AI-powered search expansion
+Automated skill matching and recommendation
+Natural language processing for better search understanding
+Contextual understanding of industry-specific terms
+Semantic matching of related job titles and skills
+3.Advanced Filtering System
+Multi-layered filter combinations
+Dynamic filter suggestions based on search context
+Real-time result updates as filters are applied
+Filter dependency recognition and smart recommendations
+4.Profile Management
+[END PAGE 55]
+
+[START PAGE 56]
+Profile visibility controls
+Candidate anonymization options
+Duplicate profile detection
+Profile quality scoring
+Recent activity indicators
+5.Search Optimization Features
+Auto-suggestion of search terms
+Related search recommendations
+Search history tracking
+Saved search templates
+Performance analytics and search effectiveness metrics
+6.User Experience Enhancements
+Intuitive interface for complex searches
+Quick filter applications and removals
+Search progression indicators
+Result preview capabilities
+Export and sharing options
+7.Compliance and Privacy
+GDPR-compliant search processes
+Data protection controls
+Consent management integration
+Privacy-first candidate handling
+Benefits of Smart Search Functions:
+1.Efficiency Improvements
+Reduced time-to-find qualified candidates
+Streamlined workflow for recruiters
+Automated routine search tasks
+Quick access to relevant talent pools
+2.Quality Enhancement
+More accurate candidate matching
+Reduced noise in search results
+Better candidate relevance scoring
+Comprehensive profile evaluation
+3.Strategic Advantages
+Access to passive candidates
+Market intelligence gathering
+Competitive talent pool analysis
+[END PAGE 56]
+
+[START PAGE 57]
+Proactive recruitment capabilities
+4.Risk Mitigation
+Compliance with data protection regulations
+Consistent search methodology
+Documented search processes
+Fair candidate evaluation practices
+Best Practices for Usage:
+1.Search Strategy
+Start with broader searches and refine gradually
+Utilize multiple network combinations
+Regular review and adjustment of search parameters
+Save successful search combinations as templates
+2.Filter Application
+Apply filters in order of importance
+Monitor result counts as filters are added
+Use radius searching for location flexibility
+Combine filters strategically for best results
+3.Profile Management
+Regular cleanup of hidden profiles
+Consistent use of anonymization when required
+Systematic approach to candidate review
+Regular update of saved searches
+The Smart Search Functions are designed to evolve with user needs and market requirements, 
+continuously improving through machine learning and user feedback. Regular updates and 
+enhancements ensure the system remains current with industry best practices and technological 
+advancements.
+B1.2.1 Networks (F)
+B1.2.1.1 Reset Networks
+The Reset Networks function serves as a quick and efficient way to clear all currently selected 
+network filters in your search. This feature is essential for maintaining an organized and efficient  
+search process in the following ways:
+Key Functions:
+[END PAGE 57]
+
+[START PAGE 58]
+Instantly clears all selected network filters with a single click
+Returns the network selection to its default state
+Removes any network-specific restrictions from your search
+When to Use:
+Starting a fresh search with new criteria
+Broadening your search scope after a narrow network-specific search
+Correcting accidentally applied network filters
+Quickly switching between different search strategies
+Ensuring no hidden network filters are affecting your search results
+Benefits:
+Saves time compared to manually deselecting each network
+Prevents search errors from forgotten active filters
+Ensures a clean slate for new searches
+Helps maintain search accuracy and consistency
+Simplifies the transition between different search approaches
+This straightforward but essential function helps recruiters maintain efficient workflow and 
+avoid potential oversights in their candidate search process.
+B1.2.1.2 Business
+The Business networks category encompasses professional platforms primarily focused on career  
+development, business networking, and professional relationships. These networks are essential 
+for recruiters as they contain comprehensive professional profiles, including work history, skills, 
+and career achievements. Business networks typically attract professionals from all industries, 
+making them valuable sources for diverse hiring needs, from entry-level positions to executive 
+roles. These platforms often feature built-in communication tools, professional groups, and 
+industry-specific communities, enabling effective candidate engagement and relationship 
+building.
+B1.2.1.2.1 Business All
+The "Business All" option enables simultaneous searching across all business-oriented networks,  
+providing maximum reach and efficiency in your candidate search. This comprehensive 
+approach allows recruiters to:
+Access a wider talent pool across multiple professional platforms
+[END PAGE 58]
+
+[START PAGE 59]
+Save time by conducting parallel searches across different networks
+Compare candidate availability and activity across various platforms
+Identify candidates who maintain profiles on multiple networks, indicating active 
+professional presence
+Gather more complete professional information by combining data from different sources
+Scale their sourcing efforts while maintaining search precision
+Selecting "Business All" is particularly useful when:
+Launching new hiring campaigns
+Searching for candidates in competitive markets
+Looking for professionals across different regions
+Needing to build a large talent pool quickly
+Wanting to understand the overall talent landscape for specific roles
+B1.2.1.2.2 Golden Line
+Popular professional network in Poland
+B1.2.1.2.3 Hosco
+Specialized network for hospitality industry professionals
+B1.2.1.2.4 LinkedIn
+World's largest professional network, ideal for all industries and roles
+B1.2.1.2.5 Viadeo
+French professional networking platform
+B1.2.1.2.6 Wellfound
+Startup-focused network for tech talent
+B1.2.1.2.7 Xing
+Primary business network in German-speaking regions (DACH)
+ 
+B1.2.1.3 IT & Tech
+The IT & Tech networks category focuses on platforms specifically designed for technology 
+professionals, developers, and digital specialists. These networks are distinguished by their 
+technical focus, featuring code repositories, project contributions, and specialized skill
+[END PAGE 59]
+
+[START PAGE 60]
+demonstrations. Unlike general business networks, IT & Tech platforms often showcase practical  
+abilities through actual work samples, open-source contributions, and technical problem-solving 
+capabilities. These networks are invaluable for recruiters seeking candidates with verified 
+technical expertise, as they provide insight into a candidate's actual coding practices, project 
+involvement, and technical community engagement.
+B1.2.1.3.1 IT & Tech All
+The "IT & Tech All" option provides a unified search across all technology-focused platforms, 
+offering recruiters a comprehensive view of technical talent. This consolidated approach enables:
+Evaluation of candidates' technical capabilities across multiple platforms
+Assessment of coding practices and programming language expertise
+Review of contributions to open-source projects and technical communities
+Understanding of candidates' problem-solving approaches and coding style
+Discovery of specialists in specific technologies or frameworks
+Verification of technical skills through actual project work and peer recognition
+This comprehensive search option is particularly valuable when:
+Searching for specialists with specific technical expertise
+Evaluating candidates' practical coding abilities
+Looking for active contributors to technical communities
+Seeking evidence of hands-on experience with specific technologies
+Needing to assess both technical skills and community involvement
+Building specialized technical teams or filling niche technical roles
+B1.2.1.3.2 Coderwall
+Community platform for programmers sharing technical tips
+B1.2.1.3.3 Drupal
+Community of web developers specializing in Drupal CMS
+B1.2.1.3.4 Experts Exchange
+Q&A platform for technology professionals
+B1.2.1.3.5 GitHub
+Leading platform for software developers and code repositories
+B1.2.1.3.6 GitLab
+[END PAGE 60]
+
+[START PAGE 61]
+DevOps platform with repository management
+B1.2.1.3.7 Hackerrank
+Platform for coding challenges and technical assessments
+ 
+B1.2.1.4 Knowledge
+The Knowledge networks category encompasses platforms dedicated to academic research, 
+scientific collaboration, and scholarly work. These networks serve as hubs for researchers, 
+scientists, academics, and subject matter experts across various disciplines. Unlike business or 
+tech networks, Knowledge platforms focus on academic achievements, published research, 
+citations, and scholarly contributions. These networks are particularly valuable for recruiters 
+seeking candidates with deep theoretical knowledge, research experience, or academic 
+backgrounds. They provide unique insights into candidates' scholarly work, publication history, 
+and their standing within academic and research communities.
+B1.2.1.4.1 Knowledge All
+The "Knowledge All" option enables a comprehensive search across all academic and research-
+oriented platforms, providing recruiters with a complete view of scholarly talent. This integrated 
+approach allows:
+Access to profiles of academics, researchers, and subject matter experts
+Review of published works, papers, and research contributions
+Assessment of candidates' expertise through citation metrics and peer recognition
+Understanding of research methodologies and specialized knowledge areas
+Discovery of emerging experts and thought leaders in specific fields
+Evaluation of collaboration networks and research partnerships
+This consolidated search is particularly effective when:
+Recruiting for research and development positions
+Seeking experts for specialized scientific roles
+Building teams for knowledge-intensive projects
+Looking for thought leaders in specific academic fields
+Needing candidates with proven research capabilities
+Recruiting for positions requiring advanced degrees or research experience
+Identifying experts for consulting or advisory roles
+B1.2.1.4.2 Academia.edu
+[END PAGE 61]
+
+[START PAGE 62]
+Platform for academic researchers and papers
+B1.2.1.4.3 ResearchGate
+Professional network for scientists and researchers
+B1.2.1.4.4 SSRN
+Research platform focusing on social sciences
+ 
+B1.2.5 Design
+The Design networks category encompasses platforms specifically created for creative 
+professionals, visual artists, and design specialists. These networks distinguish themselves by 
+their focus on visual portfolios, creative projects, and design achievements. Unlike traditional 
+professional networks, Design platforms prioritize visual demonstration of skills through project 
+showcases, allowing recruiters to directly assess creative abilities and style. These networks are 
+crucial for identifying talent in various design disciplines, from graphic design and UI/UX to 
+industrial design and 3D modeling. They provide unique insights into candidates' creative 
+processes, technical skills, and artistic evolution through their portfolio of work.
+B1.2.5.1 Design All
+The "Design All" option provides a comprehensive search across all design-focused platforms, 
+offering recruiters a complete overview of creative talent. This unified approach enables:
+Review of visual portfolios across multiple creative platforms
+Assessment of design skills through actual project work
+Understanding of candidates' creative style and artistic direction
+Evaluation of technical proficiency in various design tools and methods
+Discovery of specialists in specific design disciplines
+Analysis of project complexity and creative problem-solving abilities
+Insight into collaboration capabilities through team projects
+This comprehensive search is particularly valuable when:
+Recruiting for creative and design-focused positions
+Building multi-disciplinary design teams
+Seeking specialists in specific design areas
+Looking for evidence of practical design experience
+[END PAGE 62]
+
+[START PAGE 63]
+Needing to assess both technical and creative capabilities
+Identifying trending design talent
+Evaluating candidates' versatility across different design projects
+Finding designers with industry-specific experience
+B1.2.5.2 Behance
+Adobe's network for creative professionals
+B1.2.5.3 Das Auge
+Platform for visual artists and designers
+B1.2.5.4 Dribbble
+Community for digital designers and creative professionals
+B1.2.5.5 GrabCAD
+Community for mechanical engineers and CAD designers
+ 
+B1.2.6 Others
+The Others category encompasses specialized job platforms, regional employment services, and 
+niche professional networks that don't fit into the traditional networking categories. These 
+platforms include government employment agencies, regional job markets, and freelance 
+communities. Unlike mainstream professional networks, these platforms often provide access to 
+local talent pools, specialized workforce segments, and candidates who might not maintain a 
+strong presence on major social networks. They are particularly valuable for recruiters seeking 
+candidates in specific regions, government-registered job seekers, or specialized freelance 
+professionals. These platforms often offer unique insights into candidates' official qualifications, 
+regional availability, and specific work arrangements.
+B1.2.6.1 Others All
+The "Others All" option enables a comprehensive search across these diverse platforms, 
+providing recruiters with access to alternative talent pools and specialized candidate databases. 
+This integrated approach allows:
+Access to government-registered job seekers and officially verified profiles
+Discovery of regional talent through local employment agencies
+Connection with freelance professionals across various industries
+Identification of candidates who prefer traditional job-seeking channels
+[END PAGE 63]
+
+[START PAGE 64]
+Access to specialized workforce segments in specific regions
+Review of officially validated skills and qualifications
+Understanding of candidates' work arrangement preferences
+This consolidated search is particularly effective when:
+Recruiting within specific geographical regions
+Seeking candidates through official employment channels
+Looking for freelance or contract professionals
+Needing to comply with local employment regulations
+Targeting candidates with specific work permit status
+Building diverse talent pools beyond mainstream networks
+Searching for candidates with officially verified qualifications
+Exploring alternative talent sources for hard-to-fill positions
+B1.2.6.2 AMS
+Austrian Public Employment Service
+B1.2.6.3 arbeit.swiss
+Swiss job market platform
+B1.2.6.4 Arbeitsagentur
+German Federal Employment Agency
+B1.2.6.5 Freelancermap
+Platform for freelance professionals
+ 
+B1.2.2 Hide Profiles
+B1.2.2.1 Select All
+B1.2.2.2 All Projects
+B1.2.2.3 Own Projects
+B1.2.3 Filtering
+The advanced filtering system provides precise control over candidate search 
+parameters, allowing recruiters to refine their search results based on specific
+[END PAGE 64]
+
+[START PAGE 65]
+requirements. This sophisticated filtering mechanism ensures that search results 
+align closely with job requirements and organizational needs.
+B1.2.3.1 Skills 
+The Skills filter is a comprehensive tool designed to evaluate candidates based on their 
+technical, professional, and soft skills. This intelligent filtering system understands skill 
+relationships, variations, and hierarchies, enabling more accurate candidate matching.
+B1.2.3.1.1 Skills (Must-Have)
+Must-Have Skills represent the essential competencies that candidates must possess to be 
+considered for a position:
+Critical skills without which the candidate cannot perform the job
+Core technical competencies required for the role
+Mandatory certifications or qualifications
+Non-negotiable professional capabilities
+Features:
+Strict filtering that excludes candidates lacking these skills
+Verification through profile analysis across networks
+Skill level assessment capabilities
+Recognition of equivalent skills and certifications
+Automated skill validation through project experience
+B1.2.3.1.2 Skills (Nice-to-Have)
+Nice-to-Have Skills are additional competencies that would benefit the role but aren't essential:
+Complementary skills that add value
+Emerging technologies or methodologies
+Secondary specializations
+Beneficial soft skills or additional languages
+Features:
+Weighted scoring system for preferred skills
+Flexible matching that doesn't exclude candidates
+Consideration of partial skill matches
+[END PAGE 65]
+
+[START PAGE 66]
+Recognition of learning potential and skill development
+Ranking system based on nice-to-have skill coverage
+B1.2.3.1.3 Pro Tip
+Expert guidance for optimal skill filtering:
+1.Strategic Skill Selection
+Limit Must-Have skills to 3-5 truly essential competencies
+Include broader skill categories in Must-Have, specific ones in Nice-to-Have
+Consider industry-standard skill combinations
+Account for skill evolution and market trends
+2.Best Practices
+Start with broader skill definitions and narrow down as needed
+Use skill synonyms and related terms
+Consider experience levels when setting skill requirements
+Balance technical and soft skills appropriately
+3.Common Pitfalls to Avoid
+Overloading Must-Have skills, which can exclude qualified candidates
+Being too specific with technical versions or tools
+Ignoring transferable skills
+Overlooking equivalent skill sets
+4.Advanced Tips
+Use skill combinations to identify versatile candidates
+Consider geographical skill variations
+Account for industry-specific skill terminology
+Leverage skill analytics for market insights
+5.Optimization Strategies
+Regularly review and update skill requirements
+Monitor search result quality and adjust accordingly
+Use successful searches as templates
+Consider skill adjacencies and learning potential
+B1.2.3.2 Industry
+The industry filter allows recruiters to target candidates with specific industry experience.  
+Below are comprehensive descriptions of each industry category:
+B1.2.3.2.1 Architecture and Planning
+[END PAGE 66]
+
+[START PAGE 67]
+Professional field encompassing architectural design, urban planning, and structural development.  
+Includes architects, urban planners, and design consultants.
+B1.2.3.2.2 Automotive
+Covers all aspects of vehicle manufacturing, development, and related services, including 
+electric vehicles, traditional automotive, and supplier industries.
+B1.2.3.2.3 Banking and Financial Services
+Encompasses banking, investment management, financial technology, and various financial 
+service providers.
+B1.2.3.2.4 Consulting
+Professional services sector providing business strategy, management consulting, and specialized  
+advisory services.
+B1.2.3.2.5 Chemical Industry
+Manufacturing and research in industrial chemicals, specialty chemicals, and chemical processes.
+B1.2.3.2.6 Energy, Water, and Environment
+Focuses on utilities, renewable energy, environmental services, and sustainable resource 
+management.
+B1.2.3.2.7 Education, Training, and Science
+Educational institutions, research organizations, and training providers across all academic 
+levels.
+B1.2.3.2.8 Leisure, Tourism, and Hospitality
+Tourism services, hospitality management, entertainment venues, and recreational facilities.
+B1.2.3.2.9 Gambling and Casinos
+Gaming industry, including both traditional casinos and online gambling platforms.
+B1.2.3.2.10 Health and Wellness
+Healthcare services, medical facilities, wellness centers, and preventive health programs.
+B1.2.3.2.11 Real Estate
+Property development, real estate management, brokerage, and investment.
+B1.2.3.2.12 Industrial Manufacturing and Engineering
+Heavy industry, machinery manufacturing, and industrial engineering services.
+[END PAGE 67]
+
+[START PAGE 68]
+B1.2.3.2.16 Internet and Information Technology
+Digital services, software development, cloud computing, and IT infrastructure.
+B1.2.3.2.17 Construction
+Building construction, infrastructure development, and construction management.
+B1.2.3.2.18 Consumer Goods and Retail
+Retail operations, consumer products manufacturing, and distribution services.
+B1.2.3.2.19 Arts and Culture
+Cultural institutions, artistic organizations, and creative industries.
+B1.2.3.2.20 Agriculture
+Farming, agricultural technology, and agribusiness services.
+B1.2.3.2.21 Aviation and Aerospace
+Aviation, space technology, and aerospace engineering
+B1.2.3.2.22 Marketing, PR, and Design
+Marketing services, public relations agencies, and creative design firms.
+B1.2.3.2.23 Media and Publishing  
+Traditional and digital media, publishing houses, and content creation.
+B1.2.3.2.24 Public Service, Associations, and Institutions
+Government agencies, non-profit organizations, and public institutions.
+B1.2.3.2.25 HR Services
+Recruitment, staffing services, and human resource consulting.
+B1.2.3.2.26 Pharmaceuticals
+Pharmaceutical research, manufacturing, and distribution.
+B1.2.3.2.27 Sport
+Professional sports, sports management, and athletic organizations.
+B1.2.3.2.28 Telecommunications
+Communications infrastructure, service providers, and network technologies.
+B1.2.3.2.29 Transport and Logistics
+[END PAGE 68]
+
+[START PAGE 69]
+Transportation services, supply chain management, and logistics operations.
+B1.2.3.2.30 Entertainment
+Entertainment production, distribution, and venue management.
+B1.2.3.2.31 Insurance
+Insurance providers, brokers, and related financial protection services.
+B1.2.3.2.32 Audit, Tax, and Legal
+Professional services in accounting, tax consulting, and legal advisory.
+B1.2.3.2.33 Other Sectors
+Specialized sectors and emerging industries not covered in other categories.
+B1.2.3.3 Years of Experience
+The Years of Experience filter allows recruiters to target candidates based on their 
+professional tenure, providing precise control over experience requirements in the search 
+process. 
+B1.2.3.3.1 From (specify years)
+The starting point of the experience range:
+Defines the minimum years of relevant experience required
+Helps filter out entry-level candidates when seeking more experienced professionals
+Ensures candidates have sufficient practical knowledge
+Key Features:
+Numerical input from 0-50 years
+Smart calculation of cumulative experience
+Recognition of parallel experience in multiple roles
+Consideration of part-time and full-time experience
+Understanding of internships and apprenticeships
+B1.2.3.3.2 To (specify years)
+The upper limit of the experience range:
+Sets the maximum years of experience for the search
+Helps align candidate experience with position level
+[END PAGE 69]
+
+[START PAGE 70]
+Useful for budget considerations and team balance
+Key Features:
+Flexible upper limit setting
+Prevention of over-qualification scenarios
+Consideration of career progression
+Alignment with seniority requirements
+Best Practices for Experience Filtering:
+1.Setting Appropriate Ranges
+Consider industry standards for similar roles
+Account for market availability of talent
+Allow reasonable margins for exceptional candidates
+Consider technology evolution in technical roles
+2.Strategic Considerations
+Avoid too narrow ranges that might exclude good candidates
+Consider experience quality over strict year counts
+Account for industry-specific experience patterns
+Balance experience requirements with other criteria
+3.Common Applications
+Junior roles: 0-3 years
+Mid-level positions: 3-7 years
+Senior roles: 7-15 years
+Executive positions: 15+ years
+4.Pro Tips
+Use wider ranges for hard-to-fill positions
+Consider industry transitions when setting ranges
+Account for career breaks and part-time work
+Balance experience requirements with skills and qualifications
+5.Experience Calculation Features
+Intelligent recognition of overlapping experience
+Consideration of relevant project work
+Understanding of industry-specific experience value
+Recognition of international experience
+B1.2.3.4 Language
+[END PAGE 70]
+
+[START PAGE 71]
+The Language filter enables recruiters to search for candidates based on their language 
+proficiency, ensuring effective communication capabilities for specific roles and 
+international positions.
+B1.2.3.4.1 Enter Language
+A dynamic language selection tool that allows precise filtering of candidates based on their 
+language skills:
+B1.2.3.4.2 Pro Tip
+Expert guidance for optimal language filtering:
+Strategic Language Requirements
+Only specify languages that are genuinely needed for the role
+Consider the difference between daily working languages and occasional use
+Account for team and client communication needs
+Balance language requirements with other qualifications
+B1.2.3.5 Company
+The Company filter provides advanced options to search for candidates based on their 
+current and previous employment history, enabling targeted sourcing and competitor 
+analysis.
+B1.2.3.5.1 Works At (Enter Company)
+Search for candidates currently employed at specific organizations.
+B1.2.3.5.2 Does Not Work At (Enter Company)
+Exclude candidates from specific companies
+B1.2.3.5.3 Previously At (Enter Company)
+Target candidates with experience at specific organizations
+B1.2.3.5.4 Previously Not At (Enter Company)
+Exclude candidates with specific previous employer history
+[END PAGE 71]
+
+[START PAGE 72]
+B1.2.3.5.5 Pro Tip
+Expert guidance for effective company filtering:
+1.Strategic Usage
+Combine current and previous employer filters strategically
+Consider industry leaders for talent sourcing
+Think about career progression patterns
+Account for company reputation and training quality
+2.Best Practices
+Use broad company groups for wider searches
+Consider subsidiary and parent companies
+Account for company mergers and acquisitions
+Look for patterns in career movements
+Balance company preferences with skills requirements
+3.Common Applications
+Competitor talent mapping
+Industry-specific talent pools
+Alumni recruitment strategies
+Strategic talent acquisition
+Market intelligence gathering
+4.Advanced Tips
+Research company hierarchies and structures
+Consider company culture similarities
+Use company filtering for succession planning
+Track industry movement patterns
+Identify high-potential training grounds
+5.Risk Management
+Check non-compete agreements
+Consider contractual obligations
+Maintain ethical recruitment practices
+Respect client relationships
+Monitor competitive sensitivity
+B1.2.3.6 Person is
+This filter category allows recruiters to target candidates based on specific professional 
+characteristics.
+[END PAGE 72]
+
+[START PAGE 73]
+B1.2.3.6.1 Female
+Enables diversity-focused recruiting and supports gender balance initiatives in the workplace.
+B1.2.3.6.2 Male
+Supports balanced hiring practices and specific program requirements.
+B1.2.3.6.3 Consultant
+Identifies professionals with consulting background, advisory experience, and client-facing 
+expertise.
+B1.2.3.6.4 Freelancer
+Targets independent contractors and self-employed professionals with flexible working 
+arrangements.
+B1.2.3.6.5 Executive
+Focuses on individuals with management experience and strategic leadership positions.
+B1.2.3.6.6 Student 
+Identifies current students, recent graduates, and those in academic programs.
+B1.2.3.6.7 Scientist
+Targets professionals in research, academic, and scientific fields.
+B1.2.3.7 Person is not
+This exclusion filter helps refine searches by removing specific professional categories.
+B1.2.3.7.1 Consultant
+Excludes advisory roles to focus on in-house positions and direct industry experience.
+B1.2.3.7.2 Freelancer
+Focuses on candidates seeking traditional, permanent employment arrangements.
+B1.2.3.7.3 Executive
+Targets individual contributors and operational roles rather than management positions.
+B1.2.3.7.4 Recruiter
+Excludes HR and recruitment professionals to maintain search relevance for other roles.
+B1.2.3.7.5 Student
+[END PAGE 73]
+
+[START PAGE 74]
+Focuses on experienced professionals rather than entry-level or academic candidates.
+B1.2.3.7.6 Scientist
+Targets business-focused and applied roles rather than pure research positions.
+B1.2.3.8 Communication
+This filter indicates the availability of contact information in candidate profiles, helping 
+recruiters identify immediately reachable candidates.
+B1.2.3.8.1 E-Mail
+Indicates whether a candidate's profile includes an email address. This filter helps identify:
+Directly contactable candidates
+Profiles with verified email addresses
+Quick-access communication options
+B1.2.3.8.2 Phone Number
+Shows if a candidate's profile contains a phone number. This filter allows recruiters to:
+Find candidates available for immediate phone contact
+Identify profiles with complete contact information
+Filter for candidates who are more likely to be open to direct approaches
+These communication filters are particularly useful when:
+Time-sensitive recruitment is required
+Direct outreach is preferred
+Immediate contact capability is important
+Building shortlists of readily contactable candidates
+Note: The presence of contact information often indicates a candidate's openness to professional 
+opportunities and willingness to be contacted.
+B1.2.3.9 Probability of Moving
+This feature assesses the likelihood of candidates being willing to relocate for a position, 
+using advanced data analysis and behavioral indicators.
+B1.2.3.9.1 Slider Function
+[END PAGE 74]
+
+[START PAGE 75]
+A dynamic slider control that allows recruiters to filter candidates based on their estimated 
+relocation probability:
+Scale from 0-100%
+Lower values: Candidates likely to prefer local positions
+Higher values: Candidates showing strong indicators of relocation willingness
+Based on factors such as:
+oPrevious relocation history
+oCurrent location versus job market
+oCareer progression patterns
+oInternational experience
+oFamily status indicators
+B1.2.3.10 Change Probability
+This feature evaluates the likelihood of candidates being open to new opportunities, 
+based on various professional and behavioral signals.
+B1.2.3.10.1 Slider Function
+An intuitive slider control that filters candidates based on their predicted job change probability:
+Scale from 0-100%
+Lower values: Candidates likely stable in current roles
+Higher values: Candidates showing strong indicators of job search activity
+Based on factors such as:
+oLength of current employment
+oRecent profile updates
+oProfessional network activity
+oIndustry market conditions
+oCareer progression timing
+Both probability sliders serve as powerful tools for prioritizing candidate outreach and focusing 
+recruitment efforts on the most promising prospects. The AI-driven analysis behind these 
+features helps recruiters make data-informed decisions about candidate engagement strategies.
+B1.2.4 Anonymize Profiles (Checkbox)
+[END PAGE 75]
+
+[START PAGE 76]
+When enabled, this feature automatically obfuscates personal identifying information in search 
+results and profile pages by:
+Hiding candidates' full names
+Removing profile pictures
+Retaining all professional information such as:
+oSkills and qualifications
+oWork experience
+oEducation
+oAchievements
+oProfessional certifications
+This simple toggle helps maintain candidate privacy while preserving all information relevant to 
+the hiring decision. The anonymization applies to both search results and any profile pages 
+accessed from that search, ensuring consistent privacy protection throughout the screening 
+process.
+Note: Personal information remains hidden until the feature is disabled, allowing for objective, 
+qualification-based candidate evaluation.
+B1.2.5 New Search
+A set of features that control how search results are displayed and organized.
+B1.2.5.1 Compact/Listed Candidate View
+Toggle between two result display formats:
+- Compact View: Condensed presentation showing key information at a glance
+- Listed View: Detailed presentation with expanded candidate information
+B1.2.5.2 Sorting
+Options to organize search results based on different criteria:
+ 
+B1.2.5.2.1 Relevance
+Orders candidates based on how well they match the search criteria:
+[END PAGE 76]
+
+[START PAGE 77]
+- Skills match percentage
+- Experience alignment
+- Qualification relevance
+- Keyword matching accuracy
+ B1.2.5.2.2 Probability of Job Change
+Sorts candidates based on their likelihood of being open to new opportunities:
+- Higher probability candidates appear first
+- Based on behavioral and professional indicators
+- Considers current employment duration and activity signals
+ B1.2.5.2.3 Probability of Relocation
+Orders candidates based on their estimated willingness to relocate:
+- Ranks by relocation likelihood
+- Considers factors like mobility history
+- Takes into account current location versus job location
+ 
+These sorting options help recruiters prioritize their outreach efforts and focus on the most 
+promising candidates first.
+B1.2.5.2 Edit Search (Semantic Expansions)
+A powerful feature that allows fine-tuning of AI-generated search expansions after the initial 
+search is performed.
+ 
+B1.2.5.2.1 Semantic Expansion for Jobs
+The system automatically generates related job titles and relevant skills based on the original job 
+title entered. For example, if searching for "Data Scientist," the system might suggest:
+- Related titles: Data Analyst, Machine Learning Engineer, AI Specialist
+- Associated skills: Python, Machine Learning, Statistical Analysis
+ 
+B1.2.5.2.1.1 Select All
+[END PAGE 77]
+
+[START PAGE 78]
+Quickly enable all suggested semantic expansions:
+- Includes all related job titles
+- Incorporates all suggested skills
+- Broadens the search scope
+- Maximizes potential candidate pool
+ 
+B1.2.5.2.1.2 Deselect All
+Remove all semantic expansions:
+- Returns to original search terms
+- Removes AI-suggested additions
+- Narrows search to exact job title
+- Provides more focused results
+ 
+Key Benefits:
+- Fine-tune search accuracy after reviewing initial results
+- Control search breadth by selecting relevant expansions
+- Remove irrelevant suggestions
+- Optimize search based on market knowledge
+- Balance between search precision and recall
+ 
+This feature allows recruiters to leverage AI-powered suggestions while maintaining control over  
+the search scope and relevance.
+[END PAGE 78]
+
+[START PAGE 79]
+**B1.2.5.2.2 Semantic Expansion for Skills**
+Similar to job title expansion, this feature automatically suggests related skills based on the 
+initial search criteria. The system analyzes skill relationships and industry standards to provide 
+relevant skill expansions.
+ 
+**B1.2.5.2.2.1 Select All**
+Enable all AI-suggested skill expansions:
+- Includes all related technical skills
+- Adds relevant soft skills
+- Incorporates tool and technology variations
+- Expands to include complementary skills
+ 
+**B1.2.5.2.2.2 Deselect All**
+Remove all suggested skill expansions:
+- Returns to original skill requirements
+- Removes AI-suggested skill additions
+- Focuses search on specific listed skills
+- Provides more targeted results
+ 
+For example, if "Java" is specified as a skill:
+- Related technical skills: Java Spring, J2EE, Hibernate
+- Associated technologies: Maven, Jenkins, Git
+- Related areas: Backend Development, API Design
+- Complementary skills: SQL, Web Services
+ 
+This feature allows recruiters to:
+[END PAGE 79]
+
+[START PAGE 80]
+- Refine skill requirements after initial search
+- Control the breadth of skill matching
+- Remove irrelevant skill suggestions
+- Balance between specific and related skills
+- Optimize candidate matching based on actual requirements
+B2 Boolean Search
+This advanced search functionality allows precise candidate searching using Boolean operators 
+and special filters. Here's a comprehensive breakdown:
+B1.1 Search Information (Lightbulb Function)  Basic overview of Boolean search 
+capabilities and AI assist option that converts natural language to Boolean queries.
+B1.1.1 Expressions  Basic search expressions using keywords and terms to find candidates 
+Example: Java AND Python OR "Machine Learning"
+B1.1.2 Grouping Elements  Use parentheses to group search terms and create complex 
+queries Example: (Java OR Python) AND ("Machine Learning" OR AI)
+B1.1.3 Boolean Operators
+AND: Both terms must be present
+OR: Either term must be present
+NOT: Exclude terms
+IN: Location-based search
+B1.1.4 Additional Filter Options
+1.Shortcut: Press "ctrl + space" to open filter dropdown menu
+2.Current Position : Use "AS" filter Example: AS Recruiter, AS NOT Senior
+3.Previous Position : Use "PREVIOUSLY_AS" filter Example: PREVIOUSLY_AS 
+Recruiter
+4.Current Employer : Use "AT" filter Example: AT CompanyName
+5.Language Skills : Use "SPEAKS" filter Example: SPEAKS English
+6.Gender: Use "IS" filter Example: IS FEMALE or IS MALE
+7.Change Probability : Use "CHANGE_PROBABILITY ABOVE" Example: 
+CHANGE_PROBABILITY ABOVE 55
+[END PAGE 80]
+
+[START PAGE 81]
+8.Moving Probability : Use "MOBILITY ABOVE" Example: MOBILITY ABOVE 55
+9.Work Experience : Use "YEARS_WORKING" Example: YEARS_WORKING 2 TO  
+4
+10.Current Position Experience : Use "YEARS_IN_JOB" Example: 
+YEARS_IN_JOB 2 TO 4
+11.Candidates with Email : Use "HAS EMAIL"
+12.Candidates with Phone : Use "HAS PHONE"
+13.Professional Groups : Use "IS" or "IS NOT"
+IS FREELANCER/IS NOT FREELANCER
+IS CONSULTANT/IS NOT CONSULTANT
+IS ENTREPRENEUR/IS NOT ENTREPRENEUR
+IS NOT RECRUITER
+IS SCIENTIST/IS NOT SCIENTIST
+IS STUDENT/IS NOT STUDENT
+B1.1.5 Wildcards  Use asterisk () at the end of terms for auto-completion Example: Manag  
+finds "Manager" and "Management"
+B1.1.6 Weight Factors  Use ^ to enhance term relevance Example: Java^4 OR J2EE (makes  
+Java four times more relevant)
+Note: The AI Assist feature helps convert natural language queries into proper Boolean format, 
+making complex searches more accessible.
+D Score Overview
+[END PAGE 81]
+
+[START PAGE 82]
+The Company Score Overview is a sophisticated analytics dashboard that provides 
+comprehensive insights into organizational health, employee satisfaction, and workplace 
+dynamics through four key scoring dimensions: Loyalty, Diversity, Competitiveness, and Career 
+progression. This powerful tool enables HR professionals, recruiters, and business leaders to 
+make data-driven decisions about talent acquisition, retention strategies, and organizational 
+development.
+Core Functionality and Benefits:
+1.Comprehensive Analysis
+Aggregates data across multiple metrics within each score
+Provides percentage-based scoring (0-100%) for easy comparison
+Enables industry-specific benchmarking
+Offers detailed breakdowns of contributing factors
+Supports strategic decision-making with actionable insights
+2.Strategic Applications
+Talent Acquisition: Identify companies with high turnover or weak retention
+Competitive Intelligence: Benchmark against industry standards
+Diversity Planning: Track and improve inclusion metrics
+Career Development: Evaluate professional growth opportunities
+Recruitment Strategy: Target companies based on specific metrics
+Score Components and Their Value:
+1.Loyalty Score
+Evaluates employee satisfaction and retention through tenure analysis
+Identifies companies with strong or weak employee engagement
+Helps predict potential talent availability
+Measures effectiveness of retention strategies
+2.Diversity Score
+Assesses workplace inclusivity across multiple dimensions
+Tracks representation across different demographics
+Supports DEI initiatives and planning
+Enables targeted diversity recruitment
+3.Competitiveness Score
+Measures ability to attract and retain top talent
+Evaluates workforce quality through education and experience
+Indicates market position in talent acquisition
+Assesses organizational attractiveness to candidates
+4.Career Score
+[END PAGE 82]
+
+[START PAGE 83]
+Evaluates internal mobility and promotion practices
+Measures commitment to employee development
+Tracks fairness in advancement opportunities
+Assesses leadership development effectiveness
+Practical Applications:
+1.For Recruiters
+Identify companies with potential talent pools
+Target organizations with specific workforce characteristics
+Develop informed headhunting strategies
+Create compelling candidate approaches
+2.For HR Professionals
+Benchmark organizational performance
+Develop evidence-based HR strategies
+Track effectiveness of HR initiatives
+Identify areas for improvement
+3.For Business Leaders
+Understand competitive position in talent market
+Make informed decisions about workforce development
+Track organizational health metrics
+Compare performance against industry standards
+D1.1 Search Scores  Search functionality to find and compare companies based on their 
+performance metrics.
+D1.2 Sort By
+D1.2.1 Loyalty Score  A metric that helps evaluate employee engagement and satisfaction 
+through analysis of:
+1.Current Employee Tenure Rate  (Highest Impact)
+Most influential metric in the overall loyalty score
+Measures average length of current employees' service
+Primary indicator of employee retention
+Higher values indicate stronger employee commitment
+2.Boomerang Ratio
+Measures ratio of returning employees to total workforce
+[END PAGE 83]
+
+[START PAGE 84]
+Indicates positive company culture that attracts former employees back
+Sign of strong employer brand and workplace satisfaction
+Reflects willingness of former employees to return
+3.Employee Tenure Ratio
+Compares average tenure of current vs former employees
+Shows tenure pattern changes over time
+Indicates stability of workforce retention
+Helps identify retention trends
+4.Current Employee Tenure Ratio
+Compares employees' tenure at current company vs previous employers
+Indicates relative ability to retain talent
+Shows if company keeps employees longer than competitors
+Measures comparative retention strength
+5.Employee Ratio
+Compares number of current vs former employees
+Lower ratio indicates higher turnover
+Helps identify retention challenges
+Measures workforce stability
+6.Employment Type Ratio
+Compares full-time employees vs freelancers/temporary workers
+Higher ratio of full-time employees indicates stronger loyalty
+Measures workforce stability through employment types
+Indicates commitment to permanent workforce
+Key Characteristics:
+Scores vary significantly by industry
+Most valuable when comparing companies within same sector
+Higher scores indicate stronger employee retention and satisfaction
+Helps identify high-turnover organizations
+Supports targeted recruitment strategies
+D1.2.2 Diversity Score  A comprehensive metric that evaluates workplace inclusivity and 
+representation across six key dimensions:
+1.Gender Diversity
+Measures balance between male and female employees
+Excludes unspecified/unknown gender categories
+Indicates gender representation equality
+[END PAGE 84]
+
+[START PAGE 85]
+Helps track progress in gender balance initiatives
+2.Education Diversity
+Evaluates variety of university backgrounds
+Measures educational institution representation
+Indicates openness to different academic paths
+Shows diversity in educational qualifications
+3.Language Diversity
+Assesses range of spoken languages within workforce
+Indicates multicultural workforce capability
+Shows international communication capacity
+Reflects global workforce integration
+4.Work Experience Group Diversity  Measures distribution across predefined 
+experience brackets:
+0-3 years: Entry-level/junior positions
+3-5 years: Early career professionals
+5-10 years: Mid-career professionals
+10+ years: Senior professionals Indicates balanced experience distribution across 
+organization
+5.Age Group Diversity  Evaluates distribution across age brackets:
+Under 18: Youth workers
+18-25: Early career/graduates
+25-35: Young professionals
+35-55: Mid-career professionals
+55+: Senior professionals Shows generational diversity and age inclusivity
+6.Location Diversity
+Measures geographic distribution of workforce
+Indicates presence across different cities
+Shows regional representation
+Reflects geographic inclusivity
+Key Benefits:
+Helps identify areas for improvement in D&I strategies
+Supports inclusive workplace development
+Enables targeted recruitment for underrepresented groups
+Provides benchmarking for diversity initiatives
+Assists in developing inclusive hiring strategies
+This score is particularly valuable for:
+[END PAGE 85]
+
+[START PAGE 86]
+HR professionals developing diversity strategies
+Recruiters seeking to improve workplace representation
+Companies tracking D&I progress
+Organizations aiming to create more inclusive workplaces
+D1.2.3 Competitiveness Score  Evaluates a company's ability to attract and retain top 
+talent through six key metrics:
+1.Boomerang Ratio
+Measures proportion of returning employees to total workforce
+Indicates strength of company culture and workplace satisfaction
+Strong indicator of positive work environment
+Shows employee willingness to return after leaving
+2.High Potential Employee Ratio
+Compares number of high-potential employees to total workforce
+Indicates company's ability to attract top talent
+Measures quality of workforce
+Shows concentration of exceptional performers
+3.Retention Growth Index
+Numerical indicator tracking employee retention trends over time
+Shows improvement or decline in retention rates
+Measures effectiveness of retention strategies
+Indicates long-term workforce stability
+4.Tenured Employee Ratio
+Proportion of long-term employees to total workforce
+Indicates ability to retain experienced staff
+Shows workforce stability
+Reflects employee satisfaction and loyalty
+5.Ph.D. Ratio
+Proportion of employees with doctoral degrees
+Indicates academic excellence in workforce
+Shows ability to attract highly qualified professionals
+Measures advanced expertise level
+6.Masters Ratio
+Proportion of employees with master's degrees
+Shows advanced education level in workforce
+Indicates ability to attract qualified professionals
+Measures professional expertise level
+[END PAGE 86]
+
+[START PAGE 87]
+Key Characteristics:
+Most valuable when comparing companies of similar:
+oSize
+oIndustry
+oMarket segment
+Helps identify companies successful in:
+oAttracting top talent
+oBuilding competitive advantage through workforce
+oMaintaining high-quality talent pool
+Supports targeted recruitment strategies
+Indicates overall company attractiveness to skilled professionals
+The Competitiveness Score is particularly useful for:
+Understanding talent acquisition success
+Benchmarking against industry competitors
+Identifying high-performing organizations
+Developing recruitment strategies
+Evaluating workforce quality
+D1.2.4 Career Score
+Evaluates a company's commitment to employee development and career progression through 
+six weighted metrics:
+ 
+1. Promotion Loyalty Ratio
+- Compares tenure rates between promoted and non-promoted employees
+- Indicates fairness in promotion practices
+- Shows correlation between loyalty and advancement
+- Reflects recognition of long-term employees
+ 
+2. Young Talent Promotion Ratio
+- Measures proportion of younger employees receiving promotions
+- Shows commitment to developing early-career professionals
+- Indicates opportunities for rapid advancement
+[END PAGE 87]
+
+[START PAGE 88]
+- Reflects investment in future leadership
+ 
+3. Leadership Promotion Ratio
+- Tracks promotions to management and C-level positions
+- Shows internal leadership development
+- Indicates upward mobility opportunities
+- Reflects preference for internal leadership development vs. external hiring
+ 
+4. Promotion Ratio
+- Measures overall promotion rate within company
+- Shows general career advancement opportunities
+- Indicates internal mobility
+- Reflects company's commitment to employee growth
+ 
+5. Experienced Employee Ratio
+- Compares number of experienced employees to total workforce
+- Shows retention of seasoned professionals
+- Indicates career longevity potential
+- Reflects ability to maintain experienced talent
+ 
+6. **Gender Diversity Promotion Index**
+- Evaluates gender balance in promotions
+- Shows fairness in advancement opportunities
+- Indicates commitment to diverse leadership
+- Reflects equality in career progression
+ 
+Key Features:
+[END PAGE 88]
+
+[START PAGE 89]
+- Metrics are weighted with top metrics having highest contribution
+- Scores are calculated based on relative importance
+- Higher scores indicate stronger career development opportunities
+- Most valuable when comparing similar:
+  - Company sizes
+  - Industries
+  - Market segments
+ 
+The Career Score helps:
+- Identify companies with strong internal development
+- Evaluate career growth opportunities
+- Assess promotion practices
+- Track diversity in advancement
+- Benchmark career development programs
+ 
+Note from documentation: Companies with high Career Scores tend to promote from within, 
+while those with lower scores typically seek external leadership hires.
+E Cost of Living
+Our Cost of Living tool serves as a sophisticated analytical platform designed to provide 
+comprehensive insights into living expenses across different global locations. This system 
+enables users to make informed decisions about relocation, compensation, and lifestyle planning 
+through detailed comparative analysis.
+[END PAGE 89]
+
+[START PAGE 90]
+E1.2 Cost of Living Metrics
+The Cost of Living Metrics represent a multi-faceted approach to understanding and comparing 
+living expenses between locations. This system incorporates various economic indicators, local 
+market conditions, and lifestyle factors to provide a holistic view of living costs.
+E1.2.1 General
+E1.2.1.1 Local Purchasing Power (LPP)  The Local Purchasing Power index is a 
+fundamental metric that quantifies the relative buying capacity of a typical salary in a given 
+location. This sophisticated measure takes into account average salaries and living costs to 
+determine how much people can actually afford in different cities. It serves as a crucial indicator 
+for understanding real-world living standards and economic conditions across different locations,  
+going beyond simple currency conversions to reflect actual lifestyle possibilities.
+E1.2.1.2 Income Comparison  The Income Comparison feature provides a nuanced 
+analysis of salary equivalence between locations, accounting for differences in living costs, 
+taxation, and economic conditions. This tool helps users understand what salary level would be 
+needed in a different location to maintain their current standard of living, making it invaluable 
+for career decisions and salary negotiations.
+E1.2.1.2.1 Select Currency  The currency selection functionality enables users to view and 
+compare financial data in their preferred currency. This feature ensures that users can understand  
+costs in familiar terms while maintaining accurate relative values across different economic 
+zones.
+E1.2.2 Combined Metrics  The Combined Metrics section presents a comprehensive 
+overview of key cost indicators, integrating various aspects of daily living expenses. This 
+includes consumer prices with and without rent, grocery costs, and dining expenses. The system 
+analyzes these factors collectively to provide a more complete understanding of cost differences 
+between locations.
+E1.2.3 Individual Comparison  The Individual Comparison feature offers detailed, 
+category-specific cost analysis across different aspects of daily life:
+Housing Costs A thorough examination of residential expenses, including rental costs for 
+various apartment types, utility expenses, and property purchase prices. The analysis 
+distinguishes between city center and peripheral locations, providing a comprehensive view of 
+housing options and their associated costs.
+[END PAGE 90]
+
+[START PAGE 91]
+Salaries and Financing  This section analyzes income levels and financial services, 
+including average monthly salaries after tax and mortgage interest rates. These metrics help users  
+understand both earning potential and long-term financial commitments in different locations.
+Infrastructure Costs  An in-depth look at essential service expenses, covering internet 
+connectivity, public transportation, fuel costs, and educational expenses. This category helps 
+users understand the day-to-day operational costs of living in different locations.
+Meals and Leisure Expenses  A detailed breakdown of discretionary spending categories, 
+including restaurant dining, beverages, entertainment, and recreational activities. This 
+information helps users understand the costs associated with maintaining their desired lifestyle in  
+different locations.
+The Cost of Living tool is designed to support various user needs, from individual relocation 
+decisions to corporate HR planning. Its comprehensive data and flexible analysis options make it  
+an invaluable resource for understanding and comparing living costs across different global 
+locations. The system's ability to provide both broad overviews and detailed breakdowns ensures  
+users can make well-informed decisions about their financial and lifestyle choices in different 
+locations.
+This tool goes beyond simple cost comparisons to provide actionable insights for salary 
+negotiations, budget planning, and lifestyle adjustments. Whether used by individuals planning 
+personal moves or organizations developing compensation packages, it offers the detailed 
+information needed for confident decision-making in an increasingly mobile global economy.
+E1.2.3 Quality of Life
+Core Understanding: The Quality of Life module provides a comprehensive evaluation system 
+that measures and compares living standards across different locations. This multi-dimensional 
+analysis framework assesses various aspects of daily life, combining objective metrics with 
+subjective quality indicators to create a holistic understanding of life quality in different cities.
+E1.2.3.1 General
+Core Understanding: The General metrics section evaluates fundamental aspects of urban living 
+through eight key indicators that form the foundation of quality of life assessment:
+Primary Components:
+1.Family Score: Evaluates family-friendliness on a 5-point scale
+Living conditions for families
+Educational opportunities
+[END PAGE 91]
+
+[START PAGE 92]
+Family-oriented facilities
+Support systems
+2.Safety Metrics:
+Lack of Crime: Comprehensive safety assessment
+General Safety: Overall security evaluation
+Traffic Safety: Transportation security analysis
+3.Essential Services:
+Education Level: Quality and accessibility of educational institutions
+Hospital Quality: Healthcare system assessment
+Cost Analysis: Monthly expense evaluation relative to quality of life
+Implementation Structure: Each metric utilizes a standardized 5-point rating system:
+Great (5/5)
+Good (4/5)
+Okay (3/5)
+Mediocre (2/5)
+Poor (1/5)
+E1.2.3.2 Social
+Core Understanding: The Social metrics component analyzes the societal fabric and cultural 
+environment of locations, focusing on inclusivity, tolerance, and social freedom indicators.
+Key Assessment Areas:
+1.Cultural Integration:
+Racial Tolerance
+Female Friendly Environment
+LGBTQ+ Acceptance
+Foreigner Integration
+2.Communication:
+English Language Prevalence
+Freedom of Speech
+Cultural Exchange Opportunities
+E1.2.3.3 Infrastructure
+Core Understanding: The Infrastructure assessment evaluates the physical and digital framework 
+that supports daily life, examining both traditional and modern urban amenities.
+[END PAGE 92]
+
+[START PAGE 93]
+Evaluation Components:
+1.Urban Planning:
+Walkability Assessment
+Population Density Analysis
+Public Space Utilization
+2.Digital Infrastructure:
+Free WiFi Availability
+Internet Speed and Reliability
+Remote Work Facilities
+3.Comfort Metrics:
+Climate Control Systems
+Public Facility Access
+Urban Mobility Solutions
+[END PAGE 93]
+
+[START PAGE 94]
+Job Ads
+Book your job ads easily through our ad module in the Talentwunder app and save in the 
+process!
+Choose what you need
+Simply choose from 900 job portals the most important providers for you and your open 
+position. Select the appropriate ad format or benefit from package offers. Customize your ad, 
+including logo, colors, or button text.
+Stay on top of things
+Which ads have I posted? Where have I posted ads? And how long will my ads still be running?
+With Talentwunder's job ads, you always have an overview.
+Creating and Managing Job Ads
+When you have a vacancy to advertise, you can easily create and manage job ads in the Job 
+Ads section. This is done by navigating to the "Job Ads" section, where you'll see the 
+"Purchased Job Ads"  table and a "New Job Ad" button.
+If no job ads are published, clicking the "Job Ads" sidebar shortcut will automatically direct you 
+to the job boards catalog, simplifying the process. If you already have job ads that are active, 
+pending or expired you will land on the "Purchased Job Ads"  page.
+Managing Purchased Job Ads
+The Purchased Job Ads Table  helps you manage your active and closed job ads. Ads are 
+grouped by orders, and each order is displayed within an accordion for clarity. Orders containing
+[END PAGE 94]
+
+[START PAGE 95]
+at least one active job ad will be expanded by default, while those with no active ads remain 
+collapsed.
+For each order, you will find the following information:
+Job Title: Taken from the job ad, not from the project it is connected to. This is used as 
+the title of the accordion.
+Job Board: Displays logos of the job boards where your ad is posted.
+More Information: Hover over the “i” icon to see additional details about the purchased 
+product.
+Status: Indicates if the ad is Active (published) or Closed (expired).
+Date Posted: Shows the date when all information was completed and sent to the job 
+board. Note that some boards publish instantly, while others may take up to 24 hours to 
+go live.
+Time Left: Displays the remaining time until the ad expires.
+Expiry Date: Shows the exact date the ad will expire. (the accuracy depend on accuracy  
+of date posted)
+Unpublish: If necessary, you can unpublish your job ad to take it down from the job 
+board.
+Choosing Job Ads Products and Packages
+When you're ready to publish a new job ad, click the "New Job Ad" button to navigate to the 
+Job Ads Center. Here, you can select from a range of job boards and packages tailored to your  
+needs.
+Project Selection:
+When selecting a project, the Job Title and Location fields will be automatically populated 
+based on the project details. However, you can manually adjust these fields without altering 
+your original project selection. These modifications will influence the shop results, ensuring you 
+see relevant job boards based on your changes.
+Job Boards Search :
+A dynamic search bar allows you to find specific job boards quickly, and results adjust as you 
+type.
+Finding the Best Matching Job Board for Your Project
+When selecting a project, the Job Title and Location fields will be automatically populated 
+based on the project details. However, you can manually adjust these fields without altering 
+your original project selection. These adjustments will affect the shop results, ensuring you see 
+relevant job boards based on your changes.
+[END PAGE 95]
+
+[START PAGE 96]
+Matching Score:
+Talentwunder uses a Matching Score to help you find the best job boards for your project. This 
+score is a star rating based on how well the job board matches your job title and location. The 
+score is calculated based on:
+Candidate interactions : The engagement of candidates on that job board for similar job  
+titles and locations.
+Relevance: How relevant the job board is for the specific role you are trying to fill.
+The Matching Score is displayed as a star rating on each job board card. A higher score 
+means the job board is more likely to attract suitable candidates for your position.
+Tabs for Products and Packages
+You will find two tabs:
+1.Products: Individual job board products are displayed here.
+2.Packages: Bundles of job board products with discounted prices are available here.
+For convenience, both tabs offer Card View and List View. Products from the same supplier 
+are grouped together in both views.
+Each product card includes:
+Supplier Logo.
+Original Price (shown with a strikethrough, if available).
+Discounted Price (the lowest available price from the supplier’s group of products).
+Matching Score: A star rating based on the Job Title and Location. This score 
+represents product popularity for the selected job title, based on candidate interactions 
+and engagement on the job board. If a product does not have a matching score, it will be  
+omitted from the display.
+Modal Window:
+Clicking on a product card will open a modal showing all products from that supplier. Here, you’ll  
+find details such as:
+Ad Type.
+Exact Price.
+Ad Duration.
+Matching Score.
+Country
+[END PAGE 96]
+
+[START PAGE 97]
+You can add products to your cart from this modal or cancel to close it. Both actions will close 
+the modal.
+Country
+Each product also indicates the countries where the ad is accessible. However, the location 
+entered during ad creation takes precedence and will be given priority.
+Cart:
+You can add multiple products to your cart. Once your selections are complete, proceed to the 
+Job Ad Editor by clicking "Continue to Job Ad Editor"  in the cart.
+Customizing Your Job Ad
+After choosing your job board, you’ll be taken to the Job Ad Editor, where you can customize 
+and design your ad to attract the right candidates.
+Company Logo:
+Recommended size: 300 x 200 px.
+Format: GIF.
+Maximum file size: 2MB.
+Video Link:
+Add a URL for a company video.
+Text and Design Customization :
+Change titles of sections such as Job Title, Introduction, Your Tasks,Your Profile, 
+What we offer and Contact.
+Use the Color Picker to select colors or paste Hex code directly for changing the CTA 
+button, Titles, and Background colors .
+Background Image :
+Recommended size: 1920 x 1080 px.
+Format: PNG or JPG.
+Maximum file size: 2MB.
+CTA Button URL:
+[END PAGE 97]
+
+[START PAGE 98]
+Enter a mandatory URL or email  for the CTA button. This is where applicants will be 
+directed when they apply.
+Header Images:
+For the best display, ensure all header images are of the same size. The recommended image 
+size for the job ad is 1140 x 456 px (PNG or JPG, up to 2MB).
+You can upload up to three header images, either by selecting files or using drag-and-drop.
+Format: PNG or JPG.
+Maximum file size: 2MB.
+Job Ad Sections
+Introduction
+This field is mandatory for content (though the title “Introduction” itself is optional).
+Tip: Spark interest by introducing your company, including its size, sector, and mission. Share 
+your values and vision to give candidates a sense of your corporate culture. Be authentic and 
+avoid buzzwords to build credibility.
+Job Title (Mandatory)
+Important Tips:
+1.Use well-known and industry-standard job titles. Avoid internal company titles that are 
+not recognized in the job market.
+2.Use gender-neutral titles like “Account Manager (m/f/x)”  to ensure inclusivity.
+3.Avoid abbreviations and special characters, as these can negatively impact 
+performance.
+Your Tasks (Mandatory)
+Tip: Clearly outline the main duties and responsibilities in 5-8 bullet points. Start with the most 
+important tasks and include details on strategic topics, operational responsibilities, and current 
+projects.
+Your Profile (Mandatory)
+Tip: State the required qualifications, relevant skills, and professional experience. Indicate 
+which requirements are essential and which are desirable.
+[END PAGE 98]
+
+[START PAGE 99]
+What We Offer (Mandatory)
+Tip: Highlight key benefits your company offers, such as financial perks, wellness programs, 
+and family support. Tailor these to the priorities of your target candidates. Focus on meaningful 
+benefits rather than minor perks.
+Contact Information (Mandatory)
+Tip: Provide contact information for applicants and clearly state how candidates can reach out 
+with any questions they may have.
+Job Details Tab
+Once you’ve customized the job ad, you’ll proceed to the Job Details tab.
+If a project was selected earlier, some fields (like Job Title and Location) will be auto-
+populated, and modifications to the chosen project cannot be made at this stage.
+Fields required in this step include:
+Job Title, City, Country, ZIP Code, Contract Type, Industry, Seniority, Field of 
+Activity, Job Type.
+Optional fields include:
+Company Name, Remote Work options (On-site, Hybrid, Remote), Reference Number  
+(Enter a reference number for internal tracking. Some job boards support and display 
+this number), Contact Information  (This information will be visible to applicants on 
+some job boards. Ensure it is suitable for public display), Salary (If Salary is selected, 
+you must provide Minimum and Maximum amounts, Currency, and whether it is monthly 
+or yearly) and Keywords.
+Validation:
+The system ensures all mandatory fields are filled before allowing you to continue. If a field is 
+missing, the system will scroll to the missing information and show a validation message.
+Country Dropdown :
+Select the location where you want the job ad to be published. Accurate selection ensures 
+better targeting and visibility on location-focused job boards.
+Only locations available in the selected products will appear in the dropdown. If any selected 
+product doesn’t support a specific location, a validation pop-up will appear.
+[END PAGE 99]
+
+[START PAGE 100]
+Payment and Order Process
+Job Ad Preview
+Before finalizing your order, you’ll be shown a preview of your job ad. This is where you can 
+review the details and ensure everything is accurate.
+Note that each job board may display information differently, and not all details may be shown.
+Additional Information for Products
+If any product requires more details, these fields will appear next to the job ad preview. If no 
+additional information is required, this section remains hidden.
+Price Details Overview
+The price details section will show:
+Items - Supplier logos amd “i” Information about the product
+Ad duration.
+Price of each product
+The total price of all selected products.
+Terms and Conditions
+Before proceeding with the order, you must accept the Terms and Conditions  of the Job Ad 
+Partner.
+Link: [https://jobadpartner.de/agb/ ]
+Order Now
+Click "Order Now" to open a pop-up window where you must enter billing information.
+All fields are mandatory except for VAT.
+Once confirmed, billing information is sent to the Job Ad Partner, who will then send the  
+invoice to your email directly.
+Error Handling and FAQs
+If any required field is missing or incorrectly filled, the system will automatically scroll to the 
+relevant section and display a validation message to help you correct the issue.
+FAQs:
+[END PAGE 100]
+
+[START PAGE 101]
+1.How do I create a job ad?
+a.Go to Job Ads and click the "New Job Ad" button.
+2.Why isn't my ad published immediately?
+a.Some job boards take up to 24 hours to publish. Check the Date Posted column 
+for submission details.
+3.How do I customize the design?
+In the Job Ad Editor, you can upload logos, change colors, and add images.
+Messaging Feature: Overview and Access
+As a recruiter, you can send and read messages on LinkedIn and Xing directly through 
+Talentwunder. This allows you to manage your communications seamlessly without switching 
+platforms. Talentwunder’s messaging feature has been redesigned to enable sending 
+messages to LinkedIn and Xing connections directly. You can also view previous conversations 
+initiated through Talentwunder, allowing you to read messages without needing to access 
+LinkedIn or Xing separately.
+Messaging via Profile
+When you click the Message button on a candidate’s profile, whether an old profile or the new 
+Superprofile, a modal window will appear if the necessary browser extension is not installed.
+Installing the Extension
+A pop-up will display instructions to download the extension for Chrome, Firefox, or 
+Edge (depending on the user’s browser). Only the option corresponding to the current 
+browser will be enabled.
+If the user clicks on the Message button from another browser, this modal will appear 
+again, providing the option to reinstall.
+During the download and installation, another modal featuring a hamster will appear, 
+with the message: “Please reload page after installation…”
+Note: If the user clicks on Cancel, the modal will disappear, but it will reappear when 
+clicking the Message button again on the candidate's profile.
+Once the extension is installed, the user must reload the page to begin messaging.
+Syncing LinkedIn and Xing Profiles
+After installing the extension and clicking the Message button for the first time, users are 
+prompted to sync their LinkedIn and Xing profiles . Here’s how this process works:
+[END PAGE 101]
+
+[START PAGE 102]
+The accounts are already preloaded (the user must be logged into their LinkedIn and 
+Xing accounts before doing this).
+A prompt asks for confirmation, and if it’s the wrong account, the Not you? button allows 
+the user to sync again (log out of the incorrect account and log into the correct one).
+Alternatively, if the extension fails to fetch the account, users can manually input the 
+URL of their LinkedIn/Xing profile.
+Note: Clicking Cancel closes the modal, but it will reappear if the Message button is 
+clicked again.
+If users only have a LinkedIn account and later wish to add a Xing account, they can do so by 
+navigating to Account Settings . After accounts are added, they cannot be modified directly in 
+the system. Users will need to contact customer support to make any changes. A tooltip 
+appears when hovering over text that cannot be edited: “To update this account, please contact 
+support.”
+Using the Message Drawer
+Once the Message Drawer is opened by clicking the Message button on a candidate’s profile, 
+a pop-up titled New Message will appear on the right side of the screen.
+Tabs for Messaging
+Tabs: LinkedIn, Xing, and Email tabs are visible, with the network from the 
+candidate’s profile  being active by default (LinkedIn is set as the default if both 
+LinkedIn and Xing profiles are connected).
+Old Profile Design : Only one tab is active at a time. If the candidate has both LinkedIn 
+and Xing connected, users can switch between them.
+Non-LinkedIn/Xing Profiles : If the candidate doesn’t have a LinkedIn or Xing account, 
+these tabs will be grayed out, and a tooltip on send button will display: “You need to 
+connect the candidate’s LinkedIn/Xing profile to send messages.”
+oThe Email tab will show a Coming Soon tooltip until that feature is developed.
+If the recruiter doesn’t have their LinkedIn or Xing account connected to Talentwunder, attempts  
+to message a candidate will prompt a modal asking the user to connect their LinkedIn or Xing 
+account. The option to connect will be provided.
+Manual Sync in the Message Drawer
+Within the Message Drawer, recruiters can access a Manual Sync button for both LinkedIn 
+and Xing.
+[END PAGE 102]
+
+[START PAGE 103]
+Sync Button Functionality
+The sync button is available at all times, allowing recruiters to manually sync or load 
+previous conversations with candidate.  
+When a user starts a new conversation, at least one message must be sent to enable 
+manual sync for retrieving any previous messages (previous conversation that was led 
+on Linkedin or Xing).
+The button will pulsate when there are incoming message snippets or when syncing is 
+required to fetch new messages. Hovering over the button displays a tooltip: “New 
+messages available. Click to sync.”
+Once the sync is complete, the button will return to its normal state, and the newly 
+fetched messages will appear in the conversation thread.
+Viewing and Managing Messages
+Recruiters can view the history of their conversations with candidates started through 
+Talentwunder. These messages are displayed in a threaded format, allowing for easy reference 
+and scrolling through the conversation.
+If there is no existing conversation, the drawer opens with a larger space for inputting new text. 
+The up arrow for resizing the input field will not be visible.
+Connection Requests and Messages
+Recruiters can choose between sending a Connection Request  or a Message to candidates 
+on LinkedIn and Xing.
+Dropdown for Sending Options
+A dropdown next to the Send button allows recruiters to choose between Connection 
+Request and Message.
+If there is no previous conversation, the default action is to send a Connection 
+Request.
+If there is an existing conversation thread, the default switches to Send Message.
+Character Limits:
+oConnection Requests: Max 250 characters.
+oMessages: Max 2500 characters.
+For Xing Basic membership users, the option to include text in a connection request is disabled.  
+They can only send a Connection Request without any accompanying text. This is due to Xing 
+restrictions.
+[END PAGE 103]
+
+[START PAGE 104]
+Message Templates in the Message Drawer
+To help recruiters send consistent and personalized messages, a Template Dropdown  is 
+available in the lower-left corner of the Message Drawer.
+Using the Template Dropdown
+Clicking the Templates icon opens a list of saved templates. If there are no templates, 
+the Template Manager  opens automatically.
+Favorites are always displayed at the top, and the rest are grouped by projects.
+A maximum of 8 rows of text (6 templates and 2 headings) can be viewed at a time, 
+with scrolling available for additional templates.
+Hovering over a template displays a snippet of the message template itself.
+Templates can be searched by name or project in this dropdown.
+Template Manager and Creating New Templates
+Clicking on Template Manager  opens a drawer with a list of templates and a Create 
+New Template option.
+Recruiters can name their template, tie it to a specific project (optional), and compose a 
+message using a rich text editor.
+A Save option stores the template, while Save and Insert saves it and inserts it directly 
+into the message drawer.
+Insert Fields such as First Name, Last Name, Company, and others can be added to 
+the template for dynamic content.
+AI Assist for Messaging
+The AI Assist feature helps recruiters craft messages using project and job/company 
+description information. It is accessed via the AI Assist button in the Message Drawer.
+Using AI Assist
+Clicking the AI Assist button opens a modal next to the drawer. The modal allows users 
+to select a project and company, with pre-populated job descriptions and company 
+descriptions based on the selected project or company.
+Users can modify the text if needed and click Generate Message  to create a message.
+Once generated, the message appears in the message input field of the Message 
+Drawer.
+[END PAGE 104]
+
+[START PAGE 105]
+If text already exists in the input field, a modal will appear asking whether to Replace, Insert 
+below, or Cancel the generated message.
+Notifications for New Messages
+Recruiters will receive notifications for new messages through Kanban card notifications . If 
+there is a new message from a candidate, an envelope icon will appear on the Kanban board, 
+showing how many new messages have been received.
+Clicking on the icon will open the candidate’s profile and the Message Drawer, displaying a 
+snippet of the new message. Recruiters can click Load More or Sync to retrieve the entire 
+message.
+Message Notification Hub
+A new Message Notification Hub  is available in the Talentwunder header, accessible from any  
+page. It is the envelope icon in the header of the app, placed next to notifications icon.
+Sync Button and Unread Conversations
+A Sync button is present within the Message Notification Drawer, allowing for large 
+syncs (syncs of all conversations led through Talentwunder), ensuring no messages are 
+missed.
+Initially, the drawer will only display unread messages . Once all notifications are 
+viewed, the drawer becomes inaccessible until new messages arrive.
+Validations
+Scenario 1: Free LinkedIn/Xing Account
+If the recruiter tries to send a message to a candidate who is not a connection, a modal 
+will appear:
+o“This person is not your connection on LinkedIn/Xing. You can only send a 
+Connection Request.”
+oOptions: Switch to Connection Request  or Cancel.
+[END PAGE 105]
+
+[START PAGE 106]
+Scenario 2: Premium LinkedIn/Xing Account
+If the recruiter attempts to send a message to someone who is not a connection without 
+using InMail or Message credits, a modal will appear:
+o“You are about to use an InMail/Message credit. Do you want to proceed?”
+oOptions: Proceed with InMail/Message Credit  or Switch to Connection 
+Request.
+Scenario 3: Not Logged In
+If the recruiter is not logged into LinkedIn/Xing and attempts to send a message, a modal  
+will appear:
+o“You need to be logged in to send a message. Please log in and try again.”
+Option: OK.
+[END PAGE 106]
+

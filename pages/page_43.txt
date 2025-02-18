@@ -1,0 +1,24 @@
+Quickly apply predefined search filters.
+B2.1.4.2 Current Position
+Filter candidates based on their current job title.
+B2.1.4.3 Previous Position
+Filter candidates by their previous job title.
+B2.1.4.4 Current Employer
+Search candidates working for specific companies.
+B2.1.4.5 Language Skills
+Filter candidates by their language proficiency.
+B2.1.4.6 Gender
+Filter candidates by gender.
+B2.1.4.7 Likelihood of Job Change
+Adjust the filter based on candidates’ likelihood of switching jobs.
+B2.1.4.8 Likelihood of Relocation
+Filter candidates by their willingness to relocate.
+B2.1.4.9 Work Experience
+Search based on candidates’ years of experience.
+B2.1.4.10 Experience in Current Position
+Filter by how long candidates have been in their current role.
+B2.1.4.11 Candidates with Email Address
+Show only candidates with an email address.
+B2.1.4.12 Candidates with Phone Number
+Show only candidates with a phone number.
+B2.1.4.13 Specific Job Groups

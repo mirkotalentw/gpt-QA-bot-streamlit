@@ -1,0 +1,28 @@
+Enter a mandatory URL or email  for the CTA button. This is where applicants will be 
+directed when they apply.
+Header Images:
+For the best display, ensure all header images are of the same size. The recommended image 
+size for the job ad is 1140 x 456 px (PNG or JPG, up to 2MB).
+You can upload up to three header images, either by selecting files or using drag-and-drop.
+Format: PNG or JPG.
+Maximum file size: 2MB.
+Job Ad Sections
+Introduction
+This field is mandatory for content (though the title “Introduction” itself is optional).
+Tip: Spark interest by introducing your company, including its size, sector, and mission. Share 
+your values and vision to give candidates a sense of your corporate culture. Be authentic and 
+avoid buzzwords to build credibility.
+Job Title (Mandatory)
+Important Tips:
+1.Use well-known and industry-standard job titles. Avoid internal company titles that are 
+not recognized in the job market.
+2.Use gender-neutral titles like “Account Manager (m/f/x)”  to ensure inclusivity.
+3.Avoid abbreviations and special characters, as these can negatively impact 
+performance.
+Your Tasks (Mandatory)
+Tip: Clearly outline the main duties and responsibilities in 5-8 bullet points. Start with the most 
+important tasks and include details on strategic topics, operational responsibilities, and current 
+projects.
+Your Profile (Mandatory)
+Tip: State the required qualifications, relevant skills, and professional experience. Indicate 
+which requirements are essential and which are desirable.

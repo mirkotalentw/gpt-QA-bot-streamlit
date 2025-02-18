@@ -1,0 +1,24 @@
+View all saved searches.
+B3.3.2 Own
+See only your own saved searches.
+B3.3.3 Shared
+View searches shared by others.
+B3.4 Start New Search (Blue Button)
+Begin a new search from scratch.
+B3.5 Overview of Saved Searches
+B3.5 Overview of Saved Searches
+B3.5.1 Smart Searches
+B3.5.1.1 Name
+Display the name of the saved smart search.
+B3.5.1.2 Project
+Show the project associated with the saved search.
+B3.5.1.3 Created By
+Display who created the saved search.
+B3.5.1.4 Last Updated
+Show the date when the search was last updated.
+B3.5.1.5 Display Description
+View the description of the saved search.
+B3.5.1.6 Three-Dot Menu
+B3.5.1.6.1 Edit Search
+Modify the saved search criteria.
+B3.5.1.6.2 Share Search

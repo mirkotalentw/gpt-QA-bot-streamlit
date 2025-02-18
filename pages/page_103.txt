@@ -1,0 +1,32 @@
+Sync Button Functionality
+The sync button is available at all times, allowing recruiters to manually sync or load 
+previous conversations with candidate.  
+When a user starts a new conversation, at least one message must be sent to enable 
+manual sync for retrieving any previous messages (previous conversation that was led 
+on Linkedin or Xing).
+The button will pulsate when there are incoming message snippets or when syncing is 
+required to fetch new messages. Hovering over the button displays a tooltip: “New 
+messages available. Click to sync.”
+Once the sync is complete, the button will return to its normal state, and the newly 
+fetched messages will appear in the conversation thread.
+Viewing and Managing Messages
+Recruiters can view the history of their conversations with candidates started through 
+Talentwunder. These messages are displayed in a threaded format, allowing for easy reference 
+and scrolling through the conversation.
+If there is no existing conversation, the drawer opens with a larger space for inputting new text. 
+The up arrow for resizing the input field will not be visible.
+Connection Requests and Messages
+Recruiters can choose between sending a Connection Request  or a Message to candidates 
+on LinkedIn and Xing.
+Dropdown for Sending Options
+A dropdown next to the Send button allows recruiters to choose between Connection 
+Request and Message.
+If there is no previous conversation, the default action is to send a Connection 
+Request.
+If there is an existing conversation thread, the default switches to Send Message.
+Character Limits:
+oConnection Requests: Max 250 characters.
+oMessages: Max 2500 characters.
+For Xing Basic membership users, the option to include text in a connection request is disabled.  
+They can only send a Connection Request without any accompanying text. This is due to Xing 
+restrictions.

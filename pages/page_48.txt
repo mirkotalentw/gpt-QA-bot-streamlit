@@ -1,0 +1,24 @@
+Select products using checkboxes.
+C1.6.1.1.2 Select Product
+Highlight a specific product.
+C1.6.1.1.3 Add to Cart
+Add selected products to your cart.
+C1.7 Packages
+C1.7.1 Package Overview
+View available packages for posting.
+C1.7.2 Add Package to Cart
+Add selected packages to your cart.
+C1.8 Cart
+C1.8.1 Delete Items
+Remove specific products or packages from the cart.
+C1.8.2 Remove All
+Clear all items from the cart.
+C1.8.3 Proceed to Job Ad Editor
+Move to the next step for editing the job ad.
+C1.9 Job Ad Editor
+C1.9.1 Header Image 1
+C1.9.1.1 Upload or Drag and Drop
+Add the first header image.
+C1.9.2 Header Image 2
+Same as above for the second header image.
+C1.9.3 Header Image 3

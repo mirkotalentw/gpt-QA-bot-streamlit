@@ -1,0 +1,23 @@
+Share the saved search with others.
+B3.5.1.6.3 Delete Search
+Remove the saved search permanently.
+B3.5.2 Boolean Searches Overview
+Same structure as B3.5.1, but for saved Boolean searches.
+C Job Ads More explanation needed
+C1 Job Ad Overview
+C1.1 Select Project
+Choose a project to link with the job ad.
+C1.2 Select Job Boards
+Pick job boards to post the ad.
+C1.3 Job Title
+Specify the job title for the ad.
+C1.4 Location
+Define the job location.
+C1.5 Switch View
+Toggle between compact and listed views.
+C1.6 Products
+C1.6.1 Product Overview
+View available products for posting.
+C1.6.1.1 Product Detail View
+View details of the product.
+C1.6.1.1.1 Checkbox Function

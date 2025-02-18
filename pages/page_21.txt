@@ -1,0 +1,28 @@
+By clicking "Edit," users can update project details such as the name, description, 
+responsibilities, or other project-specific settings. This ensures that all information stays up-to-
+date and meets current requirements.
+A1.3.2.1 Enter Project Information
+Project information can include the project name, a unique ID, organization, a project color, and 
+a description. These details help identify and categorize the project for easy access and 
+differentiation.
+A1.3.2.2 Enter Job Information
+Job information includes job title, city, radius (in kilometers), and country. These fields provide 
+precise location data and search range, especially useful for finding local candidates. 
+Additionally, users can specify must-have and nice-to-have skills, the industry, and details like 
+contract type and seniority level.
+A1.3.3 Search Function for Projects or Candidates
+The search function allows users to find specific projects or candidates efficiently.
+A1.3.4 Filter by Status/Priority
+The "Filter by Status/Priority" function enables sorting projects by their current status (e.g., 
+active, high priority, on hold). This ensures only relevant projects are displayed, improving focus  
+and organization. Its filtering, not “sorting” of projects.
+A1.3.4.1 Show All
+The "Show All" function displays all projects or tasks without filtering by status or priority.
+A1.3.4.2 Active
+Displays only active projects or tasks currently in progress. We don’t have tasks – projects only.
+A1.3.4.3 High Priority
+Filters projects or tasks marked as particularly important. We don’t have tasks – projects only. 
+And those are not particularly important, but users have marked them as High Priority.
+A1.3.4.4 On Hold
+Shows projects or tasks that are temporarily paused or deferred. We don’t have tasks
+A1.3.4.5 Completed

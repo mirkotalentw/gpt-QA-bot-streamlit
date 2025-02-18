@@ -1,0 +1,260 @@
+Here's a structured summary of the key information for each page:
+
+Page 1:
+- Talentwunder overview
+- Agenda feature overview for managing tasks and activities
+- Three main views: All, Completed, Uncompleted
+- Ability to edit tasks and sync with calendars
+- Detailed view with sorting and filtering options
+
+Page 2:
+- Continuation of Agenda feature details
+- Notifications section overview
+- Customization of notification preferences
+- Types of notifications (project actions, modifications, candidate actions, reminders, comments)
+
+Page 3:
+- Continuation of notification types
+- Settings section overview
+- Account settings (personal information, languages, security)
+- Two-Factor Authentication setup process
+
+Page 4:
+- Continuation of Two-Factor Authentication setup
+- Company information settings
+- Legal compliance (Data Processing Agreement)
+- Activities settings and logout option
+
+Page 5:
+- Dashboard overview (projects, talentpools, analytics, project templates)
+- Projects tab details (search, filter, customization options)
+- Project table information (ID, name, organization, team, updates, candidates, status)
+- Quick actions for projects (star, edit, manage team, analytics, ATS connection, close, delete)
+
+Page 6:
+- Continuation of project quick actions
+- Create new project process
+- Project information step (name, color, organization, ID, description, team members)
+
+Page 7:
+- Process step for project creation (templates)
+- Job information step (title, city, country, radius, industry, skills, description)
+
+Page 8:
+- Continuation of job information step
+- AI Assist in project creation (to be decided)
+- Finishing project creation and next steps (book job ads, start Boolean search, start Smart Search)
+
+Page 9:
+- Project Overview Tab details
+- Project Info section (name, color, status, ID, organization, description, members, sourced profiles, comments, recommendations, activities, saved searches, notifications)
+
+Page 10:
+- Job Info section details (title, location, skills, industry, description, contract type, seniority, etc.)
+- Edit field functionality
+- Candidate Board overview
+
+Page 11:
+- Candidate Board features (states, movement, sorting options, three-dot menu)
+- Success State setting importance for analytics
+
+Pages 12-13:
+- Filter options for Candidate Board
+- Export feature for candidate data
+
+Pages 14-15:
+- Sourced Profiles and Candidate Overview
+- Kanban board functionality
+- Sorting and filtering options for candidates
+
+Pages 16-17:
+- Project Analytics overview
+- Recommendations feature
+- Detailed candidate profile view and actions
+
+Pages 18-19:
+- Continuation of candidate profile features (notes, activities, timeline)
+- Message Generator and AI Assistant for messaging
+
+Pages 20-21:
+- Boolean Search overview and functionality
+- Search information and operators
+- Additional filter options for Boolean Search
+
+Pages 22-23:
+- Talentpools overview and functionality
+- Creating and managing talent pools
+- Editing and customizing talent pools
+
+Pages 24-25:
+- Analytics feature (for Org. Admin License only)
+- Organization Activities metrics
+- User Activities analytics
+
+Pages 26-27:
+- Project Templates overview and functionality
+- Creating and managing project templates
+- Private and shared templates
+
+Pages 28-29:
+- Smart Search overview and filter options
+- Networks selection for search (Business, IT & Tech, Knowledge, Design, Others)
+
+Pages 30-31:
+- Continuation of network options for Smart Search
+- Detailed filter options (skills, industry, experience, language, company)
+
+Pages 32-33:
+- Additional filter options (person characteristics, communication preferences)
+- Probability of moving and job change filters
+
+Pages 34-35:
+- Candidate profile anonymization option
+- Sorting and viewing options for search results
+- Semantic extensions for jobs and skills
+
+Pages 36-37:
+- Saving search criteria and creating projects from search results
+- Detailed candidate overview and actions
+
+Pages 38-39:
+- Candidate profile detailed view and actions
+- Adding notes and activities to candidate profiles
+
+Pages 40-41:
+- Timeline view for candidate interactions
+- Message generator and AI assistant for communication
+
+Pages 42-43:
+- Boolean Search additional details
+- Expressions, grouping elements, and operators
+- Wildcards and boost factors
+
+Pages 44-45:
+- Boolean Search filter overview
+- Saved Searches functionality
+
+Pages 46-47:
+- Job Ads overview and creation process
+- Selecting job boards and packages
+
+Pages 48-49:
+- Job Ad Editor details (design, details, application process)
+
+Pages 50-51:
+- Continuation of Job Ad Editor details
+- Job ad summary and overview
+
+Pages 52-53:
+- Finalizing and placing job ad orders
+- Quality of Life metrics overview
+
+Pages 54-55:
+- Smart Search Functions detailed explanation
+- Network integration and intelligent search processing
+
+Pages 56-57:
+- Advanced filtering system and profile management in Smart Search
+- Search optimization features and user experience enhancements
+
+Pages 58-59:
+- Detailed explanation of Business networks category
+- Specific business network platforms (Golden Line, Hosco, LinkedIn, etc.)
+
+Pages 60-61:
+- IT & Tech networks category explanation
+- Specific IT & Tech platforms (Coderwall, Drupal, GitHub, etc.)
+
+Pages 62-63:
+- Knowledge networks category explanation
+- Design networks category and platforms
+
+Pages 64-65:
+- Other specialized job platforms and niche networks
+- Skills filtering options (Must-Have and Nice-to-Have)
+
+Pages 66-67:
+- Industry filter options and descriptions
+
+Pages 68-69:
+- Continuation of industry filter options
+- Years of Experience filter explanation
+
+Pages 70-71:
+- Language filter options
+- Company filter options for candidate search
+
+Pages 72-73:
+- Person characteristics filters (gender, professional status)
+- Communication preference filters
+
+Pages 74-75:
+- Probability of moving and job change filters
+- Profile anonymization option
+
+Pages 76-77:
+- Sorting options for search results
+- Semantic expansions for job titles and skills
+
+Pages 78-79:
+- Continuation of semantic expansions for skills
+- Boolean Search detailed explanation
+
+Pages 80-81:
+- Boolean Search operators and filter options
+- Wildcards and weight factors in Boolean Search
+
+Pages 82-83:
+- Company Score Overview explanation (Loyalty, Diversity, Competitiveness, Career progression)
+- Applications and benefits of Company Score
+
+Pages 84-85:
+- Detailed explanation of Loyalty Score and Diversity Score components
+- Loyalty Score
+- Diversity Score
+
+Pages 86-87:
+- Competitiveness Score and Career Score explanations
+- Competitiveness Score
+- Career Score
+
+Pages 88-89:
+- Continuation of Career Score explanation
+- Introduction to Cost of Living tool
+
+Pages 90-91:
+- Cost of Living metrics explanation
+- Local Purchasing Power and Income Comparison features
+
+Pages 92-93:
+- Quality of Life metrics explanation
+- General, Social, and Infrastructure assessment components
+
+Pages 94-95:
+- Job Ads feature detailed explanation
+- Creating and managing job ads
+
+Pages 96-97:
+- Choosing job ad products and packages
+- Customizing job ads (logo, video, design elements)
+
+Pages 98-99:
+- Job ad sections explanation (Introduction, Tasks, Profile, Benefits, Contact)
+- Job Details tab information
+
+Pages 100-101:
+- Payment and order process for job ads
+- Error handling and FAQs for job ad creation
+
+Pages 102-103:
+- Messaging feature overview and access
+- Installing browser extension for messaging
+- Syncing LinkedIn and Xing profiles
+
+Pages 104-105:
+- Message templates and AI Assist for messaging
+- Notifications for new messages
+
+Page 106:
+- Message Notification Hub
+- Validations for different messaging scenarios

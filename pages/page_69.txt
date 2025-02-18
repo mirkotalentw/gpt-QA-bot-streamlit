@@ -1,0 +1,28 @@
+Transportation services, supply chain management, and logistics operations.
+B1.2.3.2.30 Entertainment
+Entertainment production, distribution, and venue management.
+B1.2.3.2.31 Insurance
+Insurance providers, brokers, and related financial protection services.
+B1.2.3.2.32 Audit, Tax, and Legal
+Professional services in accounting, tax consulting, and legal advisory.
+B1.2.3.2.33 Other Sectors
+Specialized sectors and emerging industries not covered in other categories.
+B1.2.3.3 Years of Experience
+The Years of Experience filter allows recruiters to target candidates based on their 
+professional tenure, providing precise control over experience requirements in the search 
+process. 
+B1.2.3.3.1 From (specify years)
+The starting point of the experience range:
+Defines the minimum years of relevant experience required
+Helps filter out entry-level candidates when seeking more experienced professionals
+Ensures candidates have sufficient practical knowledge
+Key Features:
+Numerical input from 0-50 years
+Smart calculation of cumulative experience
+Recognition of parallel experience in multiple roles
+Consideration of part-time and full-time experience
+Understanding of internships and apprenticeships
+B1.2.3.3.2 To (specify years)
+The upper limit of the experience range:
+Sets the maximum years of experience for the search
+Helps align candidate experience with position level

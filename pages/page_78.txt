@@ -1,0 +1,22 @@
+Quickly enable all suggested semantic expansions:
+- Includes all related job titles
+- Incorporates all suggested skills
+- Broadens the search scope
+- Maximizes potential candidate pool
+ 
+B1.2.5.2.1.2 Deselect All
+Remove all semantic expansions:
+- Returns to original search terms
+- Removes AI-suggested additions
+- Narrows search to exact job title
+- Provides more focused results
+ 
+Key Benefits:
+- Fine-tune search accuracy after reviewing initial results
+- Control search breadth by selecting relevant expansions
+- Remove irrelevant suggestions
+- Optimize search based on market knowledge
+- Balance between search precision and recall
+ 
+This feature allows recruiters to leverage AI-powered suggestions while maintaining control over  
+the search scope and relevance.

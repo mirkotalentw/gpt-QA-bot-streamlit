@@ -1,0 +1,25 @@
+Similar options as Candidate Is, but for exclusion.
+B1.2.3.8 Communication
+B1.2.3.8.1 Email
+Filter candidates with available email contact.
+B1.2.3.8.2 Phone
+Filter candidates with available phone contact.
+B1.2.3.9 Likelihood of Relocation
+B1.2.3.9.1 Slider
+Adjust the slider to filter candidates based on their willingness to relocate.
+B1.2.3.10 Likelihood of Job Change
+B1.2.3.10.1 Slider
+Adjust the slider to filter candidates based on their likelihood of changing jobs.
+B1.2.4 Anonymize Profiles (Checkmark)
+Enable profile anonymization to protect candidate privacy.
+B1.2.5 New Search
+B1.2.5.1 Compact/List View
+Toggle between a compact or detailed view of search results.
+B1.2.5.2 Sorting
+Sort search results by relevance, relocation likelihood, or job change likelihood. Change 
+probability, Mobility
+B1.2.5.2 Edit Search (Semantic Extensions) missing explanation
+B1.2.5.2.1 Semantic Extension for Jobs missing explanation
+B1.2.5.2.1.1 Select All
+Select all suggested extensions.
+B1.2.5.2.1.2 Deselect All

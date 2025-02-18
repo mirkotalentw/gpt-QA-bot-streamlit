@@ -1,0 +1,11 @@
+Scenario 2: Premium LinkedIn/Xing Account
+If the recruiter attempts to send a message to someone who is not a connection without 
+using InMail or Message credits, a modal will appear:
+o“You are about to use an InMail/Message credit. Do you want to proceed?”
+oOptions: Proceed with InMail/Message Credit  or Switch to Connection 
+Request.
+Scenario 3: Not Logged In
+If the recruiter is not logged into LinkedIn/Xing and attempts to send a message, a modal  
+will appear:
+o“You need to be logged in to send a message. Please log in and try again.”
+Option: OK.

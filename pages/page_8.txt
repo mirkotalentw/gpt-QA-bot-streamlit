@@ -1,0 +1,29 @@
+The ID (identification number) is a unique identifier for your project.
+7.2.5 Description
+The project description in the Talentwunder app should include the goals, scope, target 
+audience, and timeframe of the project. Additional information on required resources, potential 
+risks, and a communication plan is essential for fostering teamwork and ensuring project 
+success.
+7.2.6 Invite Team Members
+Select the team members you want to work with on project.
+7.2.7 Select All / Only Me
+Invite all team members to your project or work on it alone.
+7.3 Process Step
+Visually map your recruiting process using a custom project template or a default Talentwunder 
+template. 
+Templates show the hiring process progress states on the candidate (Kanban) board. Choosing 
+the Default template applies Talentwunder predefined steps, while a custom made templates 
+can be created and managed in the Project Templates tab in the Dashboard, allowing you to 
+define your own hiring process. Missing a part of the tutorial for Onboarding where it's explained  
+its best to stick to one project template across projects – this is important for future analytics 
+metrics. - ask Laura about how they explain in onboarding videos.
+7.3.1 Select Template
+Choose between a Default template or a custom made template.
+7.3.1.1 Default Template
+The default template maps the hiring process as follows: "Selected, Contacted, Declined, 
+Accepted
+7.3.1.2 Custom Template
+Select a custom-made template for your candidate process.
+7.3.2 Job Information Step
+Job information describes all relevant details for an open position or job tied to a project.
+7.3.2.1 Enter Job Title

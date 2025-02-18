@@ -1,0 +1,36 @@
+Helps track progress in gender balance initiatives
+2.Education Diversity
+Evaluates variety of university backgrounds
+Measures educational institution representation
+Indicates openness to different academic paths
+Shows diversity in educational qualifications
+3.Language Diversity
+Assesses range of spoken languages within workforce
+Indicates multicultural workforce capability
+Shows international communication capacity
+Reflects global workforce integration
+4.Work Experience Group Diversity  Measures distribution across predefined 
+experience brackets:
+0-3 years: Entry-level/junior positions
+3-5 years: Early career professionals
+5-10 years: Mid-career professionals
+10+ years: Senior professionals Indicates balanced experience distribution across 
+organization
+5.Age Group Diversity  Evaluates distribution across age brackets:
+Under 18: Youth workers
+18-25: Early career/graduates
+25-35: Young professionals
+35-55: Mid-career professionals
+55+: Senior professionals Shows generational diversity and age inclusivity
+6.Location Diversity
+Measures geographic distribution of workforce
+Indicates presence across different cities
+Shows regional representation
+Reflects geographic inclusivity
+Key Benefits:
+Helps identify areas for improvement in D&I strategies
+Supports inclusive workplace development
+Enables targeted recruitment for underrepresented groups
+Provides benchmarking for diversity initiatives
+Assists in developing inclusive hiring strategies
+This score is particularly valuable for:

@@ -1,0 +1,29 @@
+- Refine skill requirements after initial search
+- Control the breadth of skill matching
+- Remove irrelevant skill suggestions
+- Balance between specific and related skills
+- Optimize candidate matching based on actual requirements
+B2 Boolean Search
+This advanced search functionality allows precise candidate searching using Boolean operators 
+and special filters. Here's a comprehensive breakdown:
+B1.1 Search Information (Lightbulb Function)  Basic overview of Boolean search 
+capabilities and AI assist option that converts natural language to Boolean queries.
+B1.1.1 Expressions  Basic search expressions using keywords and terms to find candidates 
+Example: Java AND Python OR "Machine Learning"
+B1.1.2 Grouping Elements  Use parentheses to group search terms and create complex 
+queries Example: (Java OR Python) AND ("Machine Learning" OR AI)
+B1.1.3 Boolean Operators
+AND: Both terms must be present
+OR: Either term must be present
+NOT: Exclude terms
+IN: Location-based search
+B1.1.4 Additional Filter Options
+1.Shortcut: Press "ctrl + space" to open filter dropdown menu
+2.Current Position : Use "AS" filter Example: AS Recruiter, AS NOT Senior
+3.Previous Position : Use "PREVIOUSLY_AS" filter Example: PREVIOUSLY_AS 
+Recruiter
+4.Current Employer : Use "AT" filter Example: AT CompanyName
+5.Language Skills : Use "SPEAKS" filter Example: SPEAKS English
+6.Gender: Use "IS" filter Example: IS FEMALE or IS MALE
+7.Change Probability : Use "CHANGE_PROBABILITY ABOVE" Example: 
+CHANGE_PROBABILITY ABOVE 55

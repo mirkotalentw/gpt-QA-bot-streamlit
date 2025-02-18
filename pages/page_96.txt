@@ -1,0 +1,31 @@
+Matching Score:
+Talentwunder uses a Matching Score to help you find the best job boards for your project. This 
+score is a star rating based on how well the job board matches your job title and location. The 
+score is calculated based on:
+Candidate interactions : The engagement of candidates on that job board for similar job  
+titles and locations.
+Relevance: How relevant the job board is for the specific role you are trying to fill.
+The Matching Score is displayed as a star rating on each job board card. A higher score 
+means the job board is more likely to attract suitable candidates for your position.
+Tabs for Products and Packages
+You will find two tabs:
+1.Products: Individual job board products are displayed here.
+2.Packages: Bundles of job board products with discounted prices are available here.
+For convenience, both tabs offer Card View and List View. Products from the same supplier 
+are grouped together in both views.
+Each product card includes:
+Supplier Logo.
+Original Price (shown with a strikethrough, if available).
+Discounted Price (the lowest available price from the supplier’s group of products).
+Matching Score: A star rating based on the Job Title and Location. This score 
+represents product popularity for the selected job title, based on candidate interactions 
+and engagement on the job board. If a product does not have a matching score, it will be  
+omitted from the display.
+Modal Window:
+Clicking on a product card will open a modal showing all products from that supplier. Here, you’ll  
+find details such as:
+Ad Type.
+Exact Price.
+Ad Duration.
+Matching Score.
+Country

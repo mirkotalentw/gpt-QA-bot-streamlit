@@ -1,0 +1,27 @@
+When enabled, this feature automatically obfuscates personal identifying information in search 
+results and profile pages by:
+Hiding candidates' full names
+Removing profile pictures
+Retaining all professional information such as:
+oSkills and qualifications
+oWork experience
+oEducation
+oAchievements
+oProfessional certifications
+This simple toggle helps maintain candidate privacy while preserving all information relevant to 
+the hiring decision. The anonymization applies to both search results and any profile pages 
+accessed from that search, ensuring consistent privacy protection throughout the screening 
+process.
+Note: Personal information remains hidden until the feature is disabled, allowing for objective, 
+qualification-based candidate evaluation.
+B1.2.5 New Search
+A set of features that control how search results are displayed and organized.
+B1.2.5.1 Compact/Listed Candidate View
+Toggle between two result display formats:
+- Compact View: Condensed presentation showing key information at a glance
+- Listed View: Detailed presentation with expanded candidate information
+B1.2.5.2 Sorting
+Options to organize search results based on different criteria:
+ 
+B1.2.5.2.1 Relevance
+Orders candidates based on how well they match the search criteria:

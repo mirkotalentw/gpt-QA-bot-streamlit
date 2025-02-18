@@ -1,0 +1,29 @@
+What We Offer (Mandatory)
+Tip: Highlight key benefits your company offers, such as financial perks, wellness programs, 
+and family support. Tailor these to the priorities of your target candidates. Focus on meaningful 
+benefits rather than minor perks.
+Contact Information (Mandatory)
+Tip: Provide contact information for applicants and clearly state how candidates can reach out 
+with any questions they may have.
+Job Details Tab
+Once you’ve customized the job ad, you’ll proceed to the Job Details tab.
+If a project was selected earlier, some fields (like Job Title and Location) will be auto-
+populated, and modifications to the chosen project cannot be made at this stage.
+Fields required in this step include:
+Job Title, City, Country, ZIP Code, Contract Type, Industry, Seniority, Field of 
+Activity, Job Type.
+Optional fields include:
+Company Name, Remote Work options (On-site, Hybrid, Remote), Reference Number  
+(Enter a reference number for internal tracking. Some job boards support and display 
+this number), Contact Information  (This information will be visible to applicants on 
+some job boards. Ensure it is suitable for public display), Salary (If Salary is selected, 
+you must provide Minimum and Maximum amounts, Currency, and whether it is monthly 
+or yearly) and Keywords.
+Validation:
+The system ensures all mandatory fields are filled before allowing you to continue. If a field is 
+missing, the system will scroll to the missing information and show a validation message.
+Country Dropdown :
+Select the location where you want the job ad to be published. Accurate selection ensures 
+better targeting and visibility on location-focused job boards.
+Only locations available in the selected products will appear in the dropdown. If any selected 
+product doesn’t support a specific location, a validation pop-up will appear.

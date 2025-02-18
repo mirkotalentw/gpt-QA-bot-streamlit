@@ -1,0 +1,27 @@
+- All projects are displayed in a tabular format, enabling users to view and access relevant 
+details briefly.
+2. Search and Filter:
+   - Use the search bar to find specific projects or candidates within projects.
+   - Apply filters to display projects based on specific criteria (show all, active, high priority, on 
+hold, closed). By default Active, High priority and on hold will be selected.
+   - Show Only Mine Checkbox: Filters the project list to display only projects created or owned 
+by the user.
+3. Project Table:
+   - Each project displays the following:
+     - ID: The ID (identification number) is a unique identifier for each project. It helps quickly 
+identify and access projects without confusion with similar ones.
+     - Name: The project name is the title or designation assigned to the project. It should be 
+concise and meaningful so team members and stakeholders can immediately recognize the 
+project's purpose.
+     - Organization: The organization refers to the company or institution that initiated or is 
+conducting the project. This information is essential to understanding the project's context and 
+knowing the organizational framework involved.
+     - Team: Team members involved, with a count for larger teams.
+     - Last Updated: The most recent update date for tracking progress.
+     - Candidates: The number of candidates currently in the project.
+     - Status: The status indicates the stage of the project, such as "Active," "High Priority," or 
+"On Hold." It is also possible to change the status from the dropdown menu.
+4. Customization:
+   - Users can sort projects by name, organization, last updated and status.
+   - The "Show only mine" checkbox allows users to view only their own projects.
+5. Quick Actions:

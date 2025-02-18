@@ -1,0 +1,24 @@
+Enter the company name.
+C1.9.5.4 Industry
+Select the relevant industry.
+C1.9.5.5 Functional Area
+Define the job’s functional area.
+C1.9.5.6 Seniority
+Specify the required seniority level.
+C1.9.5.7 Job Type
+Select the job type (e.g., full-time, part-time).
+C1.9.5.8 Contract Type
+Indicate whether the position is permanent or fixed-term.
+C1.9.5.9 Number of Open Positions
+Enter the number of vacancies.
+C1.9.5.10 Remote Work
+Specify if remote work is available.
+C1.9.5.11 Keywords
+Add relevant keywords for the ad.
+C1.9.5.12 Reference Number
+Include a reference number for tracking.
+C1.9.5.13 Publication Date
+Set the date when the ad should be published.
+C1.9.5.14 Contact Person
+Add a contact person’s details.
+C1.9.5.15 Email

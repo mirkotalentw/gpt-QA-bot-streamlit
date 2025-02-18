@@ -1,0 +1,25 @@
+B1.2.5.4.2.3 Create New Project
+Create a new project and add the candidate.
+B1.2.5.4.3 View Network Profile
+Open the candidate’s profile on a professional network, e.g., LinkedIn or Xing.
+B1.2.5.4.4 Candidate Preview
+View a detailed preview of the candidate’s profile. More explanation
+B1.2.5.5 Candidate Profile – Detailed View More explanation – not sure if from now the 
+candidate profile starts – we can put the superprofile in here
+B1.2.5.5.1 Add to Project
+Include the candidate in a specific project. More explanation
+B1.2.5.5.2 Add to Talent Pool
+Include the candidate in a specific talent pool. More explanation this is repeating
+B1.2.5.5.3 Share Candidate
+Share the candidate’s profile with team members. More explanation
+B1.2.5.5.4 Link Profiles
+Link multiple profiles of the same candidate. More explanation
+B1.2.5.5.5 More Options (Three-Dot Menu)
+B1.2.5.5.5.1 Contact Information
+Access the candidate’s contact information. More explanation
+B1.2.5.5.5.2 Links
+View external links related to the candidate. More explanation
+B1.2.5.5.5.3 Request Business Email
+Send a request for the candidate’s business email address. More explanation
+B1.2.5.5.6 Change Timeline View
+Switch between different timeline display modes.

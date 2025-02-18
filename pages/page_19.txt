@@ -1,0 +1,27 @@
+Set the selected status as the success status. Needs more explanation.
+A1.3.1.2.1.2.5 Create Talent Pool from Status
+Create a talentpool from the selected status. Needs a bit more explanation.
+A1.3.1.2.1.2.6 Add State to Talentpool
+Add the selected status to a talentpool. Needs a bit more explanation. -ie add the candidates 
+from selected status to talentpool
+A1.3.1.2.1.2.7 Move to Another Project
+Move the selected status and candidates to another project. - I suppose it says move 
+candidates from the selected status – not the whole “status” in German?
+A1.3.1.2.1.2.8 Export as .CSV
+Export the selected status and included profiles as a .CSV file.
+A1.3.1.2.1.2.9 Delete
+Permanently deletes the status from the project. All included profiles will also be removed from 
+the project.
+A1.3.1.2.1.3 Sort Contacted A-Z or Z-A
+Sort profiles alphabetically as desired. We already have this one.
+A1.3.1.2.1.4 Three-Dot Function
+Offers the same options as listed above, such as renaming, setting as a success status, or 
+creating a talent pool. And this? 
+A1.3.1.2.1.5 Sort Rejected A-Z or Z-A – why do we have this repeating? Same goes for the 
+ones below 
+Profiles can be alphabetically sorted as needed.
+A1.3.1.2.1.6 Sort Accepted A-Z or Z-A
+Profiles can be alphabetically sorted as needed.
+A1.3.1.2.1.7 Sort ATS Status A-Z or Z-A
+Profiles can be alphabetically sorted as needed.
+A1.3.1.2.1.8 Filters

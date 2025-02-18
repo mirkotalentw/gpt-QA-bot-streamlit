@@ -1,0 +1,29 @@
+A dynamic slider control that allows recruiters to filter candidates based on their estimated 
+relocation probability:
+Scale from 0-100%
+Lower values: Candidates likely to prefer local positions
+Higher values: Candidates showing strong indicators of relocation willingness
+Based on factors such as:
+oPrevious relocation history
+oCurrent location versus job market
+oCareer progression patterns
+oInternational experience
+oFamily status indicators
+B1.2.3.10 Change Probability
+This feature evaluates the likelihood of candidates being open to new opportunities, 
+based on various professional and behavioral signals.
+B1.2.3.10.1 Slider Function
+An intuitive slider control that filters candidates based on their predicted job change probability:
+Scale from 0-100%
+Lower values: Candidates likely stable in current roles
+Higher values: Candidates showing strong indicators of job search activity
+Based on factors such as:
+oLength of current employment
+oRecent profile updates
+oProfessional network activity
+oIndustry market conditions
+oCareer progression timing
+Both probability sliders serve as powerful tools for prioritizing candidate outreach and focusing 
+recruitment efforts on the most promising prospects. The AI-driven analysis behind these 
+features helps recruiters make data-informed decisions about candidate engagement strategies.
+B1.2.4 Anonymize Profiles (Checkbox)

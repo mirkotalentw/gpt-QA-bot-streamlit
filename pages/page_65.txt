@@ -1,0 +1,29 @@
+requirements. This sophisticated filtering mechanism ensures that search results 
+align closely with job requirements and organizational needs.
+B1.2.3.1 Skills 
+The Skills filter is a comprehensive tool designed to evaluate candidates based on their 
+technical, professional, and soft skills. This intelligent filtering system understands skill 
+relationships, variations, and hierarchies, enabling more accurate candidate matching.
+B1.2.3.1.1 Skills (Must-Have)
+Must-Have Skills represent the essential competencies that candidates must possess to be 
+considered for a position:
+Critical skills without which the candidate cannot perform the job
+Core technical competencies required for the role
+Mandatory certifications or qualifications
+Non-negotiable professional capabilities
+Features:
+Strict filtering that excludes candidates lacking these skills
+Verification through profile analysis across networks
+Skill level assessment capabilities
+Recognition of equivalent skills and certifications
+Automated skill validation through project experience
+B1.2.3.1.2 Skills (Nice-to-Have)
+Nice-to-Have Skills are additional competencies that would benefit the role but aren't essential:
+Complementary skills that add value
+Emerging technologies or methodologies
+Secondary specializations
+Beneficial soft skills or additional languages
+Features:
+Weighted scoring system for preferred skills
+Flexible matching that doesn't exclude candidates
+Consideration of partial skill matches

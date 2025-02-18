@@ -1,0 +1,31 @@
+E1.2 Cost of Living Metrics
+The Cost of Living Metrics represent a multi-faceted approach to understanding and comparing 
+living expenses between locations. This system incorporates various economic indicators, local 
+market conditions, and lifestyle factors to provide a holistic view of living costs.
+E1.2.1 General
+E1.2.1.1 Local Purchasing Power (LPP)  The Local Purchasing Power index is a 
+fundamental metric that quantifies the relative buying capacity of a typical salary in a given 
+location. This sophisticated measure takes into account average salaries and living costs to 
+determine how much people can actually afford in different cities. It serves as a crucial indicator 
+for understanding real-world living standards and economic conditions across different locations,  
+going beyond simple currency conversions to reflect actual lifestyle possibilities.
+E1.2.1.2 Income Comparison  The Income Comparison feature provides a nuanced 
+analysis of salary equivalence between locations, accounting for differences in living costs, 
+taxation, and economic conditions. This tool helps users understand what salary level would be 
+needed in a different location to maintain their current standard of living, making it invaluable 
+for career decisions and salary negotiations.
+E1.2.1.2.1 Select Currency  The currency selection functionality enables users to view and 
+compare financial data in their preferred currency. This feature ensures that users can understand  
+costs in familiar terms while maintaining accurate relative values across different economic 
+zones.
+E1.2.2 Combined Metrics  The Combined Metrics section presents a comprehensive 
+overview of key cost indicators, integrating various aspects of daily living expenses. This 
+includes consumer prices with and without rent, grocery costs, and dining expenses. The system 
+analyzes these factors collectively to provide a more complete understanding of cost differences 
+between locations.
+E1.2.3 Individual Comparison  The Individual Comparison feature offers detailed, 
+category-specific cost analysis across different aspects of daily life:
+Housing Costs A thorough examination of residential expenses, including rental costs for 
+various apartment types, utility expenses, and property purchase prices. The analysis 
+distinguishes between city center and peripheral locations, providing a comprehensive view of 
+housing options and their associated costs.

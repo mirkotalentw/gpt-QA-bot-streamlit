@@ -1,0 +1,23 @@
+B1.2.5.5.8.7 Add Activity
+Save the activity (e.g., email, call, meeting) to the candidate’s profile.
+B1.2.5.5.9 Timeline
+View the candidate’s timeline for insights into past interactions.
+B1.2.5.5.9.1 Select Project/All Projects
+Choose a specific project or view all associated projects.
+B1.2.5.5.9.2 Activities
+See activities linked to the candidate.
+B1.2.5.5.9.3 Ratings
+Review ratings for the candidate.
+B1.2.5.5.9.4 Notes
+View notes added to the candidate’s profile.
+B1.2.5.5.9.5 System
+View system-generated updates about the candidate.
+B1.2.5.5.10 Select Similar Candidate Profiles
+Identify and explore profiles similar to the current candidate.
+B1.2.5.5.11 Message Generator More explanation needed
+B1.2.5.5.11.1 Choose Network (LinkedIn/Xing)
+Select the network to contact the candidate, e.g., LinkedIn or Xing.
+B1.2.5.5.11.2 Select Contact Request/Message
+Choose whether to send a contact request or a message.
+B1.2.5.5.11.2.1 Use Message Credit
+Utilize available message credits for sending the communication.

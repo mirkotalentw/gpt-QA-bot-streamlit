@@ -1,0 +1,29 @@
+- Option to Clear Browser Data.
+3.1.2. Languages
+Users can change the app's interface language (German, English), making the app accessible 
+for international teams.
+3.1.3. Security:
+3.1.3.1. Reset Password: Request a password reset email to securely update your login 
+credentials (after this button is clicked, an email will be sent with password reset option).
+3.1.3.2. Two-Factor Authentication (2FA):  
+To set up Two-Factor Authentication (2FA) in the Talentwunder app, follow these simple steps:
+ 
+1. Download and Install the Authentication App:
+   - Download the Google Authenticator app on your mobile device from either the Google Play 
+Store (for Android devices) or the Apple App Store (for iOS devices).
+2. Scan the QR Code:
+   - Open the Google Authenticator app and use the QR code scanning option to scan the QR 
+code displayed on the screen. This will link your account with the authenticator app.
+3. Verify the Authentication Code:
+   - The app will generate a unique 6-digit code that changes every few seconds.
+   - Enter this code into the "Authentication Code" field in the app and click Verify Code.
+Once verified, your Two-Factor Authentication is successfully enabled. This ensures that in 
+addition to your password, you’ll need the unique code from the authenticator app to log in to 
+your account. This adds an extra layer of security to protect your data.
+The screen in the app ensures that the process is straightforward and intuitive, guiding you step 
+by step with clear instructions and providing the QR code directly for easy setup.
+3.1.4. Company Information:
+   - Add or update the Company Name and Company Description to personalize your 
+organization’s profile (where each user can set their own company name and description). This 
+information will be crucial for the messaging AI Assistant feature, that will take this data in order 
+to make personalized messages (and messaging templates as well). Once the company name

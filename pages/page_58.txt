@@ -1,0 +1,31 @@
+Instantly clears all selected network filters with a single click
+Returns the network selection to its default state
+Removes any network-specific restrictions from your search
+When to Use:
+Starting a fresh search with new criteria
+Broadening your search scope after a narrow network-specific search
+Correcting accidentally applied network filters
+Quickly switching between different search strategies
+Ensuring no hidden network filters are affecting your search results
+Benefits:
+Saves time compared to manually deselecting each network
+Prevents search errors from forgotten active filters
+Ensures a clean slate for new searches
+Helps maintain search accuracy and consistency
+Simplifies the transition between different search approaches
+This straightforward but essential function helps recruiters maintain efficient workflow and 
+avoid potential oversights in their candidate search process.
+B1.2.1.2 Business
+The Business networks category encompasses professional platforms primarily focused on career  
+development, business networking, and professional relationships. These networks are essential 
+for recruiters as they contain comprehensive professional profiles, including work history, skills, 
+and career achievements. Business networks typically attract professionals from all industries, 
+making them valuable sources for diverse hiring needs, from entry-level positions to executive 
+roles. These platforms often feature built-in communication tools, professional groups, and 
+industry-specific communities, enabling effective candidate engagement and relationship 
+building.
+B1.2.1.2.1 Business All
+The "Business All" option enables simultaneous searching across all business-oriented networks,  
+providing maximum reach and efficiency in your candidate search. This comprehensive 
+approach allows recruiters to:
+Access a wider talent pool across multiple professional platforms

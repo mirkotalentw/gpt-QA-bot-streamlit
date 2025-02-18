@@ -1,0 +1,22 @@
+B1.2.5.5.11.3 AI Assistant More explanation needed
+B1.2.5.5.11.3.1 Select Language (English/German)
+Choose the language for the message.
+B1.2.5.5.11.3.2 Project
+Associate the message with a project.
+B1.2.5.5.11.3.3 Company
+Include the company name in the message.
+B1.2.5.5.11.3.4 Job Description
+Add the job description to tailor the message.
+B1.2.5.5.11.3.5 Company Description
+Include the company description in the message.
+B2 Boolean Search
+B2.1 Search Information (Lightbulb Icon)
+Get tips and details for conducting a Boolean search. More explanation needed
+B2.1.1 Expressions
+Learn about specific expressions for search queries.
+B2.1.2 Grouping Elements
+Understand how to group elements effectively.
+B2.1.3 Boolean Operators
+Learn the available operators for refining search results.
+B2.1.4 Additional Filter Options
+B2.1.4.1 Shortcut

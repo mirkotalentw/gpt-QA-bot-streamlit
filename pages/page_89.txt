@@ -1,0 +1,22 @@
+- Metrics are weighted with top metrics having highest contribution
+- Scores are calculated based on relative importance
+- Higher scores indicate stronger career development opportunities
+- Most valuable when comparing similar:
+  - Company sizes
+  - Industries
+  - Market segments
+ 
+The Career Score helps:
+- Identify companies with strong internal development
+- Evaluate career growth opportunities
+- Assess promotion practices
+- Track diversity in advancement
+- Benchmark career development programs
+ 
+Note from documentation: Companies with high Career Scores tend to promote from within, 
+while those with lower scores typically seek external leadership hires.
+E Cost of Living
+Our Cost of Living tool serves as a sophisticated analytical platform designed to provide 
+comprehensive insights into living expenses across different global locations. This system 
+enables users to make informed decisions about relocation, compensation, and lifestyle planning 
+through detailed comparative analysis.

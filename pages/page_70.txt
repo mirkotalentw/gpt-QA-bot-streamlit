@@ -1,0 +1,33 @@
+Useful for budget considerations and team balance
+Key Features:
+Flexible upper limit setting
+Prevention of over-qualification scenarios
+Consideration of career progression
+Alignment with seniority requirements
+Best Practices for Experience Filtering:
+1.Setting Appropriate Ranges
+Consider industry standards for similar roles
+Account for market availability of talent
+Allow reasonable margins for exceptional candidates
+Consider technology evolution in technical roles
+2.Strategic Considerations
+Avoid too narrow ranges that might exclude good candidates
+Consider experience quality over strict year counts
+Account for industry-specific experience patterns
+Balance experience requirements with other criteria
+3.Common Applications
+Junior roles: 0-3 years
+Mid-level positions: 3-7 years
+Senior roles: 7-15 years
+Executive positions: 15+ years
+4.Pro Tips
+Use wider ranges for hard-to-fill positions
+Consider industry transitions when setting ranges
+Account for career breaks and part-time work
+Balance experience requirements with skills and qualifications
+5.Experience Calculation Features
+Intelligent recognition of overlapping experience
+Consideration of relevant project work
+Understanding of industry-specific experience value
+Recognition of international experience
+B1.2.3.4 Language

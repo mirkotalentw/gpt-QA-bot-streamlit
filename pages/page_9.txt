@@ -1,0 +1,31 @@
+The job title field in the Project creation job information step requires users to select an exact name from 
+a predefined list of available positions. This ensures consistency and standardization across the platform, 
+avoiding the ambiguity that could arise from manually typed entries.
+7.3.2.2 AI Assist in Project Creation Job Information Step
+TO BE DECIDED WILL IT BE COMPLETELY REMOVED
+7.3.2.2.1 Paste Job Description Text
+Paste your job description text here and let our AI Assist analyze it.
+7.3.3 Choose City (optional)
+Select a city for this specific project, in which you wish to look for a candidate. If a city is added, 
+it can be changed (customized) later in the search. Filling this field will help users to 
+automatically trigger the Search directly from the Project.
+7.3.4 Choose Country
+Select a country for this specific project, in which you wish to look for a candidate. If country is 
+added, it can be changed (customized) later in the search. Filling this field will help users to 
+automatically trigger the Search directly from the Project.
+7.3.5 Choose Radius
+Select a radius for this specific project, in which you wish to look for a candidate. If radius is 
+added, it can be changed (customized) later in the search. Filling this field will help users to 
+automatically trigger the Search directly from the Project.
+7.3.6 Choose Industry
+Select an industry for this specific project in which you wish to look for a candidate. If industry is 
+added, it can be changed (customized) later in the search. Filling this field will help users to 
+automatically trigger the Search directly from the Project.
+7.3.7 Must-Have Skills
+Add all must-have skills that your candidate should possess. If must-have skills are added, they 
+can be changed (customized) later in the search. Filling this field will help users to automatically 
+trigger the Search directly from the Project.
+7.3.8 Optional Skills
+Add all optional skills that your candidate should possess. If optional skills are added, they can 
+be changed (customized) later in the search. Filling this field will help users to automatically 
+trigger the Search directly from the Project.

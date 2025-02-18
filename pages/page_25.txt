@@ -1,0 +1,31 @@
+The "Analytics" function is only accessible to users with an Organization Admin license. It 
+provides comprehensive insights and evaluations of projects and candidates, such as talentpool  
+performance, engagement rates, and other key metrics to optimize recruitment processes. - this 
+needs better explanation – talenpool performance? Engagement rates?  
+A3.1 Organization Activities
+The "Organization Activities" feature provides an overview of all recruitment activities within the 
+organization. This includes interactions with candidates, project progress, and the use of the 
+Talentwunder app, enabling admins to analyze recruitment efficiency and improve team 
+management. - this is also not a good explanation – we should adjust it with the new metrics 
+that will come out also.
+A3.1.1 Search Graph
+Displays a visual representation of search activities within the organization, such as the 
+frequency of specific candidate or profile searches. Not accurate description, what candidate?  
+A3.1.2 Number of Talentpools
+Shows the total number of talentpools created in the organization, helping to track the scope of 
+candidate collections.
+A3.1.3 Number of Projects
+Displays the total number of active and completed projects, providing a clear view of recruitment  
+progress and workload. Is it active and completed, or is it all projects?
+A3.1.4 Number of Searches
+Indicates how often the Talentwunder app's search function was used to find candidate profiles, 
+reflecting activity levels.
+A3.1.5 Number of Candidates
+Shows the total number of candidates recorded or included in talent pools, giving an overview of  
+the available talent pool. In talentpools?
+A3.2 User Activities
+The "User Activities" function provides insights into individual users' actions within the 
+Talentwunder app, such as searches conducted, talentpools created, candidates added, and 
+other interactions. This data helps admins monitor usage and identify areas for improvement in 
+recruitment processes. We should write full list of metrics offer not write such as and list 2-3
+A3.2.1 Filter by Time Period

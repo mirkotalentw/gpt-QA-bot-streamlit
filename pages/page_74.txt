@@ -1,0 +1,27 @@
+Focuses on experienced professionals rather than entry-level or academic candidates.
+B1.2.3.7.6 Scientist
+Targets business-focused and applied roles rather than pure research positions.
+B1.2.3.8 Communication
+This filter indicates the availability of contact information in candidate profiles, helping 
+recruiters identify immediately reachable candidates.
+B1.2.3.8.1 E-Mail
+Indicates whether a candidate's profile includes an email address. This filter helps identify:
+Directly contactable candidates
+Profiles with verified email addresses
+Quick-access communication options
+B1.2.3.8.2 Phone Number
+Shows if a candidate's profile contains a phone number. This filter allows recruiters to:
+Find candidates available for immediate phone contact
+Identify profiles with complete contact information
+Filter for candidates who are more likely to be open to direct approaches
+These communication filters are particularly useful when:
+Time-sensitive recruitment is required
+Direct outreach is preferred
+Immediate contact capability is important
+Building shortlists of readily contactable candidates
+Note: The presence of contact information often indicates a candidate's openness to professional 
+opportunities and willingness to be contacted.
+B1.2.3.9 Probability of Moving
+This feature assesses the likelihood of candidates being willing to relocate for a position, 
+using advanced data analysis and behavioral indicators.
+B1.2.3.9.1 Slider Function

@@ -1,0 +1,32 @@
+DevOps platform with repository management
+B1.2.1.3.7 Hackerrank
+Platform for coding challenges and technical assessments
+ 
+B1.2.1.4 Knowledge
+The Knowledge networks category encompasses platforms dedicated to academic research, 
+scientific collaboration, and scholarly work. These networks serve as hubs for researchers, 
+scientists, academics, and subject matter experts across various disciplines. Unlike business or 
+tech networks, Knowledge platforms focus on academic achievements, published research, 
+citations, and scholarly contributions. These networks are particularly valuable for recruiters 
+seeking candidates with deep theoretical knowledge, research experience, or academic 
+backgrounds. They provide unique insights into candidates' scholarly work, publication history, 
+and their standing within academic and research communities.
+B1.2.1.4.1 Knowledge All
+The "Knowledge All" option enables a comprehensive search across all academic and research-
+oriented platforms, providing recruiters with a complete view of scholarly talent. This integrated 
+approach allows:
+Access to profiles of academics, researchers, and subject matter experts
+Review of published works, papers, and research contributions
+Assessment of candidates' expertise through citation metrics and peer recognition
+Understanding of research methodologies and specialized knowledge areas
+Discovery of emerging experts and thought leaders in specific fields
+Evaluation of collaboration networks and research partnerships
+This consolidated search is particularly effective when:
+Recruiting for research and development positions
+Seeking experts for specialized scientific roles
+Building teams for knowledge-intensive projects
+Looking for thought leaders in specific academic fields
+Needing candidates with proven research capabilities
+Recruiting for positions requiring advanced degrees or research experience
+Identifying experts for consulting or advisory roles
+B1.2.1.4.2 Academia.edu

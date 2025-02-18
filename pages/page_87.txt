@@ -1,0 +1,31 @@
+Key Characteristics:
+Most valuable when comparing companies of similar:
+oSize
+oIndustry
+oMarket segment
+Helps identify companies successful in:
+oAttracting top talent
+oBuilding competitive advantage through workforce
+oMaintaining high-quality talent pool
+Supports targeted recruitment strategies
+Indicates overall company attractiveness to skilled professionals
+The Competitiveness Score is particularly useful for:
+Understanding talent acquisition success
+Benchmarking against industry competitors
+Identifying high-performing organizations
+Developing recruitment strategies
+Evaluating workforce quality
+D1.2.4 Career Score
+Evaluates a company's commitment to employee development and career progression through 
+six weighted metrics:
+ 
+1. Promotion Loyalty Ratio
+- Compares tenure rates between promoted and non-promoted employees
+- Indicates fairness in promotion practices
+- Shows correlation between loyalty and advancement
+- Reflects recognition of long-term employees
+ 
+2. Young Talent Promotion Ratio
+- Measures proportion of younger employees receiving promotions
+- Shows commitment to developing early-career professionals
+- Indicates opportunities for rapid advancement

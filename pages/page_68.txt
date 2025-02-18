@@ -1,0 +1,27 @@
+B1.2.3.2.16 Internet and Information Technology
+Digital services, software development, cloud computing, and IT infrastructure.
+B1.2.3.2.17 Construction
+Building construction, infrastructure development, and construction management.
+B1.2.3.2.18 Consumer Goods and Retail
+Retail operations, consumer products manufacturing, and distribution services.
+B1.2.3.2.19 Arts and Culture
+Cultural institutions, artistic organizations, and creative industries.
+B1.2.3.2.20 Agriculture
+Farming, agricultural technology, and agribusiness services.
+B1.2.3.2.21 Aviation and Aerospace
+Aviation, space technology, and aerospace engineering
+B1.2.3.2.22 Marketing, PR, and Design
+Marketing services, public relations agencies, and creative design firms.
+B1.2.3.2.23 Media and Publishing  
+Traditional and digital media, publishing houses, and content creation.
+B1.2.3.2.24 Public Service, Associations, and Institutions
+Government agencies, non-profit organizations, and public institutions.
+B1.2.3.2.25 HR Services
+Recruitment, staffing services, and human resource consulting.
+B1.2.3.2.26 Pharmaceuticals
+Pharmaceutical research, manufacturing, and distribution.
+B1.2.3.2.27 Sport
+Professional sports, sports management, and athletic organizations.
+B1.2.3.2.28 Telecommunications
+Communications infrastructure, service providers, and network technologies.
+B1.2.3.2.29 Transport and Logistics

@@ -1,0 +1,26 @@
+Provide an email address for inquiries.
+C1.9.5.16 Phone
+Add a phone number for inquiries.
+C1.9.5.17 URL
+Provide a URL for more information.
+C1.9.5.18 Salary
+Specify salary details:
+C1.9.5.18.1 Minimum Salary
+C1.9.5.18.2 Maximum Salary
+C1.9.5.18.3 Currency
+C1.9.5.18.4 Interval
+C1.9.5.19 Country
+Specify the job’s country.
+C1.9.5.20 Region
+Add the region for the job.
+C1.9.5.21 City
+Include the job’s city.
+C1.9.5.22 Postal Code
+Add the postal code.
+C1.9.5.23 Street
+Provide the street address.
+C1.9.5.24 Add Another Location
+Include additional locations if needed.
+C1.9.5.25 Save and Continue
+Save the details and proceed.
+C1.9.6 Write Introduction

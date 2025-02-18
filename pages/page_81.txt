@@ -1,0 +1,21 @@
+8.Moving Probability : Use "MOBILITY ABOVE" Example: MOBILITY ABOVE 55
+9.Work Experience : Use "YEARS_WORKING" Example: YEARS_WORKING 2 TO  
+4
+10.Current Position Experience : Use "YEARS_IN_JOB" Example: 
+YEARS_IN_JOB 2 TO 4
+11.Candidates with Email : Use "HAS EMAIL"
+12.Candidates with Phone : Use "HAS PHONE"
+13.Professional Groups : Use "IS" or "IS NOT"
+IS FREELANCER/IS NOT FREELANCER
+IS CONSULTANT/IS NOT CONSULTANT
+IS ENTREPRENEUR/IS NOT ENTREPRENEUR
+IS NOT RECRUITER
+IS SCIENTIST/IS NOT SCIENTIST
+IS STUDENT/IS NOT STUDENT
+B1.1.5 Wildcards  Use asterisk () at the end of terms for auto-completion Example: Manag  
+finds "Manager" and "Management"
+B1.1.6 Weight Factors  Use ^ to enhance term relevance Example: Java^4 OR J2EE (makes  
+Java four times more relevant)
+Note: The AI Assist feature helps convert natural language queries into proper Boolean format, 
+making complex searches more accessible.
+D Score Overview

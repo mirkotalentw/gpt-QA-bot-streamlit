@@ -1,0 +1,32 @@
+Family-oriented facilities
+Support systems
+2.Safety Metrics:
+Lack of Crime: Comprehensive safety assessment
+General Safety: Overall security evaluation
+Traffic Safety: Transportation security analysis
+3.Essential Services:
+Education Level: Quality and accessibility of educational institutions
+Hospital Quality: Healthcare system assessment
+Cost Analysis: Monthly expense evaluation relative to quality of life
+Implementation Structure: Each metric utilizes a standardized 5-point rating system:
+Great (5/5)
+Good (4/5)
+Okay (3/5)
+Mediocre (2/5)
+Poor (1/5)
+E1.2.3.2 Social
+Core Understanding: The Social metrics component analyzes the societal fabric and cultural 
+environment of locations, focusing on inclusivity, tolerance, and social freedom indicators.
+Key Assessment Areas:
+1.Cultural Integration:
+Racial Tolerance
+Female Friendly Environment
+LGBTQ+ Acceptance
+Foreigner Integration
+2.Communication:
+English Language Prevalence
+Freedom of Speech
+Cultural Exchange Opportunities
+E1.2.3.3 Infrastructure
+Core Understanding: The Infrastructure assessment evaluates the physical and digital framework 
+that supports daily life, examining both traditional and modern urban amenities.

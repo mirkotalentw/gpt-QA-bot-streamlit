@@ -1,0 +1,31 @@
+Information Technology
+Construction
+Consumer Goods and Retail
+Art and Culture
+Agriculture
+Aerospace
+Marketing, PR, and Design
+Media and Publishing
+Public Sector and Associations
+Staffing and Recruitment
+Pharmaceuticals
+Sports
+Telecommunications
+Transport and Logistics
+Entertainment
+Insurance
+Auditing, Taxes, and Law
+Other Industries
+B1.2.3.3 Experience in Years
+B1.2.3.3.1 From (Specify Years)
+Specify minimum years of experience.
+B1.2.3.3.2 To (Specify Years)
+Specify maximum years of experience.
+B1.2.3.4 Language
+B1.2.3.4.1 Enter Language
+Search for candidates fluent in a specific language.
+B1.2.3.4.2 Pro Tip
+Suggestions for defining language requirements.
+B1.2.3.5 Company
+B1.2.3.5.1 Works At (Enter Company)
+Filter candidates currently employed at a specific company.

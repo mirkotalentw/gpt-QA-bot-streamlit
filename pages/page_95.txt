@@ -1,0 +1,34 @@
+at least one active job ad will be expanded by default, while those with no active ads remain 
+collapsed.
+For each order, you will find the following information:
+Job Title: Taken from the job ad, not from the project it is connected to. This is used as 
+the title of the accordion.
+Job Board: Displays logos of the job boards where your ad is posted.
+More Information: Hover over the “i” icon to see additional details about the purchased 
+product.
+Status: Indicates if the ad is Active (published) or Closed (expired).
+Date Posted: Shows the date when all information was completed and sent to the job 
+board. Note that some boards publish instantly, while others may take up to 24 hours to 
+go live.
+Time Left: Displays the remaining time until the ad expires.
+Expiry Date: Shows the exact date the ad will expire. (the accuracy depend on accuracy  
+of date posted)
+Unpublish: If necessary, you can unpublish your job ad to take it down from the job 
+board.
+Choosing Job Ads Products and Packages
+When you're ready to publish a new job ad, click the "New Job Ad" button to navigate to the 
+Job Ads Center. Here, you can select from a range of job boards and packages tailored to your  
+needs.
+Project Selection:
+When selecting a project, the Job Title and Location fields will be automatically populated 
+based on the project details. However, you can manually adjust these fields without altering 
+your original project selection. These modifications will influence the shop results, ensuring you 
+see relevant job boards based on your changes.
+Job Boards Search :
+A dynamic search bar allows you to find specific job boards quickly, and results adjust as you 
+type.
+Finding the Best Matching Job Board for Your Project
+When selecting a project, the Job Title and Location fields will be automatically populated 
+based on the project details. However, you can manually adjust these fields without altering 
+your original project selection. These adjustments will affect the shop results, ensuring you see 
+relevant job boards based on your changes.

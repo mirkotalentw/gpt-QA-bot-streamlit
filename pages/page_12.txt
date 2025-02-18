@@ -1,0 +1,36 @@
+into two main sections: Project Info and Job Info, each focusing on distinct aspects of the 
+project.
+1.3.1 Project Info Section
+The Project Info section is dedicated to the general details and attributes of the selected 
+project. It includes the following components:
+Project Name:
+Displays the official title of the project for identification purposes.
+Project Color:
+A visual identifier (e.g., magenta) assigned to the project to differentiate it from others in 
+the system.
+Project Status:
+Indicates the current state of the project, such as "High Priority."
+Project ID:
+A unique identifier assigned to the project for internal tracking.
+Organization:
+Displays the name of the organization associated with the project.
+Project Description :
+A field for defining the scope, goals, or additional details about the project, as entered 
+during the project creation phase.
+Project Members :
+Lists all team members assigned to the project, displayed alongside their email addresses 
+to promote transparency and facilitate collaboration.
+Sourced Profiles :
+Displays all candidates that are in the first step of the recruiting process. Here users can 
+see all of the incoming (freshly added) candidates to the project. The ones that made it 
+into the longlist and need more attention.  Each profile includes:
+oCandidate’s name.
+oCurrent job role.
+oNetwork or platform from which the profile was sourced.
+Comments:
+A collaborative space for team members to leave notes, feedback, or discussions about 
+the project. Comments:
+oAre displayed in chronological order.
+oAllow tagging specific team members for engagement.
+Profile Recommendations :
+Provides a curated list of candidates tailored to the project’s requirements.
