@@ -100,8 +100,9 @@ def get_ai_response(user_query: str) -> Tuple[str, float, float]:
     
     llm = ChatOpenAI(
         api_key=OPENAI_API_KEY,
-        model_name="gpt-4",
-        temperature=0
+        model_name="gpt-4o-2024-08-06",
+        temperature=0,
+        max_tokens=5000
     )
     
     # First call to get page numbers
