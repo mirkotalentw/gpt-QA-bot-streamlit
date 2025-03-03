@@ -8,6 +8,8 @@ import json
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import AIMessage
+from pinecone import Pinecone
+from pinecone_plugins.assistant.models.chat import Message
 
 # Load environment variables
 load_dotenv()
@@ -19,8 +21,11 @@ logger = logging.getLogger(__name__)
 # API keys and environment variables
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 USER_PASSWORD = os.getenv('USER_PASSWORD')
+PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 
 client = openai.OpenAI(api_key=OPENAI_API_KEY)
+pc = Pinecone(api_key=PINECONE_API_KEY)
+assistant = pc.assistant.Assistant(assistant_name="test-assistant")
 
 ASSISTANT_ICON_URL = "https://cdn-icons-png.flaticon.com/512/7966/7966941.png"
 USER_ICON_URL = "https://cdn-icons-png.flaticon.com/512/2503/2503707.png"
@@ -184,13 +189,22 @@ def get_direct_ai_response(user_query: str) -> Tuple[str, float, float]:
     response_time = end_time - start_time
     return response.content, price, response_time
 
-def display_chat_history(history: List[Tuple[str, str, str, float, float, float, float]]):
+def get_pinecone_response(user_query: str) -> Tuple[str, float, float]:
+    start_time = time.time()
+    msg = Message(role="user", content=user_query)
+    resp = assistant.chat(messages=[msg])
+    end_time = time.time()
+    response_time = end_time - start_time
+    price = resp['usage']['prompt_tokens']*2.50/1000000 + resp['usage']['completion_tokens']*10/1000000
+    return resp['message']['content'], price, response_time
+
+def display_chat_history(history: List[Tuple[str, str, str, str, float, float, float, float, float, float]]):
     """Display chat history with two responses side by side"""
-    for query, response1, response2, price1, price2, response_time1, response_time2 in history:
+    for query, response1, response2, response3, price1, price2, price3, response_time1, response_time2, response_time3 in history:
         st.markdown(inline_icon_text(USER_ICON_URL, "You: ", "transparent"), unsafe_allow_html=True)
         st.write(query)
         
-        col1, col2 = st.columns(2)
+        col1, col2, col3 = st.columns(3)
         
         with col1:
             st.markdown(inline_icon_text(ASSISTANT_ICON_URL, "Assistant (Page-based): ", "transparent"), unsafe_allow_html=True)
@@ -204,6 +218,13 @@ def display_chat_history(history: List[Tuple[str, str, str, float, float, float,
             st.write(response2)
             st.write(f"Price: {price2} USD")
             st.write(f"Response Time: {response_time2} seconds")
+
+
+        with col3:
+            st.markdown(inline_icon_text(ASSISTANT_ICON_URL, "Assistant (Pinecone): ", "transparent"), unsafe_allow_html=True)
+            st.write(response3)
+            st.write(f"Price: {price3} USD")
+            st.write(f"Response Time: {response_time3} seconds")
             
 
         st.write("---")
@@ -226,9 +247,10 @@ def display_main_app():
             # Get responses from both approaches
             page_based_response, page_based_price, page_based_response_time = get_ai_response(user_query)
             full_doc_response, full_doc_price, full_doc_response_time = get_direct_ai_response(user_query)
+            pinecone_response, pinecone_price, pinecone_response_time = get_pinecone_response(user_query)
             
             # Store both responses in history
-            st.session_state.history.append((user_query, page_based_response, full_doc_response, page_based_price, full_doc_price, page_based_response_time, full_doc_response_time))
+            st.session_state.history.append((user_query, page_based_response, full_doc_response, pinecone_response, page_based_price, full_doc_price, pinecone_price, page_based_response_time, full_doc_response_time, pinecone_response_time))
 
     with chat_container:
         display_chat_history(st.session_state.history)
