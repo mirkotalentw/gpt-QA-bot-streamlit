@@ -25,7 +25,7 @@ PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 
 client = openai.OpenAI(api_key=OPENAI_API_KEY)
 pc = Pinecone(api_key=PINECONE_API_KEY)
-assistant = pc.assistant.Assistant(assistant_name="test-assistant")
+assistant = pc.assistant.Assistant(assistant_name="test-1")
 
 ASSISTANT_ICON_URL = "https://cdn-icons-png.flaticon.com/512/7966/7966941.png"
 USER_ICON_URL = "https://cdn-icons-png.flaticon.com/512/2503/2503707.png"
