@@ -107,10 +107,8 @@ def display_main_app():
         submit_button = st.form_submit_button("Send")
 
     if submit_button and user_query:
-        # Create user message
-        user_message = Message(role="user", content=user_query)
-        # Add user message to history with the Message object
-        st.session_state.history.append((user_query, "", 0, 0, user_message))
+        # Add user message to history
+        st.session_state.history.append((user_query, "", 0, 0))
         
         with st.spinner("Thinking..."):
             # Get response from Pinecone
