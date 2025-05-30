@@ -9,7 +9,6 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import AIMessage
 from pinecone import Pinecone
-from pinecone_plugins.assistant.models.chat import Message
 
 # Load environment variables
 load_dotenv()
@@ -25,7 +24,6 @@ PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 
 client = openai.OpenAI(api_key=OPENAI_API_KEY)
 pc = Pinecone(api_key=PINECONE_API_KEY)
-assistant = pc.assistant.Assistant(assistant_name="test-assistant")
 
 ASSISTANT_ICON_URL = "https://cdn-icons-png.flaticon.com/512/7966/7966941.png"
 USER_ICON_URL = "https://cdn-icons-png.flaticon.com/512/2503/2503707.png"
@@ -191,12 +189,15 @@ def get_direct_ai_response(user_query: str) -> Tuple[str, float, float]:
 
 def get_pinecone_response(user_query: str) -> Tuple[str, float, float]:
     start_time = time.time()
-    msg = Message(role="user", content=user_query)
-    resp = assistant.chat(messages=[msg])
+    # Use the main pinecone package's chat functionality
+    response = pc.chat(
+        messages=[{"role": "user", "content": user_query}],
+        model="gpt-4"
+    )
     end_time = time.time()
     response_time = end_time - start_time
-    price = resp['usage']['prompt_tokens']*2.50/1000000 + resp['usage']['completion_tokens']*10/1000000
-    return resp['message']['content'], price, response_time
+    price = response.usage.prompt_tokens * 2.50/1000000 + response.usage.completion_tokens * 10/1000000
+    return response.message.content, price, response_time
 
 def display_chat_history(history: List[Tuple[str, str, str, str, float, float, float, float, float, float]]):
     """Display chat history with two responses side by side"""

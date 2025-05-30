@@ -9,7 +9,6 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import AIMessage
 from pinecone import Pinecone
-from pinecone_plugins.assistant.models.chat import Message
 
 # Load environment variables
 load_dotenv()
@@ -25,7 +24,6 @@ PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 
 client = openai.OpenAI(api_key=OPENAI_API_KEY)
 pc = Pinecone(api_key=PINECONE_API_KEY)
-assistant = pc.assistant.Assistant(assistant_name="test-1")
 
 ASSISTANT_ICON_URL = "https://cdn-icons-png.flaticon.com/512/7966/7966941.png"
 USER_ICON_URL = "https://cdn-icons-png.flaticon.com/512/2503/2503707.png"
@@ -62,15 +60,19 @@ def get_pinecone_response(chat_history: List) -> Tuple[str, float, float]:
     messages = []
     for element in chat_history:
         if isinstance(element, tuple) and len(element) >= 5:
-            # Extract Message object from the tuple
-            messages.append(element[4])
-        elif isinstance(element, Message):
+            # Extract message from the tuple
+            messages.append({"role": "user", "content": element[0]})
+        elif isinstance(element, dict):
             messages.append(element)
-    resp = assistant.chat(messages=messages)
+    
+    response = pc.chat(
+        messages=messages,
+        model="gpt-4"
+    )
     end_time = time.time()
     response_time = end_time - start_time
-    input_tokens = resp['usage']['prompt_tokens']
-    return resp['message']['content'], input_tokens, response_time
+    input_tokens = response.usage.prompt_tokens
+    return response.message.content, input_tokens, response_time
 
 def display_chat_history(history: List):
     """Display chat history with messages"""
